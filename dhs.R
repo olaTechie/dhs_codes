@@ -3,7 +3,7 @@ library(janitor)
 library(countrycode)
 library(rio)
 
-
+dfHDI <- read_csv("hdi_df.csv")
 dhs <- read_csv("dhs.csv") %>%
   mutate(iso3c = countrycode(countryname, 'country.name', 'iso3c'),
          iso2c = countrycode(countryname, 'country.name', 'iso2c'),
