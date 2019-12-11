@@ -1,0 +1,92 @@
+iso2dhs,countryname,iso3c,iso2c,region,continent
+AF,Afghanistan,AFG,AF,Southern Asia,Asia
+AL,Albania,ALB,AL,Southern Europe,Europe
+AO,Angola,AGO,AO,Middle Africa,Africa
+AM,Armenia,ARM,AM,Western Asia,Asia
+AZ,Azerbaijan,AZE,AZ,Western Asia,Asia
+BD,Bangladesh,BGD,BD,Southern Asia,Asia
+BJ,Benin,BEN,BJ,Western Africa,Africa
+BO,Bolivia,BOL,BO,South America,Americas
+BT,Botswana,BWA,BW,Southern Africa,Africa
+BR,Brazil,BRA,BR,South America,Americas
+BF,Burkina Faso,BFA,BF,Western Africa,Africa
+BU,Burundi,BDI,BI,Eastern Africa,Africa
+KH,Cambodia,KHM,KH,South-Eastern Asia,Asia
+CM,Cameroon,CMR,CM,Middle Africa,Africa
+CV,Cape Verde,CPV,CV,Western Africa,Africa
+CF,Central African Republic,CAF,CF,Middle Africa,Africa
+TD,Chad,TCD,TD,Middle Africa,Africa
+CO,Colombia,COL,CO,South America,Americas
+KM,Comoros,COM,KM,Eastern Africa,Africa
+CG,Congo,COG,CG,Middle Africa,Africa
+CD,Congo Democratic Republic,COD,CD,Middle Africa,Africa
+CI,Cote d'Ivoire,CIV,CI,Western Africa,Africa
+DR,Dominican Republic,DOM,DO,Caribbean,Americas
+EC,Ecuador,ECU,EC,South America,Americas
+EG,Egypt,EGY,EG,Northern Africa,Africa
+ES,El Salvador,SLV,SV,Central America,Americas
+EK,Equatorial Guinea,GNQ,GQ,Middle Africa,Africa
+ER,Eritrea,ERI,ER,Eastern Africa,Africa
+ET,Ethiopia,ETH,ET,Eastern Africa,Africa
+GA,Gabon,GAB,GA,Middle Africa,Africa
+GM,Gambia,GMB,GM,Western Africa,Africa
+GH,Ghana,GHA,GH,Western Africa,Africa
+GU,Guatemala,GTM,GT,Central America,Americas
+GN,Guinea,GIN,GN,Western Africa,Africa
+GY,Guyana,GUY,GY,South America,Americas
+HT,Haiti,HTI,HT,Caribbean,Americas
+HN,Honduras,HND,HN,Central America,Americas
+IA,India,IND,IN,Southern Asia,Asia
+ID,Indonesia,IDN,ID,South-Eastern Asia,Asia
+JO,Jordan,JOR,JO,Western Asia,Asia
+KK,Kazakhstan,KAZ,KZ,Central Asia,Asia
+KE,Kenya,KEN,KE,Eastern Africa,Africa
+KY,Kyrgyz Republic,KGZ,KG,Central Asia,Asia
+LA,Lao People's Democratic Republic,LAO,LA,South-Eastern Asia,Asia
+LS,Lesotho,LSO,LS,Southern Africa,Africa
+LB,Liberia,LBR,LR,Western Africa,Africa
+MD,Madagascar,MDG,MG,Eastern Africa,Africa
+MW,Malawi,MWI,MW,Eastern Africa,Africa
+MV,Maldives,MDV,MV,Southern Asia,Asia
+ML,Mali,MLI,ML,Western Africa,Africa
+MR,Mauritania,MRT,MR,Western Africa,Africa
+MX,Mexico,MEX,MX,Central America,Americas
+MB,Moldova,MDA,MD,Eastern Europe,Europe
+MA,Morocco,MAR,MA,Northern Africa,Africa
+MZ,Mozambique,MOZ,MZ,Eastern Africa,Africa
+MM,Myanmar,MMR,MM,South-Eastern Asia,Asia
+NM,Namibia,NAM,NA,Southern Africa,Africa
+NP,Nepal,NPL,NP,Southern Asia,Asia
+NC,Nicaragua,NIC,NI,Central America,Americas
+NI,Niger,NER,NE,Western Africa,Africa
+NG,Nigeria,NGA,NG,Western Africa,Africa
+OS,Nigeria (Ondo State),NGA,NG,Western Africa,Africa
+PK,Pakistan,PAK,PK,Southern Asia,Asia
+PY,Paraguay,PRY,PY,South America,Americas
+PE,Peru,PER,PE,South America,Americas
+PH,Philippines,PHL,PH,South-Eastern Asia,Asia
+RW,Rwanda,RWA,RW,Eastern Africa,Africa
+WS,Samoa,WSM,WS,Polynesia,Oceania
+ST,Sao Tome and Principe,STP,ST,Middle Africa,Africa
+SN,Senegal,SEN,SN,Western Africa,Africa
+SL,Sierra Leone,SLE,SL,Western Africa,Africa
+ZA,South Africa,ZAF,ZA,Southern Africa,Africa
+LK,Sri Lanka,LKA,LK,Southern Asia,Asia
+SD,Sudan,SDN,SD,Northern Africa,Africa
+SZ,Swaziland,SWZ,SZ,Southern Africa,Africa
+TJ,Tajikistan,TJK,TJ,Central Asia,Asia
+TZ,Tanzania,TZA,TZ,Eastern Africa,Africa
+TH,Thailand,THA,TH,South-Eastern Asia,Asia
+TL,Timor-Leste,TLS,TL,South-Eastern Asia,Asia
+TG,Togo,TGO,TG,Western Africa,Africa
+TT,Trinidad and Tobago,TTO,TT,Caribbean,Americas
+TN,Tunisia,TUN,TN,Northern Africa,Africa
+TR,Turkey,TUR,TR,Western Asia,Asia
+TM,Turkmenistan,TKM,TM,Central Asia,Asia
+UG,Uganda,UGA,UG,Eastern Africa,Africa
+UA,Ukraine,UKR,UA,Eastern Europe,Europe
+UZ,Uzbekistan,UZB,UZ,Central Asia,Asia
+VN,Vietnam,VNM,VN,South-Eastern Asia,Asia
+YE,Yemen,YEM,YE,Western Asia,Asia
+ZM,Zambia,ZMB,ZM,Eastern Africa,Africa
+ZW,Zimbabwe,ZWE,ZW,Eastern Africa,Africa
