@@ -21,7 +21,10 @@ hdi_wide <- read_csv("hdi_df.csv") %>%
 hdi <- read_csv("hdi_df.csv") %>%
   mutate(iso3c = countrycode(country, 'country.name', 'iso3c')) %>%
   gather(year, hdi, `2010`:`2018`) %>%
-  right_join(., dhs)
+  mutate(year = as.numeric(year)) %>%
+  right_join(., dhs) %>%
+  select(-country) %>%
+  select( country = countryname, everything())
 
 export(hdi, "hdi.dta")
 export(hdi, "hdi.csv")
