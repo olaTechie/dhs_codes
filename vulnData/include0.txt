@@ -1,0 +1,1636 @@
+﻿TY  - JOUR
+AB  - Using population-based and family structural data from a high HIV-prevalence district of Southern India, this paper considers four suggested social scenarios used to explain the positive correlation between HIV prevalence and previously married status among Indian women: (1) infection from and then bereavement of an infected husband; (2) abandonment after husbands learn of their wives' HIV status; (3) economic instability after becoming previously married, leading women to seek financial support through male partners; and (4) the social status of being previously married exposing women to sexual harassment and predation. By also considering seroprevalence of two other common sexually transmitted infections (STIs), herpes and syphilis, in a combined variable with HIV, we limit the likelihood of the first two scenarios accounting for the greater part of this correlation. Through a nuanced analysis of household residences patterns (family structure), standard of living, and education, we also limit the probability that scenario three explains a greater portion of the correlation. Scenario four emerges as the most likely explanation for this correlation, recognizing that other scenarios are also possible. Further, the interdisciplinary literature on the social position of previously married women in India strongly supports the suggestion that, as a population, previously married women are sexually vulnerable in India. Previously married status as an STI risk factor requires further biosocial research and warrants concentrated public health attention. © 2012 Taylor & Francis.
+AD  - (Walters) Department of Comparative Human Development, University of Chicago, Chicago, IL, United States (Dandona, Dandona) Public Health Foundation of India, New Delhi, India (Walters) George Romney Institute of Public Management, Brigham Young University, Provo, UT, United States (Lakshmi) Department of Microbiology, Nizam's Institute of Medical Sciences, Hyderabad, India (Dandona) Institute for Health Metrics, University of Washington, Seattle, WA, United States (Schneider) Departments of Medicine and Health Studies, University of Chicago, Chicago, IL, United States
+AN  - 365305137
+DA  - Sep 2012
+DB  - Embase
+DO  - http://dx.doi.org/10.1080/09540121.2012.672715
+IS  - 9
+KW  - adult
+article
+bereavement
+correlational study
+female
+herpes simplex
+human
+*Human immunodeficiency virus infection/ep [Epidemiology]
+India
+major clinical study
+marriage
+prevalence
+priority journal
+religion
+residential area
+seroprevalence
+sexual behavior
+sexuality
+*sexually transmitted disease/ep [Epidemiology]
+social aspect
+social status
+syphilis
+LA  - English
+M3  - Article
+N1  - Using Smart Source Parsing
+( (pp 2012. Date of Publication: 01 Sep 2012
+Walters K.
+Dandona R.
+Walters L.C.
+Lakshmi V.
+Dandona L.
+Schneider J.A.
+PY  - 1103
+SN  - 0954-0121
+SP  - 1103-1110
+ST  - Wives without husbands: Gendered vulnerability to sexually transmitted infections among previously married women in India
+T2  - AIDS Care Psychological and Socio Medical Aspects of AIDS/HIV
+TI  - Wives without husbands: Gendered vulnerability to sexually transmitted infections among previously married women in India
+UR  - https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed13&AN=365305137
+http://pugwash.lib.warwick.ac.uk:4550/resserv?genre=article&issn=0954-0121&title=AIDS+Care+-+Psychological+and+Socio-Medical+Aspects+of+AIDS%2FHIV&date=2012&atitle=Wives+without+husbands%3A+Gendered+vulnerability+to+sexually+transmitted+infections+among+previously+married+women+in+India&volume=24&issue=9&spage=1103&sid=ovid
+VL  - 24
+ID  - 28358
+ER  - 
+
+TY  - JOUR
+AB  - This article examines whether it is possible to target vulnerable households within a geographically defined area. It looks first at the justification for targeting and then reviews recent practical experience in actually trying to reach vulnerable groups. As complex emergencies increasingly last longer, strategies to target vulnerable households are common in the protracted phase of the emergency. While this is often necessary because of a decline in resources, it is not always justified by an improvement in nutritional status or food security of the beneficiary population. Common target groups are the poor and the malnourished, but in complex emergencies these are not always the most vulnerable. Moreover, recent practical experience has shown considerable difficulties in targeting the poor. Methods to target the poor rely on community-based relief committees, whose priorities are not necessarily the same as those of external agencies. This paper gives examples of such targeted assistance programmes in Kenya, south Sudan and Tanzania. The paper concludes that situations where targeting vulnerable households is justified and feasible are extremely limited. It is suggested that if targeting has to be done because of scarce resources, this should be done on a geographical basis and on the basis of nutritional status. Case-study material shows that it is essential to understand the political determinants of vulnerability and to design methods that will reach the most vulnerable.
+AN  - 30057723
+DA  - 1999
+DB  - Embase
+IS  - 4
+KW  - Africa
+altruism
+conference paper
+*disaster
+health
+human
+*nutrition
+organization and management
+poverty
+starvation
+LA  - English
+M3  - Conference Paper
+N1  - Using Smart Source Parsing
+( (pp Date of Publication: December 1999
+Jaspars S.
+Shoham J.
+PY  - 1999
+SN  - 0361-3666
+SP  - 359-372
+ST  - Targeting the vulnerable: A review of the necessity and feasibility of targeting vulnerable households
+T2  - Disasters
+TI  - Targeting the vulnerable: A review of the necessity and feasibility of targeting vulnerable households
+UR  - https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed6&AN=30057723
+http://pugwash.lib.warwick.ac.uk:4550/resserv?genre=article&issn=0361-3666&title=Disasters&date=1999&atitle=Targeting+the+vulnerable%3A+A+review+of+the+necessity+and+feasibility+of+targeting+vulnerable+households&volume=23&issue=4&spage=359&sid=ovid
+VL  - 23
+ID  - 39629
+ER  - 
+
+TY  - JOUR
+AB  - Disaster vulnerability is socially constructed, i.e., it arises out of the social and economic circumstances of everyday living. Most often discussed from the perspective of developing nations, this article extends the argument using American demographic trends. Examples from recent disasters, Hurricane Andrew in particular, illustrate how certain categories of people, such as the poor, the elderly, women-headed households and recent residents, are at greater risk throughout the disaster response process. Knowledge of where these groups are concentrated within communities and the general nature of their circumstances is an important step towards effective emergency management. Emergency planners, policy-makers and responding organisations are encouraged to identify and locate high-risk sectors on Community Vulnerability Maps, integrating this information into GIS systems where feasible. Effective disaster management calls for aggressively involving these neighbourhoods and groups at all levels of planning and response, as well as mitigation efforts that address the root causes of vulnerability.
+AD  - (Morrow) International Hurricane Center, Florida International University, Miami, FL 33199, United States
+AN  - 29231445
+DA  - 1999
+DB  - Embase
+DO  - http://dx.doi.org/10.1111/1467-7717.00102
+IS  - 1
+KW  - aged
+article
+child
+*demography
+*disaster planning
+female
+human
+information system
+methodology
+*risk assessment
+socioeconomics
+United States
+LA  - English
+M3  - Article
+N1  - Using Smart Source Parsing
+( (pp Date of Publication: March 1999
+Morrow B.H.
+PY  - 1999
+SN  - 0361-3666
+SP  - 1-18
+ST  - Identifying and mapping community vulnerability
+T2  - Disasters
+TI  - Identifying and mapping community vulnerability
+UR  - https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed6&AN=29231445
+http://pugwash.lib.warwick.ac.uk:4550/resserv?genre=article&issn=0361-3666&title=Disasters&date=1999&atitle=Identifying+and+mapping+community+vulnerability&volume=23&issue=1&spage=1&sid=ovid
+VL  - 23
+ID  - 39641
+ER  - 
+
+TY  - JOUR
+DA  - 2001/07
+DO  - 10.7748/phc.11.6.20.s19
+IS  - 6
+PY  - 2001
+SE  - 20
+SN  - 0264-5033
+2047-900X
+SP  - 20-21
+ST  - Support of vulnerable patients
+T2  - Primary Health Care
+TI  - Support of vulnerable patients
+UR  - http://dx.doi.org/10.7748/phc.11.6.20.s19
+VL  - 11
+ID  - 23
+ER  - 
+
+TY  - JOUR
+AB  - This study investigated if the terms "families at risk", "poor families", "families of popular class" and "low income families" could be related to the concept of "families in social vulnerability", when used by family therapists. It was performed a documental survey on the proceedings of six Brazilian scientific conferences and of one international conference about family therapy that occurred in Brazil. A quantitative analysis was conducted in order to verify how often these terms were used. A qualitative analysis was also performed in order to identify their definition. From 1994 to 2006, there was an increase from nine to 21 works using the investigated terms. The bibliographic material showed that these different terms are complementary and generally related to families in social vulnerability. (PsycINFO Database Record (c) 2017 APA, all rights reserved)
+AD  - Prati, Laissa Eschiletti: Universidade Federal do Rio Grande do Sul, Brazil
+Couto, Maria Clara P. de Paula: Universidade Federal do Rio Grande do Sul, Brazil
+Koller, Silvia Helena: Universidade Federal do Rio Grande do Sul, Brazil
+DA  - 2009
+DB  - APA PsycInfo
+DO  - http://dx.doi.org/10.1590/S0102-37722009000300014
+IS  - 3
+KW  - *Family Therapy
+*Family
+*Lower Income Level
+*Psychological Terminology
+*Social Deprivation
+At Risk Populations
+Resilience (Psychological)
+Therapists
+LA  - Portuguese
+M3  - Journal
+Peer Reviewed Journal
+N1  - Portuguese
+Prati, Laissa Eschiletti
+Couto, Maria Clara P. de Paula
+Koller, Silvia Helena
+Using Smart Source Parsing
+pp
+OP  - Familias em vulnerabilidade social: Rastreamento de termos utilizados por terapeutas de familia
+PY  - 2009
+SN  - 0102-3772
+SP  - 403-408
+ST  - Families in social vulnerability: Survey on terms used by family therapists
+T2  - Psicologia: Teoria e Pesquisa
+TI  - Families in social vulnerability: Survey on terms used by family therapists
+UR  - https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc6&AN=2009-22890-013
+http://pugwash.lib.warwick.ac.uk:4550/resserv?genre=article&issn=0102-3772&title=Psicologia%3A+Teoria+e+Pesquisa&date=2009&atitle=Families+in+social+vulnerability%3A+Survey+on+terms+used+by+family+therapists.&volume=25&issue=3&spage=403&sid=ovid
+VL  - 25
+ID  - 74960
+ER  - 
+
+TY  - JOUR
+AB  - A Mother Baby Psychiatric Unit poses unique challenges in psychiatric practice owing to the vulnerability of the mother and the infant/fetus and risks due to - 1) Impact of mental illness and the various risks it confers on the mother and infant 2) Treatment including rapid tranquilisation or restraint in mothers who are disturbed and risk to themselves and others 3) The risk imparted by early childhood trauma on current mother infant relationship 4) Psychosocial issues determining placement of the infant and need for supervision in mothering and 5) the role of parenting interventions among women with severe mental illness to mitigate some of these risks and enhance the mother infant relationship. The symposium which will include data from MB Units around the world has five presenters. Several units also admit pregnant mothers who are mentally ill in MB Units. However, apart from the reproductive safety of psychotropic drugs, there is no systematic research into the risks and effectiveness of other aspects of clinical care. These issues and those arising from a woman's impaired mental capacity to make decisions about obstetric and neonatal care will be discussed in the first presentation. The second presentation will discuss factors associated with high risks for the infant that lead to a decision of social or legal supervision or a placement at discharge from joint psychiatric mother-baby units (MBUs) in France and Belgium, from a database of more than 1300 women. The role of formal risk assessment in detecting risk at the time of admission in order to enhance clinical care and minimise risk will be discussed from anMB unit in India. In low and middle income countries, poor nutrition, breast feeding concerns and poor infant health are additional risks that MB unit staff has to manage in addition to violence and self harm. More and more research is emerging on the role of childhood trauma on current mother infant relationship. The fourth presentation is a study using a tool- The CECA Q: Childhood Experience of Care and Abuse questionnaire (Bifulco et al. 2005), which looks at the role of early trauma on mother infant relationship in women with severe mental illness. There are no structured, evidence-based interventions that guide health professionals to help women with severe mental illness, improve early parenting. The Triple P Positive Parenting Programme provides an opportunity to develop the intervention for women with severe postnatal mental illness. In this presentation, the aims underpinning Baby Triple P Positive Parenting Programme will be outlined alongside current research in its use. This symposium will hence discuss five dimensions of risk in MBUs and offer suggestions for management and further research.
+AD  - (Chandra) HSR Layout, India
+AN  - 71915690
+DA  - 2015
+DB  - Embase
+DO  - http://dx.doi.org/10.1007/s00737-014-0488-6
+KW  - *female
+*human
+*mother
+*baby
+*society
+*mental health
+*risk
+infant
+mental disease
+child parent relation
+injury
+childhood
+breast feeding
+nutrition
+income
+India
+risk assessment
+safety
+data base
+France
+health practitioner
+Belgium
+newborn care
+automutilation
+violence
+abuse
+questionnaire
+evidence based practice
+health
+mental capacity
+psychiatric department
+psychotropic agent
+LA  - English
+M3  - Conference Abstract
+N1  - Chandra P.
+PY  - 2015
+SN  - 1434-1816
+SP  - International Marce Society for Perinatal Mental Health Biennial Scientific Conference 2014. Swansea United Kingdom. Conference Publication: (var.pagings). 18 (2) (pp 370)
+ST  - Risks and vulnerabilities-challenging situations and possible solutions in mother baby units
+T2  - Archives of Women's Mental Health
+TI  - Risks and vulnerabilities-challenging situations and possible solutions in mother baby units
+UR  - https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=emed16&AN=71915690
+http://pugwash.lib.warwick.ac.uk:4550/resserv?genre=article&issn=1434-1816&title=Archives+of+Women%27s+Mental+Health&date=2015&atitle=Risks+and+vulnerabilities-challenging+situations+and+possible+solutions+in+mother+baby+units&volume=18&issue=2&spage=370&sid=ovid
+VL  - Conference
+ID  - 22966
+ER  - 
+
+TY  - JOUR
+AB  - The present study explored sources of resilience for 10 Latino family caregivers to relatives suffering from dementia. It sought to capture the experience of Latino family caregivers, focusing on the sources of support, the values and the beliefs that they saw as helping them to cope with their caregiving role. Much of the current literature addressing family caregivers of dementia patients has focused on the negative psychological ramifications of caregiving. Few studies inquiring about sources of support and resilience associated with caregiving have focused specifically on how Latinos experience caregiving responsibilities for relatives. Even fewer have addressed the factors that may contribute to resilience in this population of family caregivers. The participants of the study were recruited at community health centers, churches, and senior day programs that served Latino communities in southern New England. Nine participants were women and one was a man; nine were Puerto Rican and one was Dominican. All were caring for relatives with Alzheimer's or some other form of dementia. In individual semi-structured qualitative interviews, participants were asked about their caregiving experiences; specific questions inquired about factors that promoted their coping as caregivers. The results of the current study support the extant literature, which has indicated that Latinos' decisions to become caregivers to family members are influenced by cultural values and customs. The results also highlighted the significant role that spirituality and family played in fostering resilience for these caregivers. While participants spoke about the challenges of their roles, they all also identified multiple sources of support and described personal growth from their caregiving roles. Relatively few respondents cited that health care providers as offering significant support during their caregiving experience. They expressed a desire for more support by providers and emphasized the need for cultural sensitivity in the healthcare community. The results point to the importance of training healthcare professionals to be better informed and responsive to the cultural values of the Latino community and to the emotional needs of Latino family caregivers. Future research should seek to determine if these findings can be generalized to a broader and more diverse Latino caregiver population. (PsycINFO Database Record (c) 2017 APA, all rights reserved)
+AD  - Berberena, Santia: William James College, Clinical Psychology, US
+DB  - APA PsycInfo
+IS  - 4-B(E
+KW  - *Caregivers
+*Dementia
+*Resilience (Psychological)
+LA  - English
+M3  - Dissertation Abstract
+N1  - Berberena, Santia
+Using Smart Source Parsing
+pp. No Pagination Specified
+PY  - 2017
+SN  - 0419-4217
+ST  - Sources of resilience for Latino family caregivers of dementia patients: A phenomenological study
+T2  - Dissertation Abstracts International: Section B: The Sciences and Engineering
+TI  - Sources of resilience for Latino family caregivers of dementia patients: A phenomenological study
+UR  - https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc14&AN=2017-05719-126
+http://pugwash.lib.warwick.ac.uk:4550/resserv?genre=article&issn=0419-4217&title=Dissertation+Abstracts+International%3A+Section+B%3A+The+Sciences+and+Engineering&date=2017&atitle=Sources+of+resilience+for+Latino+family+caregivers+of+dementia+patients%3A+A+phenomenological+study.&volume=78&issue=4-B%28E%29&spage=No&sid=ovid
+VL  - 78
+ID  - 70966
+ER  - 
+
+TY  - JOUR
+AB  - Youth violence will be one of the most challenging threats to adolescent health in the 21st Century. Building individual and family resilience have proven to be effective prevention measures against youth violence; however, they do not adequately address inequities in violence-related health outcomes among adolescents. To improve health equity, it is imperative that prevention measures not only curtail violence, but also curb its harmful effects --- particularly inequities in vulnerabilities that give rise to inequities in health. Emerging research suggests that building community resilience may support prevention efforts at the individual and family levels while concurrently reducing vulnerability to risk factors for youth violence at the population level. Notwithstanding, the public health literature on community resilience against chronic adversities, such as youth violence, is limited. The public health relevance of this dissertation is that it fills a gap in knowledge on community resilience that could improve health equity. Through a stakeholder-engaged case study, community resilience against gang violence (as an example of youth violence) and its harmful effects was explored in Belize. A social ecological model, human security approach, community-based participatory research, and concept mapping were employed to identify factors of community resilience; to rate their importance for building community resilience; and to articulate how they work with each other to build community resilience. Multidimensional scaling and hierarchical cluster analysis resulted in a 7-cluster concept map, which was used to develop working theories on how factors work with one another to build community resilience. Working theories support a framework for community resilience with three main areas: Area I, a foundation of "essential building blocks" of survival, livelihood, and dignity through the provision of human security; Area II, a strengthening of community assets and social dimensions facilitated by a sense of community, social capital, and social connectedness; and Area III, a transformation of collective efficacy into community empowerment and collective action towards reducing, adapting to, or recovering from adversity (e.g., gang violence). Future research will include building a case series, which will allow for theory testing and refinement of the framework for community resilience against the chronic adversity of gang violence. (PsycINFO Database Record (c) 2019 APA, all rights reserved)
+AD  - Flores, Francisca: University of Pittsburgh, Behavioral and Community Health Sciences, US
+DB  - APA PsycInfo
+IS  - 8-B(E
+KW  - *Resilience (Psychological)
+*Violence
+*Stakeholder
+LA  - English
+M3  - Dissertation Abstract
+N1  - Flores, Francisca
+Using Smart Source Parsing
+pp. No Pagination Specified
+PY  - 2019
+SN  - 0419-4217
+ST  - Community resilience, health, and human security: A stakeholder-engaged case study on gang violence and its harmful effects on adolescents in Belize
+T2  - Dissertation Abstracts International: Section B: The Sciences and Engineering
+TI  - Community resilience, health, and human security: A stakeholder-engaged case study on gang violence and its harmful effects on adolescents in Belize
+UR  - https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc16&AN=2019-41142-059
+http://pugwash.lib.warwick.ac.uk:4550/resserv?genre=article&issn=0419-4217&title=Dissertation+Abstracts+International%3A+Section+B%3A+The+Sciences+and+Engineering&date=2019&atitle=Community+resilience%2C+health%2C+and+human+security%3A+A+stakeholder-engaged+case+study+on+gang+violence+and+its+harmful+effects+on+adolescents+in+Belize.&volume=80&issue=8-B%28E%29&spage=No&sid=ovid
+VL  - 80
+ID  - 69634
+ER  - 
+
+TY  - JOUR
+AB  - Successful adaptation among immigrant youths is a highly important issue for multiple stakeholders in many countries because of its potential long-term significance for the well-being of migrants and the prosperity and social cohesion of the receiving societies. In this article, I examine immigrant-youth adaptation through the lens of a recently developed resilience model. What are the risks that threaten immigrant youths' adaptation? What are the promotive or protective influences that support their positive adaptation? These questions are addressed using scientific evidence drawn from the Athena Studies of Resilient Adaptation project, a two-cohort, three-wave longitudinal project on immigrant-youth adaptation conducted in Greece, as well as from the international literature. Risks and resources for immigrant youths' concurrent and long-term adaptation are examined in societal, developmental, and acculturative contexts. The integrative model and related scientific findings may inform public policy, as well as guide future research. (PsycINFO Database Record (c) 2019 APA, all rights reserved)
+AD  - Motti-Stefanidi, Frosso: Department of Psychology, National and Kapodistrian University of Athens, Athens, Greece
+DA  - 2019
+DB  - APA PsycInfo
+DO  - http://dx.doi.org/10.1177/0963721419861412
+IS  - 5
+KW  - *Immigration
+*Peer Relations
+*Resilience (Psychological)
+*School Adjustment
+*Social Issues
+Adaptation
+Adjustment
+Group Cohesion
+Human Migration
+Mental Health
+Society
+Well Being
+Stakeholder
+Adolescent Behavior
+LA  - English
+M3  - Journal
+Peer Reviewed Journal
+N1  - Motti-Stefanidi, Frosso
+Using Smart Source Parsing
+pp
+PY  - 2019
+SN  - 0963-7214
+SP  - 510-517
+ST  - Resilience among immigrant youths: Who adapts well, and why? [References]
+T2  - Current Directions in Psychological Science
+TI  - Resilience among immigrant youths: Who adapts well, and why? [References]
+UR  - https://ovidsp.ovid.com/ovidweb.cgi?T=JS&CSC=Y&NEWS=N&PAGE=fulltext&D=psyc16&AN=2019-60459-014
+http://pugwash.lib.warwick.ac.uk:4550/resserv?genre=article&issn=0963-7214&title=Current+Directions+in+Psychological+Science&date=2019&atitle=Resilience+among+immigrant+youths%3A+Who+adapts+well%2C+and+why%3F&volume=28&issue=5&spage=510&sid=ovid
+VL  - 28
+ID  - 69635
+ER  - 
+
+TY  - JOUR
+AB  - The notion of risk underlying the concept of vulnerability implies that everyone is potentially vulnerable (or at risk), that is, there is always a chance of developing health problems. The risk is, however, greater for those with the least social status, social capital, and human capital resources to either prevent or ameliorate the origins and consequences of poor physical, psychological, or social health. The completeness and accuracy of information on the health status of the vulnerable populations examined here varies substantially across groups. Methodological work is needed to derive standardized definitions of terms, specify the content and timing for collecting information for minimum basic data sets, and develop uniform standards for evaluating and reporting data quality on the health status of vulnerable populations. The variety of indicators of vulnerable populations examined indicates that during the decade of the 1980s the incidence of serious physical, psychological, and/or social needs increased (at worst) and was unameliorated (at best) for millions of Americans. AIDS emerged as a new and deadly threat from a handful of cases classified as Gay-Related Immune Deficiency in the early part of the 1980s to what now may be over a million Americans who are HIV-positive. The number of homeless has increased an average of 20% a year to estimates now ranging up to one million men, women, or children homeless on any given night to twice that number who may be homeless sometime during the year. Over seven million people immigrated to the United States during the period from 1981 to 1990--an increasing proportion of whom are refugees carrying with them the physical, psychological, and social wounds of war. The number of children abused by family members or other intimates has burgeoned to an estimated 1.6 to 1.7 million per year, and with the greater use of firearms, intentional acts of violence towards oneself or others are becoming increasingly deadly in their consequences. Though fewer Americans smoke, drink, and use illicit drugs in general than was the case earlier in the decade of the 1980s, the use of cocaine (and particularly crack) among hard-core addicts has resulted in increases in the number of drug-related deaths.(ABSTRACT TRUNCATED AT 400 WORDS)
+AD  - University of Texas School of Public Health, Houston 77225.
+AN  - 8054096
+AU  - Aday, L. A.
+DA  - 1994/05
+DO  - 10.1146/annurev.pu.15.050194.002415
+ET  - 1994/01/01
+IS  - 1
+KW  - Acquired Immunodeficiency Syndrome/epidemiology
+Adult
+Chronic Disease/epidemiology
+Disabled Persons
+Female
+Health Resources
+Health Services Needs and Demand
+Health Services Research
+*Health Status
+*Health Status Indicators
+Homeless Persons
+Humans
+Infant Mortality
+Infant, Low Birth Weight
+Infant, Newborn
+Maternal Mortality
+Mental Disorders/epidemiology
+*Population Surveillance
+Refugees
+Risk Factors
+Substance-Related Disorders/epidemiology
+Transients and Migrants
+United States/epidemiology
+L1  - internal-pdf://1382062876/Aday-1994-Health Status of Vulnerable Populati.pdf
+N1  - Aday, L A
+eng
+Review
+Annu Rev Public Health. 1994;15:487-509. doi: 10.1146/annurev.pu.15.050194.002415.
+PY  - 1994
+SN  - 0163-7525 (Print)
+0163-7525 (Linking)
+SP  - 487-509
+ST  - Health status of vulnerable populations
+T2  - Annu Rev Public Health
+TI  - Health status of vulnerable populations
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/8054096
+VL  - 15
+ID  - 2
+ER  - 
+
+TY  - JOUR
+AB  - PURPOSE OF REVIEW: To describe inequalities in perinatal and maternal mortality, and morbidity from an international high-income country perspective. Measures of inequalities are socioeconomic status, ethnic background, and living area. RECENT FINDINGS: Despite decreasing overall perinatal and maternal mortality in high-income countries, perinatal and maternal health inequalities persist. Inequalities in fetal, neonatal, and maternal adverse outcome relate to specific groups of risk factors. They commonly have a background in so-called structural risk factors, that is low level of education and income, being a migrant and living in disadvantaged areas. Structural risk factors therefore drive inequalities, and simultaneously represent the common perspective to judge perinatal and maternal health gaps. The effect of risk factors is further magnified in urban areas through risk accumulation.As mother and child share their background, neonatal, and maternal adverse health outcome patterns coincide, resulting in similar inequalities and similar epidemiological trends. The structural background explains the difficulty of improving this. SUMMARY: Inequalities in perinatal and maternal outcome persist in women from lower socioeconomic groups, from specific ethnic groups, and from those living in deprived areas. In view of the lifelong consequences, these marked social disparities pose an important challenge for the political decision makers and the healthcare system.
+AD  - Department of Obstetrics and Gynaecology, Division of Obstetrics and Prenatal Medicine, Erasmus MC, University Medical Centre Rotterdam, Rotterdam, The Netherlands. j.degraaf@erasmusmc.nl
+AN  - 23425665
+AU  - de Graaf, J. P.
+AU  - Steegers, E. A.
+AU  - Bonsel, G. J.
+DA  - Apr
+DO  - 10.1097/GCO.0b013e32835ec9b0
+ET  - 2013/02/22
+IS  - 2
+KW  - Developed Countries
+Educational Status
+Ethnic Groups
+Female
+*Health Status Disparities
+Humans
+Infant
+Infant, Newborn
+Male
+Maternal Mortality
+*Maternal Welfare
+Obesity/*epidemiology/ethnology
+Perinatal Care/standards/*statistics & numerical data
+Pregnancy
+Pregnancy Complications/*epidemiology/ethnology
+Prenatal Exposure Delayed Effects/*epidemiology/ethnology
+Risk Factors
+Social Class
+Social Environment
+Socioeconomic Factors
+Substance-Related Disorders/*epidemiology/ethnology
+N1  - de Graaf, Johanna P
+Steegers, Eric A P
+Bonsel, Gouke J
+eng
+Review
+England
+Curr Opin Obstet Gynecol. 2013 Apr;25(2):98-108. doi: 10.1097/GCO.0b013e32835ec9b0.
+PY  - 2013
+SN  - 1473-656X (Electronic)
+1040-872X (Linking)
+SP  - 98-108
+ST  - Inequalities in perinatal and maternal health
+T2  - Curr Opin Obstet Gynecol
+TI  - Inequalities in perinatal and maternal health
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/23425665
+VL  - 25
+ID  - 50
+ER  - 
+
+TY  - JOUR
+AB  - Population aging forces governments to change their policy on elderly care. Older people, even if they are frail and disabled, are motivated to stay in their own homes and environment for as long as possible. Consequently, the early detection of frail older persons is appropriate to avoid adverse outcomes. Several instruments to detect frailty exist, but none use environmental indicators. This study addresses the development and psychometric properties of the Comprehensive Frailty Assessment Instrument (CFAI). This new self-reporting instrument includes physical, psychological, social and environmental domains. The CFAI showed good fit indices and a high reliability. The underlying structure of the CFAI demonstrates the multidisciplinary nature of frailty. Using the CFAI can stimulate nurses and other community healthcare providers toward a more holistic approach of frailty and can guide them to take appropriate interventions to prevent adverse outcomes such as disabilities or hospitalization.
+AD  - Faculty of Education, Health and Social Work, University College Ghent, Ghent, Belgium. Nico.dewitte@hogent.be
+AN  - 23608069
+AU  - De Witte, N.
+AU  - Gobbens, R.
+AU  - De Donder, L.
+AU  - Dury, S.
+AU  - Buffel, T.
+AU  - Schols, J.
+AU  - Verte, D.
+DA  - Jul-Aug
+DO  - 10.1016/j.gerinurse.2013.03.002
+ET  - 2013/04/24
+IS  - 4
+KW  - Aged
+Aged, 80 and over
+*Frail Elderly
+*Geriatric Assessment
+Humans
+Community
+Elderly
+Frailty
+Older persons
+Validation study
+N1  - De Witte, Nico
+Gobbens, Robbert
+De Donder, Liesbeth
+Dury, Sarah
+Buffel, Tine
+Schols, Jos
+Verte, Dominique
+eng
+Research Support, Non-U.S. Gov't
+Validation Study
+Geriatr Nurs. 2013 Jul-Aug;34(4):274-81. doi: 10.1016/j.gerinurse.2013.03.002. Epub 2013 Apr 19.
+PY  - 2013
+SN  - 1528-3984 (Electronic)
+0197-4572 (Linking)
+SP  - 274-81
+ST  - The comprehensive frailty assessment instrument: development, validity and reliability
+T2  - Geriatr Nurs
+TI  - The comprehensive frailty assessment instrument: development, validity and reliability
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/23608069
+VL  - 34
+ID  - 34
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The field of risk assessment has focused on protecting the health of individual people or populations of wildlife from single risks, mostly from chemical exposure. The U.S. Environmental Protection Agency recently began to address multiple risks to communities in the "Framework for Cumulative Risk Assessment" [EPA/630/P02/001F. Washington DC:Risk Assessment Forum, U.S. Environmental Protection Agency (2003)]. Simultaneously, several reports concluded that some individuals and groups are more vulnerable to environmental risks than the general population. However, vulnerability has received little specific attention in the risk assessment literature. OBJECTIVE: Our objective is to examine the issue of vulnerability in cumulative risk assessment and present a conceptual framework rather than a comprehensive review of the literature. In this article we consider similarities between ecologic and human communities and the factors that make communities vulnerable to environmental risks. DISCUSSION: The literature provides substantial evidence on single environmental factors and simple conditions that increase vulnerability or reduce resilience for humans and ecologic systems. This observation is especially true for individual people and populations of wildlife. Little research directly addresses the topic of vulnerability in cumulative risk situations, especially at the community level. The community level of organization has not been adequately considered as an end point in either human or ecologic risk assessment. Furthermore, current information on human risk does not completely explain the level of response in cumulative risk conditions. Ecologic risk situations are similarly more complex and unpredictable for cases of cumulative risk. CONCLUSIONS: Psychosocial conditions and responses are the principal missing element for humans. We propose a model for including psychologic and social factors as an integral component of cumulative risk assessment.
+AD  - Virginia Commonwealth University, Richmond, Virginia 23284, USA. pldefur@vcu.edu
+AN  - 17520073
+AU  - DeFur, P. L.
+AU  - Evans, G. W.
+AU  - Cohen Hubal, E. A.
+AU  - Kyle, A. D.
+AU  - Morello-Frosch, R. A.
+AU  - Williams, D. R.
+C2  - PMC1867984
+DA  - May
+DB  - PubMed
+DO  - 10.1289/ehp.9332
+ET  - 2007/05/24
+IS  - 5
+J2  - Environ Health Perspect
+KW  - Age Factors
+Data Interpretation, Statistical
+*Ecosystem
+*Environmental Exposure
+Environmental Pollutants/*toxicity
+Humans
+*Models, Theoretical
+*Public Health
+Risk Assessment/*methods
+Socioeconomic Factors
+*Vulnerable Populations
+L1  - internal-pdf://0367772298/DeFur-2007-Vulnerability as a function of indi.pdf
+LA  - eng
+N1  - DeFur, Peter L
+Evans, Gary W
+Cohen Hubal, Elaine A
+Kyle, Amy D
+Morello-Frosch, Rachel A
+Williams, David R
+eng
+Research Support, U.S. Gov't, Non-P.H.S.
+Environ Health Perspect. 2007 May;115(5):817-24. doi: 10.1289/ehp.9332. Epub 2007 Jan 24.
+PY  - 2007
+SN  - 0091-6765 (Print)
+0091-6765 (Linking)
+SP  - 817-24
+ST  - Vulnerability as a function of individual and group resources in cumulative risk assessment
+T2  - Environ Health Perspect
+TI  - Vulnerability as a function of individual and group resources in cumulative risk assessment
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/17520073
+VL  - 115
+ID  - 3
+ER  - 
+
+TY  - JOUR
+AB  - Immigrants have been identified as a vulnerable population, but there is heterogeneity in the degree to which they are vulnerable to inadequate health care. Here we examine the factors that affect immigrants' vulnerability, including socioeconomic background; immigration status; limited English proficiency; federal, state, and local policies on access to publicly funded health care; residential location; and stigma and marginalization. We find that, overall, immigrants have lower rates of health insurance, use less health care, and receive lower quality of care than U.S.-born populations; however, there are differences among subgroups. We conclude with policy options for addressing immigrants' vulnerabilities.
+AD  - RAND, Santa Monica, California, USA. derose@rand.org
+AN  - 17848435
+AU  - Derose, K. P.
+AU  - Escarce, J. J.
+AU  - Lurie, N.
+DA  - Sep-Oct
+DO  - 10.1377/hlthaff.26.5.1258
+ET  - 2007/09/13
+IS  - 5
+KW  - Emigrants and Immigrants/classification/*statistics & numerical data
+Family Health/ethnology
+*Health Policy
+Health Services Accessibility
+*Health Status Disparities
+*Healthcare Disparities
+Humans
+Insurance Coverage
+Medically Uninsured/*ethnology
+Poverty/ethnology
+Residence Characteristics
+Social Isolation
+United States/epidemiology
+Vulnerable Populations/*ethnology
+N1  - Derose, Kathryn Pitkin
+Escarce, Jose J
+Lurie, Nicole
+eng
+Research Support, Non-U.S. Gov't
+Health Aff (Millwood). 2007 Sep-Oct;26(5):1258-68. doi: 10.1377/hlthaff.26.5.1258.
+PY  - 2007
+SN  - 1544-5208 (Electronic)
+0278-2715 (Linking)
+SP  - 1258-68
+ST  - Immigrants and health care: sources of vulnerability
+T2  - Health Aff (Millwood)
+TI  - Immigrants and health care: sources of vulnerability
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/17848435
+VL  - 26
+ID  - 18
+ER  - 
+
+TY  - JOUR
+AB  - AIM: This paper is a report of an analysis of the concept of vulnerability in homeless adolescents. BACKGROUND: Caring for vulnerable populations and reduction of health inequities are top international healthcare priorities. Homeless adolescents experience health disparities as compared to their housed counterparts and are among the most vulnerable of all populations. Understanding the concept of vulnerability as it relates to the homeless adolescent population will assist nurses in addressing the health and social concerns of this population. DATA SOURCES: The PubMed, Medline, Cochrane and CINAHL electronic databases were used to search for research papers published between 1980 and 2009. The keywords 'vulnerable', 'vulnerability' and 'homeless', 'adolescent', 'street' and 'youth' were used. Twenty-three papers from multiple disciplines were reviewed in an effort to arrive at a global definition of homeless adolescents' vulnerability. METHOD: Rodgers' evolutionary method of concept analysis was used for the analysis. RESULTS: Based on this analysis, vulnerability in homeless adolescents is defined as the constellation of past, present and future risk, perceived or real, because of the common human experience of risk, the increased vulnerability of the adolescent period, the consequences of family disruption, and the increased risks of life on the street. CONCLUSION: There was agreement in the literature regarding the antecedents, attributes, consequences and surrogate terms of the concept. However, differentiation between the concepts of risk and vulnerability, as suggested by seminal nurse researchers, was not supported. More research is needed into self-perceptions of vulnerability and vulnerability in subgroups of homeless adolescents.
+AD  - New York University College of Nursing, New York, New York, USA. caroline.dorsen@nyu.edu
+AN  - 21073499
+AU  - Dorsen, C.
+DA  - Dec
+DO  - 10.1111/j.1365-2648.2010.05375.x
+ET  - 2010/11/16
+IS  - 12
+KW  - Adolescent
+Adolescent Behavior
+Adult
+Child
+*Concept Formation
+Developed Countries
+Family Conflict
+Female
+*Health Status Disparities
+Healthcare Disparities
+Homeless Youth/*psychology/statistics & numerical data
+Humans
+Male
+*Nursing Theory
+Risk Factors
+Risk-Taking
+Socioeconomic Factors
+*Vulnerable Populations
+Young Adult
+N1  - Dorsen, Caroline
+eng
+England
+J Adv Nurs. 2010 Dec;66(12):2819-27. doi: 10.1111/j.1365-2648.2010.05375.x.
+PY  - 2010
+SN  - 1365-2648 (Electronic)
+0309-2402 (Linking)
+SP  - 2819-27
+ST  - Vulnerability in homeless adolescents: concept analysis
+T2  - J Adv Nurs
+TI  - Vulnerability in homeless adolescents: concept analysis
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/21073499
+VL  - 66
+ID  - 6
+ER  - 
+
+TY  - DATA
+AU  - Fassaert, Thijs
+AU  - Lauriks, Steve
+AU  - van de Weerd, Stef
+AU  - Theunissen, Jan
+AU  - Kikkert, Martijn
+AU  - Dekker, Jack
+AU  - Buster, Marcel
+AU  - de Wit, Matty
+DO  - 10.1037/t46573-000
+PB  - American Psychological Association (APA)
+PY  - 2014
+ST  - Self-Sufficiency Matrix Scale—Dutch Version
+TI  - Self-Sufficiency Matrix Scale—Dutch Version
+UR  - http://dx.doi.org/10.1037/t46573-000
+ID  - 49
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: A conceptual model for vulnerable populations research relates resource availability and relative risk to health status. The model has a population-based focus that places responsibility for the collective health status of its citizens with the community. Vulnerable populations are social groups who experience limited resources and consequent high relative risk for morbidity and premature mortality. There is considerable research evidence to support the major relationships in the model. Conceptual links that need additional research are identified. CONCLUSIONS: The implications for research include a variety of methodological problems related to recruiting and retaining participants, instrumentation, and data collection. Research designs are needed that move beyond descriptive and epidemiological approaches to interventional and outcome studies. Ethical considerations take on special significance with vulnerable populations.
+AD  - UCLA School of Nursing, USA.
+AN  - 9536190
+AU  - Flaskerud, J. H.
+AU  - Winslow, B. J.
+DA  - Mar-Apr
+DO  - 10.1097/00006199-199803000-00005
+ET  - 1998/04/16
+IS  - 2
+KW  - *Community Health Planning
+Data Collection
+Health Resources/*supply & distribution
+Health Services Accessibility
+*Health Status
+Humans
+*Medical Indigency
+*Models, Nursing
+Morbidity
+Nursing Research/*organization & administration
+Research Design/*standards
+Risk
+Risk Factors
+N1  - Flaskerud, J H
+Winslow, B J
+eng
+Review
+Nurs Res. 1998 Mar-Apr;47(2):69-78. doi: 10.1097/00006199-199803000-00005.
+PY  - 1998
+SN  - 0029-6562 (Print)
+0029-6562 (Linking)
+SP  - 69-78
+ST  - Conceptualizing vulnerable populations health-related research
+T2  - Nurs Res
+TI  - Conceptualizing vulnerable populations health-related research
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/9536190
+VL  - 47
+ID  - 5
+ER  - 
+
+TY  - JOUR
+AB  - INTRODUCTION: There are many different conceptual definitions of frailty in circulation. Most of these definitions focus mainly on physical problems affecting older people. Only a few also draw attention to other domains of human functioning such as the psychological domain. The authors of this article fear that this could lead to fragmentation of care for frail older people. The aim is to develop an integral conceptual definition of frailty that starts from the premise of a holistic view of the person. METHODS: To achieve this, a literature search was carried out. Thereafter a group of experts (N=20) were consulted, both verbally during 2 expert meetings and via a written questionnaire. These experts were asked which existing conceptual definition of frailty places most stress on the integral functioning of older people. RESULTS: The experts expressed a clear preference for one of the conceptual definitions. The result of the literature search and the consultation with the experts led to a new integral conceptual definition of frailty. CONCLUSION: The conceptual definition is intended to offer a framework for an operational definition of frailty for identifying frail older people.
+AD  - Tranzo Academic Centre for Transformation in Care and Welfare, Tilburg University, Tilburg, The Netherlands. r.j.j.gobbens@uvt.nl
+AN  - 20511101
+AU  - Gobbens, R. J.
+AU  - Luijkx, K. G.
+AU  - Wijnen-Sponselee, M. T.
+AU  - Schols, J. M.
+DA  - Jun
+DO  - 10.1016/j.jamda.2009.09.015
+ET  - 2010/06/01
+IS  - 5
+KW  - Aged
+Aged, 80 and over
+*Concept Formation
+*Expert Testimony
+*Frail Elderly
+Humans
+Review Literature as Topic
+Surveys and Questionnaires
+United States
+N1  - Gobbens, Robbert J J
+Luijkx, Katrien G
+Wijnen-Sponselee, Maria Th
+Schols, Jos M G A
+eng
+J Am Med Dir Assoc. 2010 Jun;11(5):338-43. doi: 10.1016/j.jamda.2009.09.015. Epub 2010 Mar 24.
+PY  - 2010
+SN  - 1538-9375 (Electronic)
+1525-8610 (Linking)
+SP  - 338-43
+ST  - In search of an integral conceptual definition of frailty: opinions of experts
+T2  - J Am Med Dir Assoc
+TI  - In search of an integral conceptual definition of frailty: opinions of experts
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/20511101
+VL  - 11
+ID  - 1
+ER  - 
+
+TY  - JOUR
+AB  - OBJECTIVES: Most conceptual and operational definitions of frailty place heavy emphasis on the physical problems encountered by older people. The accompanying models are based largely on a medical model. An integral approach is almost never adopted. This study aims to develop both an integral operational definition of frailty and an integral conceptual model of frailty. DESIGN: In order to achieve these aims, a thorough literature search was performed on components of operational definitions and models of frailty. In addition, experts (N=17) were consulted during two expert meetings. RESULTS: There was consensus among the experts on the inclusion of the following components in the operational definition of frailty: strength, balance, nutrition, endurance, mobility, physical activity and cognition. Some respondents indicated that they would wish to add components from the psychological or social domain. Supported by results from the literature search, a new integral operational definition of frailty was developed. This operational definition lies at the heart of an integral conceptual working model of frailty. This model expresses the relationships between three domains of frailty, adverse outcomes such as disability and the determinants. CONCLUSION: The model should be able to serve as a basis for further scientific research on frailty. The model also provides a framework for the development of a measurement instrument which can be used for the identification of frail elderly persons.
+AD  - Tilburg University, Tranzo, PO Box 90153, 5000 LE Tilburg, The Netherlands. r.j.j.gobbens@uvt.nl
+AN  - 20191249
+AU  - Gobbens, R. J.
+AU  - Luijkx, K. G.
+AU  - Wijnen-Sponselee, M. T.
+AU  - Schols, J. M.
+DA  - Mar
+DO  - 10.1007/s12603-010-0045-6
+ET  - 2010/03/02
+IS  - 3
+KW  - Activities of Daily Living
+Aged
+Aging
+Concept Formation
+Disability Evaluation
+*Frail Elderly
+Geriatric Assessment/*methods
+Humans
+*Models, Biological
+Social Environment
+N1  - Gobbens, R J J
+Luijkx, K G
+Wijnen-Sponselee, M T
+Schols, J M G A
+eng
+France
+J Nutr Health Aging. 2010 Mar;14(3):175-81. doi: 10.1007/s12603-010-0045-6.
+PY  - 2010
+SN  - 1760-4788 (Electronic)
+1279-7707 (Linking)
+SP  - 175-81
+ST  - Towards an integral conceptual model of frailty
+T2  - J Nutr Health Aging
+TI  - Towards an integral conceptual model of frailty
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/20191249
+VL  - 14
+ID  - 48
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The aim of this paper is to share the results of a scoping review that examined the relationship between health care disparities and the multiplicity of vulnerability factors that are often clustered together. METHODS: The conceptual framework used was an innovative dynamic model that we developed to analyze the co-existence of multiple vulnerability factors (multi-vulnerability) related to the phenomenon of the 'Inverse Care Law'. A total of 759 candidate references were identified through a literature search, of which 23 publications were deemed relevant to our scoping review. RESULTS: The review confirmed our hypothesis of a direct correlation between co-existing vulnerability factors and health care disparities. Several gaps in the literature were identified, such as a lack of research on vulnerable populations' perception of their own vulnerability and on multimorbidity and immigrant status as aspects of vulnerability. CONCLUSIONS: Future research addressing the revealed gaps would help foster primary care interventions that are responsive to the needs of vulnerable people and, eventually, contribute to the reduction of health care disparities in society.
+AD  - Centre de Recherche Hopital Charles LeMoyne, Unite de Medecine de Famille HCLM, 150 Place Charles Lemoyne, Bureau 200, Longueuil, QC, J4K 0A8, Canada. cristina.grabovschi@usherbrooke.ca
+AN  - 23496838
+AU  - Grabovschi, C.
+AU  - Loignon, C.
+AU  - Fortin, M.
+C2  - PMC3626765
+DA  - Mar 12
+DB  - PubMed
+DO  - 10.1186/1472-6963-13-94
+ET  - 2013/03/19
+J2  - BMC Health Serv Res
+KW  - *Concept Formation
+Female
+*Healthcare Disparities
+Humans
+Male
+Models, Theoretical
+*Vulnerable Populations
+LA  - eng
+N1  - Grabovschi, Cristina
+Loignon, Christine
+Fortin, Martin
+eng
+Canadian Institutes of Health Research/Canada
+Research Support, Non-U.S. Gov't
+Review
+England
+BMC Health Serv Res. 2013 Mar 12;13:94. doi: 10.1186/1472-6963-13-94.
+PY  - 2013
+SN  - 1472-6963 (Electronic)
+1472-6963 (Linking)
+SP  - 94
+ST  - Mapping the concept of vulnerability related to health care disparities: a scoping review
+T2  - BMC Health Serv Res
+TI  - Mapping the concept of vulnerability related to health care disparities: a scoping review
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/23496838
+VL  - 13
+ID  - 8
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: This article describes the application of the vulnerable populations conceptual model to rural health. Vulnerable populations are social groups who have an increased susceptibility to adverse health outcomes. Evidence of this differential in vulnerability or increased risk includes premature mortality, comparative morbidity, decreased functional status, and diminished quality of life. ORGANIZING FRAMEWORK: The vulnerable populations conceptual model postulates that there are interrelationships among resource availability, relative risk, and health status. Resource availability speaks to socioeconomic and environmental resources that are operationalized in this model as income, jobs, education, housing, availability of health care, quality of health care, and patterns of family and community life. Relative risk addresses the likelihood of exposure to risk factors and is reflected in lifestyle behaviors and choices and exposure to stressful events. Health status is operationalized as morbidity and mortality. FINDINGS: This review of the literature supports the utility of the vulnerable populations conceptual model in working with rural populations. IMPLICATIONS: This model has potential utility to inform nursing research, practice, and policy about the opportunities and resources needed to achieve and maintain health in rural communities.
+AD  - Department of Nursing, Fairmont State College, Fairmont, West Virginia 26554, USA. sleight888@aol.com
+AN  - 14629675
+AU  - Leight, S. B.
+DA  - Nov-Dec
+DO  - 10.1046/j.1525-1446.2003.20604.x
+ET  - 2003/11/25
+IS  - 6
+KW  - Community Health Planning/*organization & administration
+Health Services Accessibility/standards
+Health Status
+Health Status Indicators
+Humans
+Life Style
+*Models, Nursing
+Needs Assessment
+Primary Prevention
+Risk
+Risk Assessment
+*Rural Health
+Socioeconomic Factors
+*Vulnerable Populations
+N1  - Leight, Susan Bragg
+eng
+5-T32-NR-07036/NR/NINR NIH HHS/
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+Review
+Public Health Nurs. 2003 Nov-Dec;20(6):440-8. doi: 10.1046/j.1525-1446.2003.20604.x.
+PY  - 2003
+SN  - 0737-1209 (Print)
+0737-1209 (Linking)
+SP  - 440-8
+ST  - The application of a vulnerable populations conceptual model to rural health
+T2  - Public Health Nurs
+TI  - The application of a vulnerable populations conceptual model to rural health
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/14629675
+VL  - 20
+ID  - 20
+ER  - 
+
+TY  - JOUR
+AB  - Accountable care organizations (ACOs) are a promising payment model aimed at reducing costs while also improving the quality of care. However, there is a risk that vulnerable populations may not be fully incorporated into this new model. We define two distinct vulnerable populations, clinically at-risk and socially disadvantaged, and we discuss how ACOs may benefit each group. We provide a framework to use in considering challenges for both vulnerable patients and health systems on the path to accountable care. We identify policies that can help overcome these obstacles: strategies that support ACO formation in diverse settings and that monitor, measure, and reward the performance of providers that reach all patients, including vulnerable populations.
+AD  - Center for Population Health, Dartmouth Institute for Health Policy and Clinical Practice in Lebanon, New Hampshire, USA. Valerie.A.Lewis@Dartmouth.edu
+AN  - 22869656
+AU  - Lewis, V. A.
+AU  - Larson, B. K.
+AU  - McClurg, A. B.
+AU  - Boswell, R. G.
+AU  - Fisher, E. S.
+DA  - Aug
+DO  - 10.1377/hlthaff.2012.0490
+ET  - 2012/08/08
+IS  - 8
+KW  - *Accountable Care Organizations/economics/organization & administration
+Chronic Disease/therapy
+Health Policy
+Health Services Accessibility/standards
+Humans
+Models, Organizational
+Organizational Policy
+Poverty Areas
+Quality of Health Care
+Reimbursement, Incentive
+Social Marginalization
+United States
+*Vulnerable Populations
+N1  - Lewis, Valerie A
+Larson, Bridget Kennedy
+McClurg, Asha Belle
+Boswell, Rebecca Goldman
+Fisher, Elliott S
+eng
+Research Support, Non-U.S. Gov't
+Health Aff (Millwood). 2012 Aug;31(8):1777-85. doi: 10.1377/hlthaff.2012.0490.
+PY  - 2012
+SN  - 1544-5208 (Electronic)
+0278-2715 (Linking)
+SP  - 1777-85
+ST  - The promise and peril of accountable care for vulnerable populations: a framework for overcoming obstacles
+T2  - Health Aff (Millwood)
+TI  - The promise and peril of accountable care for vulnerable populations: a framework for overcoming obstacles
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/22869656
+VL  - 31
+ID  - 11
+ER  - 
+
+TY  - JOUR
+AB  - While many health services strive to be equitable, accessible and inclusive, peoples' right to health often goes unrealized, particularly among vulnerable groups. The extent to which health policies explicitly seek to achieve such goals sets the policy context in which services are delivered and evaluated. An analytical framework was developed--EquiFrame--to evaluate 1) the extent to which 21 Core Concepts of human rights were addressed in policy documents, and 2) coverage of 12 Vulnerable Groups who might benefit from such policies. Using this framework, analysis of 51 policies across Malawi, Namibia, South Africa and Sudan, confirmed the relevance of all Core Concepts and Vulnerable Groups. Further, our analysis highlighted some very strong policies, serious shortcomings in others as well as country-specific patterns. If social inclusion and human rights do not underpin policy formation, it is unlikely they will be inculcated in service delivery. EquiFrame facilitates policy analysis and benchmarking, and provides a means for evaluating policy revision and development.
+AD  - Centre for Global Health, School of Psychology, Trinity College Dublin, Dublin, Ireland. malcolm.maclachlan@tcd.ie
+AN  - 22649488
+AU  - MacLachlan, M.
+AU  - Amin, M.
+AU  - Mannan, H.
+AU  - El Tayeb, S.
+AU  - Bedri, N.
+AU  - Swartz, L.
+AU  - Munthali, A.
+AU  - Van Rooy, G.
+AU  - McVeigh, J.
+C2  - PMC3359320
+DB  - PubMed
+DO  - 10.1371/journal.pone.0035864
+ET  - 2012/06/01
+IS  - 5
+J2  - PLoS One
+KW  - Benchmarking
+*Health Policy
+Human Rights/*legislation & jurisprudence
+Humans
+Malawi
+*Models, Theoretical
+Namibia
+Policy Making
+South Africa
+Sudan
+LA  - eng
+N1  - MacLachlan, Malcolm
+Amin, Mutamad
+Mannan, Hasheem
+El Tayeb, Shahla
+Bedri, Nafisa
+Swartz, Leslie
+Munthali, Alister
+Van Rooy, Gert
+McVeigh, Joanne
+eng
+Comparative Study
+Research Support, Non-U.S. Gov't
+PLoS One. 2012;7(5):e35864. doi: 10.1371/journal.pone.0035864. Epub 2012 May 23.
+PY  - 2012
+SN  - 1932-6203 (Electronic)
+1932-6203 (Linking)
+SP  - e35864
+ST  - Inclusion and human rights in health policies: comparative and benchmarking analysis of 51 policies from Malawi, Sudan, South Africa and Namibia
+T2  - PLoS One
+TI  - Inclusion and human rights in health policies: comparative and benchmarking analysis of 51 policies from Malawi, Sudan, South Africa and Namibia
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/22649488
+VL  - 7
+ID  - 14
+ER  - 
+
+TY  - JOUR
+AB  - Vulnerability, the susceptibility to harm, results from an interaction between the resources available to individuals and communities and the life challenges they face. Vulnerability results from developmental problems, personal incapacities, disadvantaged social status, inadequacy of interpersonal networks and supports, degraded neighborhoods and environments, and the complex interactions of these factors over the life course. The priority given to varying vulnerabilities, or their neglect, reflects social values. Vulnerability may arise from individual, community, or larger population challenges and requires different types of policy interventions--from social and economic development of neighborhoods and communities, and educational and income policies, to individual medical interventions.
+AD  - Institute for Health, Health Care Policy, and Aging Research, Rutgers, the State University of New Jersey, New Brunswick, NJ, USA. mechanic@rci.rutgers.edu
+AN  - 17848429
+AU  - Mechanic, D.
+AU  - Tanner, J.
+DA  - Sep-Oct
+DO  - 10.1377/hlthaff.26.5.1220
+ET  - 2007/09/13
+IS  - 5
+KW  - *Attitude to Health
+Health Policy
+Health Services Accessibility
+Healthcare Disparities
+Humans
+Medically Uninsured/*classification/ethnology
+Poverty
+Residence Characteristics/classification
+Social Class
+*Social Values
+United States
+Vulnerable Populations/*classification/ethnology
+N1  - Mechanic, David
+Tanner, Jennifer
+eng
+5 T32 MH16242/MH/NIMH NIH HHS/
+Research Support, N.I.H., Extramural
+Health Aff (Millwood). 2007 Sep-Oct;26(5):1220-30. doi: 10.1377/hlthaff.26.5.1220.
+PY  - 2007
+SN  - 1544-5208 (Electronic)
+0278-2715 (Linking)
+SP  - 1220-30
+ST  - Vulnerable people, groups, and populations: societal view
+T2  - Health Aff (Millwood)
+TI  - Vulnerable people, groups, and populations: societal view
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/17848429
+VL  - 26
+ID  - 7
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Outpatients attending consultations at public hospitals may have unmet needs for preventive medical care. This study aimed to identify and assess the association between these needs, social vulnerability and mode of healthcare use. METHODS: In a multicentre epidemiological study, a group of socially vulnerable outpatients, was compared with a non-vulnerable group in a sample of 1316 outpatients selected in hospital consultations, using a validated tool for detection of social vulnerability. Before the patient was seen by medical staff, investigators collected data on social characteristics, healthcare use and preventive medical care received (interventions, advice). RESULTS: More than 75% of outpatients stated that they were regularly followed by a physician, usually a general practitioner, but fewer vulnerable than non-vulnerable outpatients were followed (77% vs. 89%, P < 10(-3)). For the majority of preventive interventions (vaccinations, screening for cardiovascular risk factors, gynaecological cancers), vulnerable outpatients presented a more marked shortage than non-vulnerable patients, but there was an overall shortage in both groups. When recommended preventive interventions had not been delivered, they had rarely been offered in either group. After adjustment for mode of healthcare use, the differences in preventive care received persisted to the disadvantage of vulnerable outpatients with regard to technical preventive interventions, but there was no difference between the two groups regarding advice received to reduce risk behaviours. CONCLUSION: Unmet needs for preventive care primarily resulted from social inequalities in secondary access to such care. It may be necessary to set up specific interventions targeting vulnerable patients within hospital consultations.
+AD  - Pole d'Information Medicale, d'Evaluation et de Sante Publique, CHU de Nantes, Hopital Saint Jacques, 44093 Nantes Cedex 1, France. jean.pascal@chu-nantes.fr
+AN  - 19307244
+AU  - Pascal, J.
+AU  - Abbey-Huguenin, H.
+AU  - Leux, C.
+AU  - Lombrail, P.
+AU  - Lert, F.
+C2  - PMC2873303
+DA  - Aug
+DB  - PubMed
+DO  - 10.1093/eurpub/ckp033
+ET  - 2009/03/25
+IS  - 4
+J2  - Eur J Public Health
+KW  - Adult
+Ambulatory Care
+Cross-Sectional Studies
+Female
+France
+*Health Services Needs and Demand
+Healthcare Disparities
+*Hospitals, Public
+Humans
+Male
+Middle Aged
+*Preventive Health Services
+Retrospective Studies
+Social Class
+*Vulnerable Populations
+Young Adult
+LA  - eng
+N1  - Pascal, Jean
+Abbey-Huguenin, Helene
+Leux, Christophe
+Lombrail, Pierre
+Lert, France
+eng
+Multicenter Study
+Research Support, Non-U.S. Gov't
+England
+Eur J Public Health. 2009 Aug;19(4):403-11. doi: 10.1093/eurpub/ckp033. Epub 2009 Mar 23.
+PY  - 2009
+SN  - 1464-360X (Electronic)
+1101-1262 (Linking)
+SP  - 403-11
+ST  - Social vulnerability and unmet preventive care needs in outpatients of two French public hospitals
+T2  - Eur J Public Health
+TI  - Social vulnerability and unmet preventive care needs in outpatients of two French public hospitals
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/19307244
+VL  - 19
+ID  - 15
+ER  - 
+
+TY  - JOUR
+AB  - This paper studies the uninsured as a vulnerable population. We contend that reducing the size of the uninsured population yields important spillover benefits to the insured population, benefits that go beyond a lower charity care burden. Evidence presented in this paper reinforces studies in the literature that show that problems of health services quality and access facing insured people increase when the proportion of uninsured people in their local communities is greater. The size of such spillover benefits is reduced if the local market is large enough to be segmented based on insurance status.
+AD  - Department of Health Care Systems, Wharton School, University of Pennsylvania, Philadelphia, PA, USA. pauly@wharton.upenn.edu
+AN  - 17848441
+AU  - Pauly, M. V.
+AU  - Pagan, J. A.
+DA  - Sep-Oct
+DO  - 10.1377/hlthaff.26.5.1304
+ET  - 2007/09/13
+IS  - 5
+KW  - *Attitude to Health
+Community Health Planning
+Community Health Services/economics/*supply & distribution
+Health Care Sector/*trends
+Health Services Accessibility/*trends
+Humans
+Logistic Models
+Medically Uninsured/*statistics & numerical data
+Quality of Health Care/*trends
+*Residence Characteristics
+United States
+Vulnerable Populations/*statistics & numerical data
+N1  - Pauly, Mark V
+Pagan, Jose A
+eng
+Health Aff (Millwood). 2007 Sep-Oct;26(5):1304-14. doi: 10.1377/hlthaff.26.5.1304.
+PY  - 2007
+SN  - 1544-5208 (Electronic)
+0278-2715 (Linking)
+SP  - 1304-14
+ST  - Spillovers and vulnerability: the case of community uninsurance
+T2  - Health Aff (Millwood)
+TI  - Spillovers and vulnerability: the case of community uninsurance
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/17848441
+VL  - 26
+ID  - 22
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Increased adverse pregnancy outcomes related to psychiatric and psychosocial problems can be observed for urban areas when compared to national averages. We developed a personal digital assistant (PDA)-based self-report screening model that produces tailored intervention advices. After having adapted the model to local care pathways, we tested the reliability, validity and feasibility of the model in routine antenatal care. METHODS: Observational study among pregnant women in a Dutch urban area included women with a booking visit. Women answered questions posed by the PDA-tool while waiting for their appointment. If the tool suggested specific interventions (screen result), this was discussed during booking visit. A randomly selected subsample of participants completed the questionnaire again at a subsequent pregnancy check (retest). After the study was conducted, prenatal caregivers and assistants were interviewed for feasibility judgments. Psychometric and diagnostic performance of this approach was established. RESULTS: Response rate among invited pregnant women was 94% on weighted average (n=621). Internal reliability ranged 0.88-0.90, test-retest reliability ranged 0.64-1.00. Positive predictive value was 86% and negative predictive value was 97%. No interpractice psychometrical differences were observed. Migrant women more often received an intervention advice than native women (p<0.001). The approach was well accepted among prenatal caregivers for its time efficiency and patient-friendliness. CONCLUSION: Psychometric properties of our screen-and-advice tool were favorable under routine conditions, and the feasibility of this integral approach appeared good. The technical flexibility renders the model suitable for broader application. Local care pathways can easily be incorporated. We suggest implementation of this model in prenatal care in urbanized settings in order to make tailored mental healthcare broadly available.
+AD  - Department of Psychiatry and Obstetrics & Gynecology, Erasmus MC, Rotterdam , the Netherlands. c.quispel@erasmusmc.nl
+AN  - 22304394
+AU  - Quispel, C.
+AU  - Schneider, T. A.
+AU  - Bonsel, G. J.
+AU  - Lambregtse-van den Berg, M. P.
+DA  - Mar
+DO  - 10.3109/0167482X.2011.649814
+ET  - 2012/02/07
+IS  - 1
+KW  - Adult
+Depression/*diagnosis
+Female
+Humans
+Mass Screening
+Mental Disorders/*diagnosis
+Pregnancy
+Pregnant Women/*psychology
+Psychometrics
+Reproducibility of Results
+Urban Population
+N1  - Quispel, Chantal
+Schneider, Tom A J
+Bonsel, Gouke J
+Lambregtse-van den Berg, Mijke P
+eng
+Research Support, Non-U.S. Gov't
+England
+J Psychosom Obstet Gynaecol. 2012 Mar;33(1):7-14. doi: 10.3109/0167482X.2011.649814.
+PY  - 2012
+SN  - 1743-8942 (Electronic)
+0167-482X (Linking)
+SP  - 7-14
+ST  - An innovative screen-and-advice model for psychopathology and psychosocial problems among urban pregnant women: an exploratory study
+T2  - J Psychosom Obstet Gynaecol
+TI  - An innovative screen-and-advice model for psychopathology and psychosocial problems among urban pregnant women: an exploratory study
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/22304394
+VL  - 33
+ID  - 51
+ER  - 
+
+TY  - JOUR
+AB  - To identify Psychopathology, Psychosocial problems and substance use (PPS) as predictors of adverse pregnancy outcomes, two screen-and-advice instruments were developed: Mind2Care (M2C, self-report) and Rotterdam Reproductive Risk Reduction (R4U, professional's checklist). To decide on the best clinical approach of these risks, the performance of both instruments was compared. Observational study of 164 pregnant women who booked at two midwifery practices in Rotterdam. Women were consecutively screened with M2C and R4U. For referral to tailored care based on specific PPS risks, inter-test agreement of single risks was performed in terms of overall accuracy and positive accuracy (risk present according to both instruments). With univariate regression analysis we explored determinants of poor agreement (<90 %). For triage based on risk accumulation and for detecting women-at-risk for adverse birth outcomes, M2C and R4U sum scores were compared. Overall accuracy of single risks was high (mean 93 %). Positive accuracy was lower (mean 46 %) with poorest accuracy for current psychiatric symptoms. Educational level and ethnicity partly explained poor accuracy (p < 0.05). Overall low PPS prevalence decreased the statistical power. For triage, M2C and R4U sum scores were interchangeable from sum scores of five or more (difference <1 %). The probability of adverse birth outcomes similarly increased with risk accumulation for both instruments, identifying 55-75 % of women-at-risk. The self-report M2C and the professional's R4U checklist seem interchangeable for triage of women-at-risk for PPS or adverse birth outcomes. However, the instruments seem to provide complementary information if used as a guidance to tailored risk-specific care.
+AD  - Department of Obstetrics and Gynaecology, Division of Obstetrics and Prenatal Medicine, Erasmus University Medical Centre, Room Wk-221, PO Box 2040, 3000 CA, Rotterdam, The Netherlands, c.quispel@erasmusmc.nl.
+AN  - 24585399
+AU  - Quispel, C.
+AU  - van Veen, M. J.
+AU  - Zuijderhoudt, C.
+AU  - Steegers, E. A.
+AU  - Hoogendijk, W. J.
+AU  - Birnie, E.
+AU  - Bonsel, G. J.
+AU  - Lambregtse-van den Berg, M. P.
+DA  - Nov
+DO  - 10.1007/s10995-014-1456-5
+ET  - 2014/03/04
+IS  - 9
+KW  - Adult
+Attitude of Health Personnel
+Female
+Humans
+Infant, Newborn
+Infant, Small for Gestational Age
+Longitudinal Studies
+Mass Screening/methods
+Mental Disorders/complications/*diagnosis
+Netherlands/epidemiology
+Predictive Value of Tests
+Pregnancy
+Pregnancy Complications/ethnology/etiology/*psychology
+Pregnancy Outcome/*ethnology
+Pregnant Women/ethnology/*psychology
+Premature Birth/ethnology
+Prenatal Care/*methods
+Regression Analysis
+Reproducibility of Results
+Risk Assessment/methods
+Self Report
+Socioeconomic Factors
+Substance-Related Disorders/complications/diagnosis
+Triage/methods
+N1  - Quispel, Chantal
+van Veen, Mieke J
+Zuijderhoudt, Christianne
+Steegers, Eric A P
+Hoogendijk, Witte J G
+Birnie, Erwin
+Bonsel, Gouke J
+Lambregtse-van den Berg, Mijke P
+eng
+Comparative Study
+Observational Study
+Research Support, Non-U.S. Gov't
+Matern Child Health J. 2014 Nov;18(9):2089-97. doi: 10.1007/s10995-014-1456-5.
+PY  - 2014
+SN  - 1573-6628 (Electronic)
+1092-7875 (Linking)
+SP  - 2089-97
+ST  - Patient versus professional based psychosocial risk factor screening for adverse pregnancy outcomes
+T2  - Matern Child Health J
+TI  - Patient versus professional based psychosocial risk factor screening for adverse pregnancy outcomes
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/24585399
+VL  - 18
+ID  - 52
+ER  - 
+
+TY  - JOUR
+AB  - The concept of vulnerability is an important one for nurses because of its implications for health. The experience of vulnerability creates stress and anxiety which affects physiological, psychological and social functioning. Although everyone is vulnerable at different times in his or her life, some individuals are more likely to develop health problems than others. Vulnerability is affected by personal factors as well as factors within the environment. Trends in society indicate that increasing numbers of vulnerable people will create additional demands on an already over-burdened health care system. Vulnerability is an area that requires much further research and application.
+AD  - Faculty of Nursing, University of New Brunswick, Fredericton, Canada.
+AN  - 9231279
+AU  - Rogers, A. C.
+DA  - Jul
+DO  - 10.1046/j.1365-2648.1997.1997026065.x
+ET  - 1997/07/01
+IS  - 1
+KW  - Age Factors
+*Delivery of Health Care
+Disease Susceptibility/physiopathology/*psychology
+Female
+*Health
+Health Services Accessibility
+Humans
+Male
+Risk Factors
+Sex Factors
+Social Environment
+Socioeconomic Factors
+N1  - Rogers, A C
+eng
+Review
+England
+J Adv Nurs. 1997 Jul;26(1):65-72. doi: 10.1046/j.1365-2648.1997.1997026065.x.
+PY  - 1997
+SN  - 0309-2402 (Print)
+0309-2402 (Linking)
+SP  - 65-72
+ST  - Vulnerability, health and health care
+T2  - J Adv Nurs
+TI  - Vulnerability, health and health care
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/9231279
+VL  - 26
+ID  - 29
+ER  - 
+
+TY  - JOUR
+AB  - Homeless urbanites are a heterogeneous population with unique health and social service needs. The study examined situational, behavioral, health-related and resource indicators in terms of their direct impact on frailty, hypothesized as a latent variable. Using structural equation modeling (SEM), a model was tested with 150 homeless men and women, ages 40-73, from three homeless day center drop-in sites on Skid Row and one residential drug treatment (RDT) facility that works with homeless parolees and probationers. In bivariate analyses with the latent construct frailty, months homeless (p < 0.01), female gender (p < 0.05), education (p < 0.05), comorbid conditions (p < 0.001), nutrition (p < 0.001), resilience (p < 0.001), health care utilization (p < 0.01), and falls (p < 0.001) were significantly associated with frailty. In the final path model, significant predictors of frailty included educational attainment (p < 0.01), comorbid conditions (p < 0.001), nutrition (p < 0.001), resilience (p < 0.001), and falls (p < 0.01). These findings will serve as a foundation for future nurse-led, community-based initiatives that focus on key predictors of frailty among the homeless and the development of interventions.
+AN  - 24505611
+AU  - Salem, B. E.
+AU  - Nyamathi, A.
+AU  - Brecht, M. L.
+AU  - Phillips, L. R.
+AU  - Mentes, J. C.
+AU  - Sarkisian, C.
+AU  - Stein, J. A.
+C2  - PMC4005873
+DA  - Mar-Apr
+DO  - 10.1016/j.archger.2013.09.005
+ET  - 2014/02/08
+IS  - 2
+KW  - Adult
+Aged
+Educational Status
+Female
+*Frail Elderly
+Health Services Needs and Demand
+Health Status Disparities
+*Homeless Persons
+Humans
+Male
+Middle Aged
+*Models, Statistical
+Needs Assessment
+Predictive Value of Tests
+Social Work
+Urban Population
+Vulnerable Populations
+N1  - Salem, Benissa E
+Nyamathi, Adeline
+Brecht, Mary-Lynn
+Phillips, Linda R
+Mentes, Janet C
+Sarkisian, Catherine
+Stein, Judith A
+eng
+T32 NR007077/NR/NINR NIH HHS/
+1RC4AG038182-01/AG/NIA NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Netherlands
+Arch Gerontol Geriatr. 2014 Mar-Apr;58(2):248-56. doi: 10.1016/j.archger.2013.09.005.
+PY  - 2014
+SN  - 1872-6976 (Electronic)
+0167-4943 (Linking)
+SP  - 248-56
+ST  - Constructing and identifying predictors of frailty among homeless adults-a latent variable structural equations model approach
+T2  - Arch Gerontol Geriatr
+TI  - Constructing and identifying predictors of frailty among homeless adults-a latent variable structural equations model approach
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/24505611
+VL  - 58
+ID  - 9
+ER  - 
+
+TY  - JOUR
+AD  - Centre for Professional Ethics, University of Central Lancashire, Preston, England.
+AN  - 19250564
+AU  - Schroeder, D.
+AU  - Gefenas, E.
+DA  - Apr
+DO  - 10.1017/S0963180109090203
+ET  - 2009/03/03
+IS  - 2
+KW  - Clinical Trials as Topic/*ethics
+Confidentiality
+Health Services Accessibility
+Humans
+Informed Consent
+*Research Subjects
+*Terminology as Topic
+*Vulnerable Populations
+N1  - Schroeder, Doris
+Gefenas, Eugenijus
+eng
+Research Support, Non-U.S. Gov't
+Camb Q Healthc Ethics. 2009 Apr;18(2):113-21. doi: 10.1017/S0963180109090203.
+PY  - 2009
+SN  - 1469-2147 (Electronic)
+0963-1801 (Linking)
+SP  - 113-21
+ST  - Vulnerability: too vague and too broad?
+T2  - Camb Q Healthc Ethics
+TI  - Vulnerability: too vague and too broad?
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/19250564
+VL  - 18
+ID  - 16
+ER  - 
+
+TY  - JOUR
+AB  - CONTEXT: Previous studies have demonstrated a strong association between minority race, low socioeconomic status (SES), and lack of potential access to care (e.g., no insurance coverage and no regular source of care) and poor receipt of health care services. Most studies have examined the independent effects of these risk factors for poor access, but more practical models are needed to account for the clustering of multiple risks. OBJECTIVE: To present a profile of risk factors for poor access based on income, insurance coverage, and having a regular source of care, and examine the association of the profiles with unmet health care needs due to cost. Relationships are examined by race/ethnicity. DESIGN: Analysis of 32,374 adults from the 2000 National Health Interview Survey. MAIN OUTCOME MEASURES: Reported unmet needs due to cost: missing/delaying needed medical care, and delaying obtaining prescriptions, mental health care, or dental care. RESULTS: Controlling for personal demographic and community factors, individuals who were low income, uninsured, and had no regular source of care were more likely to miss or delay needed health care services due to cost. After controlling for these risk factors, whites were more likely than other racial/ethnic groups to report unmet needs. When presented as a risk profile, a clear gradient existed in the likelihood of having an unmet need according to the number of risk factors, regardless of racial/ethnic group. CONCLUSION: Unmet health care needs due to cost increased with higher risk profiles for each racial and ethnic group. Without attention to these co-occurring risk factors for poor access, it is unlikely that substantial reductions in disparities will be made in assuring access to needed health care services among vulnerable populations.
+AD  - Department of Health Policy and Management, Johns Hopkins University Bloomberg School of Public Health, Baltimore, MD 21205, USA. lshi@jhsph.edu
+AN  - 15836548
+AU  - Shi, L.
+AU  - Stevens, G. D.
+C2  - PMC1490048
+DA  - Feb
+DB  - PubMed
+DO  - 10.1111/j.1525-1497.2005.40136.x
+ET  - 2005/04/20
+IS  - 2
+J2  - J Gen Intern Med
+KW  - Adult
+African Americans/statistics & numerical data
+Aged
+European Continental Ancestry Group/statistics & numerical data
+Female
+Health Services Accessibility/*economics/statistics & numerical data
+Health Services Needs and Demand/*statistics & numerical data
+Health Status
+Hispanic Americans/statistics & numerical data
+Humans
+Male
+Managed Care Programs
+*Medically Uninsured/ethnology
+Middle Aged
+*Poverty/ethnology
+Risk Factors
+Socioeconomic Factors
+United States
+*Vulnerable Populations/ethnology
+LA  - eng
+N1  - Shi, Leiyu
+Stevens, Gregory D
+eng
+J Gen Intern Med. 2005 Feb;20(2):148-54. doi: 10.1111/j.1525-1497.2005.40136.x.
+PY  - 2005
+SN  - 1525-1497 (Electronic)
+0884-8734 (Linking)
+SP  - 148-54
+ST  - Vulnerability and unmet health care needs. The influence of multiple risk factors
+T2  - J Gen Intern Med
+TI  - Vulnerability and unmet health care needs. The influence of multiple risk factors
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/15836548
+VL  - 20
+ID  - 19
+ER  - 
+
+TY  - JOUR
+AB  - This article presents a mechanism for tracking and reporting health disparities data that are based on a general model of vulnerability. We briefly discuss the origins of this model and describe its focus on the cumulative impact of multiple risk factors on health-related outcomes. We then demonstrate how the model can be applied to inform the collection and reporting of health disparities data by providing three examples. Since national and state datasets contain information on a wide range of risk factors, researchers and policy makers would benefit from examining the multiple risks that affect vulnerable populations simultaneously, as we have demonstrated in the three examples. These examples suggest that the determinants of health and healthcare problems are multifactorial and that they can be studied in an integrative approach using risk profiles. This research methodology can strengthen our existing knowledge of health disparities and aid in the recognition of points of intervention to successfully improve health and healthcare for vulnerable populations.
+AD  - Department of Health Policy and Management, Bloomberg School of Public Health, Johns Hopkins University, Maryland 21205, USA. lshi@jhsph.edu
+AN  - 18843237
+AU  - Shi, L.
+AU  - Stevens, G. D.
+AU  - Lebrun, L. A.
+AU  - Faed, P.
+AU  - Tsai, J.
+DA  - Nov
+DO  - 10.1097/01.PHH.0000338386.59565.dc
+ET  - 2008/10/22
+IS  - Supplement
+KW  - Child, Preschool
+Female
+Health Services Accessibility
+*Health Status Disparities
+Humans
+Infant
+Interviews as Topic
+Male
+Models, Theoretical
+Quality of Health Care
+Risk Factors
+Social Class
+United States
+Vulnerable Populations/*ethnology
+N1  - Shi, Leiyu
+Stevens, Gregory D
+Lebrun, Lydie A
+Faed, Pegah
+Tsai, Jenna
+eng
+J Public Health Manag Pract. 2008 Nov;14 Suppl:S45-52. doi: 10.1097/01.PHH.0000338386.59565.dc.
+PY  - 2008
+SN  - 1550-5022 (Electronic)
+1078-4659 (Linking)
+SP  - S45-52
+ST  - Enhancing the measurement of health disparities for vulnerable populations
+T2  - J Public Health Manag Pract
+TI  - Enhancing the measurement of health disparities for vulnerable populations
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/18843237
+VL  - 14 Suppl
+ID  - 4
+ER  - 
+
+TY  - JOUR
+AB  - New perspectives on vulnerability using emic and etic approaches The concept of vulnerability has not been developed theoretically from a nursing perspective. It has been viewed epidemiologically as population-based relative risk with little consideration of its experiential qualities. The purpose of this paper is to analyse critically the use of the term vulnerability using elements of concept clarification and a critical literature review. A new perspective of vulnerability is offered based on differentiating between the concepts of risk and experience. Risk consists of assumptions from etic or external evaluation of relative danger while lived experience informs an emic or personal interpretation. Assumptions related to the etic view include normative social values, objective harm and endangerment, and social sanction for intervention. An emic view of vulnerability is based on experiential perception of challenge to personal integrity and the universal and mutual nature of the phenomenon. Questions about the evaluation of harm, potential for growth, subjectivity and objectivity, social sanction and capacity for action, can help clarify the range between these two dimensions.
+AD  - Department of Community Health Systems, School of Nursing, University of California-San Francisco, San Francisco, California 94131, USA.
+AN  - 10718892
+AU  - Spiers, J.
+DA  - Mar
+DO  - 10.1046/j.1365-2648.2000.01328.x
+ET  - 2000/03/16
+IS  - 3
+KW  - Anthropology, Cultural
+*Attitude to Health
+Community Health Planning
+Dangerous Behavior
+*Health Behavior
+*Health Status
+Humans
+*Models, Nursing
+Nursing Methodology Research
+*Quality of Life
+Reproducibility of Results
+*Risk
+Semantics
+*Social Identification
+Social Values
+Socioeconomic Factors
+*Vulnerable Populations
+Health Care and Public Health
+N1  - Spiers, J
+eng
+Review
+England
+J Adv Nurs. 2000 Mar;31(3):715-21. doi: 10.1046/j.1365-2648.2000.01328.x.
+PY  - 2000
+SN  - 0309-2402 (Print)
+0309-2402 (Linking)
+SP  - 715-21
+ST  - New perspectives on vulnerability using emic and etic approaches
+T2  - J Adv Nurs
+TI  - New perspectives on vulnerability using emic and etic approaches
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/10718892
+VL  - 31
+ID  - 12
+ER  - 
+
+TY  - JOUR
+AN  - 18475001
+AU  - Stevens, G. D.
+AU  - Shi, L.
+AU  - Faed, P.
+DA  - May-Jun
+DO  - 10.1377/hlthaff.27.3.902
+ET  - 2008/05/14
+IS  - 3
+KW  - Health Status
+*Healthcare Disparities
+Humans
+Minority Groups
+Socioeconomic Factors
+Vulnerable Populations/*classification
+N1  - Stevens, Gregory D
+Shi, Leiyu
+Faed, Pegah
+eng
+Comment
+Letter
+Health Aff (Millwood). 2008 May-Jun;27(3):902. doi: 10.1377/hlthaff.27.3.902.
+PY  - 2008
+SN  - 1544-5208 (Electronic)
+0278-2715 (Linking)
+SP  - 902
+ST  - Vulnerable in more than one way
+T2  - Health Aff (Millwood)
+TI  - Vulnerable in more than one way
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/18475001
+VL  - 27
+ID  - 27
+ER  - 
+
+TY  - JOUR
+AB  - Healthcare in the United States (US) is burdened with enormous healthcare disparities associated with a variety of factors including insurance status, income, and race. Highly vulnerable populations, classified as those with complex medical problems and/or social needs, are one of the fastest growing segments within the US. Over a decade ago, the US Surgeon General publically challenged the nation to realize the importance of oral health and its relationship to general health and well-being, yet oral health disparities continue to plague the US healthcare system. Interprofessional education and teamwork has been demonstrated to improve patient outcomes and provide benefits to participating health professionals. We propose the implementation of interprofessional education and teamwork as a solution to meet the increasing oral and systemic healthcare demands of highly vulnerable US populations.
+AD  - Center on Health Disparities, School of Medicine, Virginia Commonwealth University, Richmond, VA, USA. avanderbilt@vcu.edu
+AN  - 23534859
+AU  - Vanderbilt, A. A.
+AU  - Isringhausen, K. T.
+AU  - VanderWielen, L. M.
+AU  - Wright, M. S.
+AU  - Slashcheva, L. D.
+AU  - Madden, M. A.
+C2  - PMC3609999
+DA  - Mar 26
+DB  - PubMed
+DO  - 10.3402/meo.v18i0.20644
+ET  - 2013/03/29
+J2  - Med Educ Online
+KW  - Dental Care/*organization & administration
+Health Personnel/*education
+Health Services Accessibility
+*Health Services Administration
+*Healthcare Disparities
+Humans
+Interprofessional Relations
+Patient Care Team/*organization & administration
+Socioeconomic Factors
+United States
+*Vulnerable Populations
+health disparities
+interprofessional education
+medical health
+oral health
+underserved populations
+vulnerable populations
+LA  - eng
+N1  - Vanderbilt, Allison A
+Isringhausen, Kim T
+VanderWielen, Lynn M
+Wright, Marcie S
+Slashcheva, Lyubov D
+Madden, Molly A
+eng
+Med Educ Online. 2013 Mar 26;18:1-3. doi: 10.3402/meo.v18i0.20644.
+PY  - 2013
+SN  - 1087-2981 (Electronic)
+1087-2981 (Linking)
+SP  - 1-3
+ST  - Health disparities among highly vulnerable populations in the United States: a call to action for medical and oral health care
+T2  - Med Educ Online
+TI  - Health disparities among highly vulnerable populations in the United States: a call to action for medical and oral health care
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/23534859
+VL  - 18
+ID  - 21
+ER  - 
+
+TY  - JOUR
+AB  - This community-partnered study was developed and fielded in partnership with key community stakeholders and describes age- and race-related variation in delays in care and preventive service utilization between middle-aged and older adults living in South Los Angeles. The survey sample included adults aged 50 and older who self-identified as African American or Latino and lived in ZIP codes of South Los Angeles (N=708). Dependent variables were self-reported delays in care and use of preventive services. Insured participants aged 50 to 64 were more likely to report any delay in care (adjusted predicted percentage (APP)=18%, 95% confidence interval (CI)=14-23) and problems obtaining needed medical care (APP=15%, 95% CI=12-20) than those aged 65 and older. Uninsured participants aged 50 to 64 reported even greater delays in care (APP=45%, 95% CI=33-56) and problems obtaining needed medical (APP=33%, 95% CI=22-45) and specialty care (APP=26%, 95% CI=16-39) than those aged 65 and older. Participants aged 50 to 64 were generally less likely to receive preventive services, including influenza and pneumococcal vaccines and colonoscopy than older participants, but women were more likely to receive mammograms. Participants aged 50 to 64 had more problems obtaining recommended preventive care and faced more delays in care than those aged 65 and older, particularly if they were uninsured. Providing insurance coverage for this group may improve access to preventive care and promote wellness.
+AD  - Department of Family and Community Medicine, University of California at San Francisco, San Francisco, California, USA. odomwalkerk@fcm.ucsf.edu
+AN  - 21143445
+AU  - Walker, K. O.
+AU  - Steers, N.
+AU  - Liang, L. J.
+AU  - Morales, L. S.
+AU  - Forge, N.
+AU  - Jones, L.
+AU  - Brown, A. F.
+C2  - PMC3058402
+DA  - Dec
+DB  - PubMed
+DO  - 10.1111/j.1532-5415.2010.03189.x
+ET  - 2010/12/15
+IS  - 12
+J2  - J Am Geriatr Soc
+KW  - African Americans/statistics & numerical data
+Aged
+Delivery of Health Care/*ethnology
+Ethnic Groups/*statistics & numerical data
+Female
+Geriatrics/statistics & numerical data
+Health Surveys
+Hispanic Americans/statistics & numerical data
+Humans
+Income/*statistics & numerical data
+Insurance, Health/*statistics & numerical data
+Los Angeles/epidemiology
+Male
+Medically Uninsured/*ethnology
+Middle Aged
+Needs Assessment
+Poverty/*ethnology
+Poverty Areas
+*Preventive Health Services/statistics & numerical data
+Quality of Life
+Sampling Studies
+Vaccination
+LA  - eng
+N1  - Walker, Kara Odom
+Steers, Neil
+Liang, Li-Jung
+Morales, Leo S
+Forge, Nell
+Jones, Loretta
+Brown, Arleen F
+eng
+P30AG021684/AG/NIA NIH HHS/
+K23 AG026748/AG/NIA NIH HHS/
+P30AG015272/AG/NIA NIH HHS/
+P30 AG015272/AG/NIA NIH HHS/
+P30 AG021684/AG/NIA NIH HHS/
+P20 MD000148/MD/NIMHD NIH HHS/
+P20MD00148/MD/NIMHD NIH HHS/
+K23 AG026748-01/AG/NIA NIH HHS/
+P20 MD000148-01/MD/NIMHD NIH HHS/
+P30 AG021684-10/AG/NIA NIH HHS/
+K23 AG26748/AG/NIA NIH HHS/
+Comparative Study
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+J Am Geriatr Soc. 2010 Dec;58(12):2416-22. doi: 10.1111/j.1532-5415.2010.03189.x.
+PY  - 2010
+SN  - 1532-5415 (Electronic)
+0002-8614 (Linking)
+SP  - 2416-22
+ST  - The vulnerability of middle-aged and older adults in a multiethnic, low-income area: contributions of age, ethnicity, and health insurance
+T2  - J Am Geriatr Soc
+TI  - The vulnerability of middle-aged and older adults in a multiethnic, low-income area: contributions of age, ethnicity, and health insurance
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/21143445
+VL  - 58
+ID  - 41
+ER  - 
+
+TY  - JOUR
+AB  - This paper reviews approaches to vulnerability in public health, introducing a series of 10 papers addressing vulnerability in health in Africa. We understand vulnerability as simultaneously a condition and a process. Social inequalities are manifest in and exacerbate three key dimensions of vulnerability: the initial level of wellbeing, the degree of exposure to risk, and the capacity to manage risk effectively. We stress the dynamic interactions linking material and social deprivation, poverty, powerlessness and ill health: risks or shocks and their health impacts are intimately interconnected and reinforce each other in a cycle which in the absence of effective interventions, increases vulnerability. An inductive process which does not begin with an a priori definition or measurement of 'vulnerability' and which does not assume the existence of fixed 'vulnerable groups' allowed us both to re-affirm core aspects of existing conceptual frameworks, and to engage in new ways with literature specifically addressing vulnerability and resilience at the population level as well as with literature - for example in ecology, and on the concept of frailty in research on aging - with which researchers on health and poverty in Africa may not be familiar. We invite conceptual and empirical work on vulnerability in complex systems frameworks. These perspectives emphasize contexts and nonlinear causality thus supporting analyses of vulnerability and resilience as both markers and emergent properties of dynamic interactions. We accept a working definition of vulnerability, and recognize that some definable groups of people are more likely than others to suffer harm from exposure to health risks. But we suggest that the real work - at both intellectual and policy/political levels - lies in understanding and responding to the dynamics, meanings and power relations underlying actual instances and processes of vulnerability and harm.
+AN  - 23549696
+AU  - Zarowsky, C.
+AU  - Haddad, S.
+AU  - Nguyen, V. K.
+DA  - Mar
+DO  - 10.1177/1757975912470062
+ET  - 2013/04/12
+IS  - 1 Suppl
+KW  - Humans
+Public Health
+*Vulnerable Populations
+N1  - Zarowsky, Christina
+Haddad, Slim
+Nguyen, Vinh-Kim
+eng
+fre
+spa
+England
+Glob Health Promot. 2013 Mar;20(1 Suppl):3-9, 80-7, 92-9. doi: 10.1177/1757975912470062.
+PY  - 2013
+SN  - 1757-9767 (Electronic)
+1757-9759 (Linking)
+SP  - 3-9, 80-7, 92-9
+ST  - Beyond 'vulnerable groups': contexts and dynamics of vulnerability
+T2  - Glob Health Promot
+TI  - Beyond 'vulnerable groups': contexts and dynamics of vulnerability
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/23549696
+VL  - 20
+ID  - 10
+ER  - 
+
