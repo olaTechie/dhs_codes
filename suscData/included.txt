@@ -1,0 +1,2169 @@
+﻿TY  - JOUR
+AB  - BACKGROUND: Since December 2019, SARS-CoV-2 has extended to most parts of China with >80 000 cases and to at least 100 countries with >60 000 international cases as of 15 March 2020. Here we used a household cohort study to determine the features of household transmission of COVID-19. METHODS: A total of 105 index patients and 392 household contacts were enrolled. Both index patients and household members were tested by SARS-CoV-2 RT-PCR. Information on all recruited individuals was extracted from medical records and confirmed or supplemented by telephone interviews. The baseline characteristics of index cases and contact patients were described. Secondary attack rates of SARS-CoV-2 to contact members were computed and the risk factors for transmission within the household were estimated. RESULTS: Secondary transmission of SARS-CoV-2 developed in 64 of 392 household contacts (16.3%). The secondary attack rate to children was 4% compared with 17.1% for adults. The secondary attack rate to the contacts within the households with index patients quarantined by themselves since onset of symptoms was 0% compared with 16.9% for contacts without quarantined index patients. The secondary attack rate to contacts who were spouses of index cases was 27.8% compared with 17.3% for other adult members in the households. CONCLUSIONS: The secondary attack rate of SARS-CoV-2 in household is 16.3%. Age of household contacts and spousal relationship to the index case are risk factors for transmission of SARS-CoV-2 within a household. Quarantine of index patients at home since onset of symptoms is useful to prevent the transmission of SARS-Co-2 within a household.
+AD  - Department of Gastrointestinal Surgery, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.
+Department of Thyroid and Breast Surgery, Union Hospital Affiliated With Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.
+Department of General Surgery, Chibi People's Hospital, Chibi, China.
+Department of Infectious Diseases, Zaoyang First People's Hospital, Zaoyang, China.
+Department of Emergency Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.
+Department of Physical Examination, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, China.
+AN  - 32301964
+AU  - Li, W.
+AU  - Zhang, B.
+AU  - Lu, J.
+AU  - Liu, S.
+AU  - Chang, Z.
+AU  - Peng, C.
+AU  - Liu, X.
+AU  - Zhang, P.
+AU  - Ling, Y.
+AU  - Tao, K.
+AU  - Chen, J.
+C2  - PMC7184465
+DA  - Nov 5
+DB  - Medline
+DO  - 10.1093/cid/ciaa450
+DP  - NLM
+IS  - 8
+KW  - Adolescent
+Adult
+Betacoronavirus
+Covid-19
+Child
+Child, Preschool
+Cohort Studies
+Community-Acquired Infections/transmission
+Contact Tracing/statistics & numerical data
+Coronavirus Infections/*transmission
+*Family Characteristics
+Female
+Humans
+Male
+Middle Aged
+Pandemics
+Pneumonia, Viral/*transmission
+SARS-CoV-2
+Time Factors
+Young Adult
+household transmission
+novel coronavirus pneumonia
+LA  - eng
+N1  - Li, Wei
+Zhang, Bo
+Lu, Jianhua
+Liu, Shihua
+Chang, Zhiqiang
+Peng, Cao
+Liu, Xinghua
+Zhang, Peng
+Ling, Yan
+Tao, Kaixiong
+Chen, Jianying
+eng
+Multicenter Study
+2020/04/18
+Clin Infect Dis. 2020 Nov 5;71(8):1943-1946. doi: 10.1093/cid/ciaa450.
+PY  - 2020
+SN  - 1537-6591 (Electronic)
+1058-4838 (Print)
+1058-4838 (Linking)
+SP  - 1943-1946
+ST  - Characteristics of Household Transmission of COVID-19
+T2  - Clin Infect Dis
+TI  - Characteristics of Household Transmission of COVID-19
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32301964
+VL  - 71
+ID  - 7314
+ER  - 
+
+TY  - JOUR
+AB  - The Okinawa prefecture confirmed 142 cases of coronavirus disease from February 14 to May 2020. Among them, 78 were the first cases of a household with 174 household contacts. Of the 174 contacts, 21 contracted the disease, indicating a secondary attack rate of 12.1% (95% confidence interval [CI] 7.6-17.9%). No significant differences were observed in the demographics and quantitative reverse transcription-polymerase chain reaction test results between the first cases that became the sources of infection to the household members. The secondary attack rates with respect to the various characteristics of the household members were significantly different: aged >69 years (40.9% [95% CI 20.7-63.6%]) and those with underlying diseases (36.0% [95% CI 18.0-57.5%]). When the period from the onset to isolation of the first household case was within 3 days, the secondary attack rate was low (4.5% [95% CI 0.1-22.8%]). Among the 21 secondary cases, 11 (52.4%) developed within 5 days of symptom onset in the first case within the same household. This indicates that secondary infection within the household occurred immediately after symptom onset in the first case. Therefore, isolation of a suspected patient can help reduce secondary household infections.
+AD  - Okinawa Prefectural Institute of Health and Environment, Japan.
+AN  - 33952770
+AU  - Kuba, Y.
+AU  - Shingaki, A.
+AU  - Nidaira, M.
+AU  - Kakita, T.
+AU  - Maeshiro, N.
+AU  - Oyama, M.
+AU  - Kudeken, T.
+AU  - Miyagi, A.
+AU  - Yamauchi, M.
+AU  - Kyan, H.
+DA  - Nov 22
+DB  - Medline
+DO  - 10.7883/yoken.JJID.2020.943
+DP  - NLM
+ET  - 20210430
+IS  - 6
+KW  - *COVID-19/transmission
+Disease Outbreaks
+*Family Characteristics
+Humans
+Japan/epidemiology
+Covid-19
+close contact
+household
+secondary attack rate
+LA  - eng
+N1  - Kuba, Yumani
+Shingaki, Ayako
+Nidaira, Minoru
+Kakita, Tetsuya
+Maeshiro, Noriyuki
+Oyama, Minori
+Kudeken, Tsuyoshi
+Miyagi, Ayano
+Yamauchi, Miyuki
+Kyan, Hisako
+eng
+Japan
+2021/05/07
+Jpn J Infect Dis. 2021 Nov 22;74(6):579-583. doi: 10.7883/yoken.JJID.2020.943. Epub 2021 Apr 30.
+PY  - 2021
+SN  - 1884-2836 (Electronic)
+1344-6304 (Linking)
+SP  - 579-583
+ST  - Characteristics of Household Transmission of COVID-19 during Its Outbreak in Okinawa, Japan from February to May 2020
+T2  - Jpn J Infect Dis
+TI  - Characteristics of Household Transmission of COVID-19 during Its Outbreak in Okinawa, Japan from February to May 2020
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33952770
+VL  - 74
+ID  - 7311
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The SARS-CoV-2 delta (B.1.617.2) variant is highly transmissible and spreading globally, including in populations with high vaccination rates. We aimed to investigate transmission and viral load kinetics in vaccinated and unvaccinated individuals with mild delta variant infection in the community. METHODS: Between Sept 13, 2020, and Sept 15, 2021, 602 community contacts (identified via the UK contract-tracing system) of 471 UK COVID-19 index cases were recruited to the Assessment of Transmission and Contagiousness of COVID-19 in Contacts cohort study and contributed 8145 upper respiratory tract samples from daily sampling for up to 20 days. Household and non-household exposed contacts aged 5 years or older were eligible for recruitment if they could provide informed consent and agree to self-swabbing of the upper respiratory tract. We analysed transmission risk by vaccination status for 231 contacts exposed to 162 epidemiologically linked delta variant-infected index cases. We compared viral load trajectories from fully vaccinated individuals with delta infection (n=29) with unvaccinated individuals with delta (n=16), alpha (B.1.1.7; n=39), and pre-alpha (n=49) infections. Primary outcomes for the epidemiological analysis were to assess the secondary attack rate (SAR) in household contacts stratified by contact vaccination status and the index cases' vaccination status. Primary outcomes for the viral load kinetics analysis were to detect differences in the peak viral load, viral growth rate, and viral decline rate between participants according to SARS-CoV-2 variant and vaccination status. FINDINGS: The SAR in household contacts exposed to the delta variant was 25% (95% CI 18-33) for fully vaccinated individuals compared with 38% (24-53) in unvaccinated individuals. The median time between second vaccine dose and study recruitment in fully vaccinated contacts was longer for infected individuals (median 101 days [IQR 74-120]) than for uninfected individuals (64 days [32-97], p=0.001). SAR among household contacts exposed to fully vaccinated index cases was similar to household contacts exposed to unvaccinated index cases (25% [95% CI 15-35] for vaccinated vs 23% [15-31] for unvaccinated). 12 (39%) of 31 infections in fully vaccinated household contacts arose from fully vaccinated epidemiologically linked index cases, further confirmed by genomic and virological analysis in three index case-contact pairs. Although peak viral load did not differ by vaccination status or variant type, it increased modestly with age (difference of 0.39 [95% credible interval -0.03 to 0.79] in peak log(10) viral load per mL between those aged 10 years and 50 years). Fully vaccinated individuals with delta variant infection had a faster (posterior probability >0.84) mean rate of viral load decline (0.95 log(10) copies per mL per day) than did unvaccinated individuals with pre-alpha (0.69), alpha (0.82), or delta (0.79) variant infections. Within individuals, faster viral load growth was correlated with higher peak viral load (correlation 0.42 [95% credible interval 0.13 to 0.65]) and slower decline (-0.44 [-0.67 to -0.18]). INTERPRETATION: Vaccination reduces the risk of delta variant infection and accelerates viral clearance. Nonetheless, fully vaccinated individuals with breakthrough infections have peak viral load similar to unvaccinated cases and can efficiently transmit infection in household settings, including to fully vaccinated contacts. Host-virus interactions early in infection may shape the entire viral trajectory. FUNDING: National Institute for Health Research.
+AD  - NIHR Health Protection Research Unit in Respiratory Infections, National Heart and Lung Institute, Imperial College London, London, UK; Department of Infectious Disease, Imperial College London, London, UK; National Infection Service, Public Health England, London, UK.
+NIHR Health Protection Research Unit in Respiratory Infections, National Heart and Lung Institute, Imperial College London, London, UK.
+NIHR Health Protection Research Unit in Emerging and Zoonotic Infections, University of Oxford, Oxford, UK; National Infection Service, Public Health England, London, UK.
+Department of Infectious Disease, Imperial College London, London, UK; UK Dementia Research Institute Centre for Care Research and Technology, Imperial College London, London, UK; London Biofoundry, Imperial College Translation and Innovation Hub, London, UK.
+Data and Analytical Services, Public Health England, London, UK.
+Department of Infectious Disease, Imperial College London, London, UK.
+Department of Virology, Manchester Medical Microbiology Partnership, Manchester Foundation Trust, Manchester Academic Health Sciences Centre, Manchester, UK.
+National Infection Service, Public Health England, London, UK.
+NIHR Health Protection Research Unit in Modelling and Health Economics, MRC Centre for Global Infectious Disease Analysis, Jameel Institute, Imperial College London, London, UK.
+NIHR Health Protection Research Unit in Respiratory Infections, National Heart and Lung Institute, Imperial College London, London, UK. Electronic address: a.lalvani@imperial.ac.uk.
+AN  - 34756186
+AU  - Singanayagam, A.
+AU  - Hakki, S.
+AU  - Dunning, J.
+AU  - Madon, K. J.
+AU  - Crone, M. A.
+AU  - Koycheva, A.
+AU  - Derqui-Fernandez, N.
+AU  - Barnett, J. L.
+AU  - Whitfield, M. G.
+AU  - Varro, R.
+AU  - Charlett, A.
+AU  - Kundu, R.
+AU  - Fenn, J.
+AU  - Cutajar, J.
+AU  - Quinn, V.
+AU  - Conibear, E.
+AU  - Barclay, W.
+AU  - Freemont, P. S.
+AU  - Taylor, G. P.
+AU  - Ahmad, S.
+AU  - Zambon, M.
+AU  - Ferguson, N. M.
+AU  - Lalvani, A.
+AU  - Investigators, Ataccc Study
+C1  - Declaration of interests NMF reports grants from UK Medical Research Council, UK National Institute of Health Research, UK Research and Innovation, Community Jameel, Janssen Pharmaceuticals, the Bill & Melinda Gates Foundation, and Gavi, the Vaccine Alliance; consulting fees from the World Bank; payment or honoraria from the Wellcome Trust; travel expenses from WHO; advisory board participation for Takeda; and is a senior editor of the eLife journal. All other authors declare no competing interests.
+C2  - PMC8554486
+DA  - Feb
+DB  - Medline
+DO  - 10.1016/S1473-3099(21)00648-4
+DP  - NLM
+ET  - 20211029
+IS  - 2
+KW  - Adult
+COVID-19/epidemiology/prevention & control/*transmission/*virology
+Cohort Studies
+England/epidemiology
+Female
+Humans
+Kinetics
+Longitudinal Studies
+Male
+Middle Aged
+Prospective Studies
+SARS-CoV-2/*physiology
+United Kingdom/epidemiology
+Vaccination
+Vaccination Coverage
+Viral Load/*physiology
+LA  - eng
+N1  - Singanayagam, Anika
+Hakki, Seran
+Dunning, Jake
+Madon, Kieran J
+Crone, Michael A
+Koycheva, Aleksandra
+Derqui-Fernandez, Nieves
+Barnett, Jack L
+Whitfield, Michael G
+Varro, Robert
+Charlett, Andre
+Kundu, Rhia
+Fenn, Joe
+Cutajar, Jessica
+Quinn, Valerie
+Conibear, Emily
+Barclay, Wendy
+Freemont, Paul S
+Taylor, Graham P
+Ahmad, Shazaad
+Zambon, Maria
+Ferguson, Neil M
+Lalvani, Ajit
+eng
+MC_PC_19012/MRC_/Medical Research Council/United Kingdom
+MR/R015600/1/MRC_/Medical Research Council/United Kingdom
+MR/R021643/1/MRC_/Medical Research Council/United Kingdom
+Observational Study
+Research Support, Non-U.S. Gov't
+2021/11/11
+Lancet Infect Dis. 2022 Feb;22(2):183-195. doi: 10.1016/S1473-3099(21)00648-4. Epub 2021 Oct 29.
+PY  - 2022
+SN  - 1474-4457 (Electronic)
+1473-3099 (Print)
+1473-3099 (Linking)
+SP  - 183-195
+ST  - Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study
+T2  - Lancet Infect Dis
+TI  - Community transmission and viral load kinetics of the SARS-CoV-2 delta (B.1.617.2) variant in vaccinated and unvaccinated individuals in the UK: a prospective, longitudinal, cohort study
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/34756186
+VL  - 22
+ID  - 7326
+ER  - 
+
+TY  - JOUR
+AB  - We analyzed reports for 59,073 contacts of 5,706 coronavirus disease (COVID-19) index patients reported in South Korea during January 20-March 27, 2020. Of 10,592 household contacts, 11.8% had COVID-19. Of 48,481 nonhousehold contacts, 1.9% had COVID-19. Use of personal protective measures and social distancing reduces the likelihood of transmission.
+AN  - 32673193
+AU  - Park, Y. J.
+AU  - Choe, Y. J.
+AU  - Park, O.
+AU  - Park, S. Y.
+AU  - Kim, Y. M.
+AU  - Kim, J.
+AU  - Kweon, S.
+AU  - Woo, Y.
+AU  - Gwack, J.
+AU  - Kim, S. S.
+AU  - Lee, J.
+AU  - Hyun, J.
+AU  - Ryu, B.
+AU  - Jang, Y. S.
+AU  - Kim, H.
+AU  - Shin, S. H.
+AU  - Yi, S.
+AU  - Lee, S.
+AU  - Kim, H. K.
+AU  - Lee, H.
+AU  - Jin, Y.
+AU  - Park, E.
+AU  - Choi, S. W.
+AU  - Kim, M.
+AU  - Song, J.
+AU  - Choi, S. W.
+AU  - Kim, D.
+AU  - Jeon, B. H.
+AU  - Yoo, H.
+AU  - Jeong, E. K.
+AU  - Covid-19 National Emergency Response Center, Epidemiology
+AU  - Case Management, Team
+C2  - PMC7510731
+DA  - Oct
+DB  - Medline
+DO  - 10.3201/eid2610.201315
+DP  - NLM
+ET  - 20200716
+IS  - 10
+KW  - Adolescent
+Adult
+Age Distribution
+Age Factors
+Aged
+Aged, 80 and over
+Betacoronavirus
+Covid-19
+Child
+Child, Preschool
+Contact Tracing/*statistics & numerical data
+Coronavirus Infections/*epidemiology/transmission
+*Disease Outbreaks
+Family Characteristics
+Humans
+Infant
+Infant, Newborn
+Middle Aged
+Pandemics
+Pneumonia, Viral/*epidemiology/transmission
+Republic of Korea/epidemiology
+SARS-CoV-2
+Young Adult
+2019 novel coronavirus disease
+South Korea
+contact tracing
+coronavirus disease
+pneumonia
+respiratory diseases
+severe acute respiratory syndrome coronavirus 2
+viruses
+zoonoses
+LA  - eng
+N1  - Park, Young Joon
+Choe, Young June
+Park, Ok
+Park, Shin Young
+Kim, Young-Man
+Kim, Jieun
+Kweon, Sanghui
+Woo, Yeonhee
+Gwack, Jin
+Kim, Seong Sun
+Lee, Jin
+Hyun, Junghee
+Ryu, Boyeong
+Jang, Yoon Suk
+Kim, Hwami
+Shin, Seung Hwan
+Yi, Seonju
+Lee, Sangeun
+Kim, Hee Kyoung
+Lee, Hyeyoung
+Jin, Yeowon
+Park, Eunmi
+Choi, Seung Woo
+Kim, Miyoung
+Song, Jeongsuk
+Choi, Si Won
+Kim, Dongwook
+Jeon, Byoung-Hak
+Yoo, Hyosoon
+Jeong, Eun Kyeong
+eng
+2020/07/17
+Emerg Infect Dis. 2020 Oct;26(10):2465-2468. doi: 10.3201/eid2610.201315. Epub 2020 Jul 16.
+PY  - 2020
+SN  - 1080-6059 (Electronic)
+1080-6040 (Print)
+1080-6040 (Linking)
+SP  - 2465-2468
+ST  - Contact Tracing during Coronavirus Disease Outbreak, South Korea, 2020
+T2  - Emerg Infect Dis
+TI  - Contact Tracing during Coronavirus Disease Outbreak, South Korea, 2020
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32673193
+VL  - 26
+ID  - 7324
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The US' coronavirus disease 2019 (COVID-19) epidemic has grown extensively since February 2020, with substantial associated hospitalizations and mortality; New York State has emerged as the national epicenter. We report on the extent of testing and test results during the month of March in New York State, along with risk factors, outcomes, and household prevalence among initial cases subject to in-depth investigations. METHODS: Specimen collection for COVID-19 testing was conducted in healthcare settings, community-based collection sites, and by home testing teams. Information on demographics, risk factors, and hospital outcomes of cases was obtained through epidemiological investigations and an electronic medical records match, and summarized descriptively. Active testing of initial case's households enabled estimation of household prevalence. RESULTS: During March in New York State, outside of New York City, a total of 47 326 persons tested positive for severe acute respiratory syndrome coronavirus 2, out of 141 495 tests (33% test-positive), with the highest number of cases located in the metropolitan region counties. Among 229 initial cases diagnosed through 12 March, by 30 March 13% were hospitalized and 2% died. Testing conducted among 498 members of these case's households found prevalent infection among 57%, excluding first-reported cases 38%. In these homes, we found a significant age gradient in prevalence, from 23% among those < 5 years to 68% among those >/= 65 years (P < .0001). CONCLUSIONS: New York State faced a substantial and increasing COVID-19 outbreak during March 2020. The earliest cases had high levels of infection in their households and by the end of the month, the risks of hospitalization and death were high.
+AD  - University at Albany School of Public Health, State University of New York, Rensselaer, New York, USA.
+New York State Department of Health, Albany, New York, USA.
+Rollins School of Public Health, Emory University, Atlanta, Georgia, USA.
+Wadsworth Center, New York State Department of Health, Albany, New York, USA.
+AN  - 32382743
+AU  - Rosenberg, E. S.
+AU  - Dufort, E. M.
+AU  - Blog, D. S.
+AU  - Hall, E. W.
+AU  - Hoefer, D.
+AU  - Backenson, B. P.
+AU  - Muse, A. T.
+AU  - Kirkwood, J. N.
+AU  - St George, K.
+AU  - Holtgrave, D. R.
+AU  - Hutton, B. J.
+AU  - Zucker, H. A.
+AU  - New York State Coronavirus Response, Team
+C2  - PMC7239264
+DA  - Nov 5
+DB  - Medline
+DO  - 10.1093/cid/ciaa549
+DP  - NLM
+IS  - 8
+KW  - Adolescent
+Adult
+Age Distribution
+Aged
+Covid-19
+COVID-19 Testing
+Child
+Child, Preschool
+Clinical Laboratory Techniques/*statistics & numerical data
+Coronavirus Infections/diagnosis/*epidemiology
+*Family Characteristics
+Female
+Hospitalization/*statistics & numerical data
+Humans
+Infant
+Infant, Newborn
+Male
+Middle Aged
+New York/epidemiology
+Pandemics
+Pneumonia, Viral/*epidemiology
+Prevalence
+Risk Factors
+Spatial Analysis
+Young Adult
+surveillance
+testing
+LA  - eng
+N1  - Rosenberg, Eli S
+Dufort, Elizabeth M
+Blog, Debra S
+Hall, Eric W
+Hoefer, Dina
+Backenson, Bryon P
+Muse, Alison T
+Kirkwood, James N
+St George, Kirsten
+Holtgrave, David R
+Hutton, Brad J
+Zucker, Howard A
+eng
+2020/05/10
+Clin Infect Dis. 2020 Nov 5;71(8):1953-1959. doi: 10.1093/cid/ciaa549.
+PY  - 2020
+SN  - 1537-6591 (Electronic)
+1058-4838 (Print)
+1058-4838 (Linking)
+SP  - 1953-1959
+ST  - COVID-19 Testing, Epidemic Features, Hospital Outcomes, and Household Prevalence, New York State-March 2020
+T2  - Clin Infect Dis
+TI  - COVID-19 Testing, Epidemic Features, Hospital Outcomes, and Household Prevalence, New York State-March 2020
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32382743
+VL  - 71
+ID  - 7325
+ER  - 
+
+TY  - JOUR
+AB  - IMPORTANCE: Much remains unknown about the transmission dynamics of COVID-19. How the severity of the index case and timing of exposure is associated with disease in close contacts of index patients with COVID-19 and clinical presentation in those developing disease is not well elucidated. OBJECTIVES: To investigate the association between the timing of exposure and development of disease among close contacts of index patients with COVID-19 and to evaluate whether the severity of the index case is associated with clinical presentation in close contacts who develop COVID-19. DESIGN, SETTING, AND PARTICIPANTS: This study used a large, population-based cohort of 730 individuals (index patients) who received a diagnosis of COVID-19 in Zhejiang Province, China, from January 8 to July 30, 2020, along with a contact tracing surveillance program. Field workers visited 8852 close contacts of the index patients and evaluated them for COVID-19 through August 2020. A timeline was constructed to characterize different exposure periods between index patients and their contacts. MAIN OUTCOMES AND MEASURES: The primary outcome was the attack rate of COVID-19, defined as the total number of new COVID-19 cases diagnosed among contacts of index patients divided by the total number of exposed contacts. A secondary outcome was asymptomatic clinical presentation among infected contacts. Relative risks were calculated to investigate risk factors for COVID-19 among contacts and asymptomatic clinical presentation among infected contacts. RESULTS: Among 8852 close contacts (4679 male contacts [52.9%]; median age, 41 years [interquartile range, 28-54 years]) of 730 index patients (374 male patients [51.2%]; median age, 46 years [interquartile range, 36-56 years]), contacts were at highest risk of COVID-19 if they were exposed between 2 days before and 3 days after the index patient's symptom onset, peaking at day 0 (adjusted relative risk [ARR], 1.3; 95% CI, 1.2-1.5). Compared with being exposed to an asymptomatic index patient, the risk of COVID-19 among contacts was higher when they were exposed to index patients with mild (ARR, 4.0; 95% CI, 1.8-9.1) and moderate (ARR, 4.3; 95% CI, 1.9-9.7) cases of COVID-19. As index case severity increased, infected contacts were less likely to be asymptomatic (exposed to patient with mild COVID-19: ARR, 0.3; 95% CI, 0.1-0.9; exposed to patient with moderate COVID-19: ARR, 0.3; 95% CI, 0.1-0.8). CONCLUSIONS AND RELEVANCE: This cohort study found that individuals with COVID-19 were most infectious a few days before and after symptom onset. Infected contacts of asymptomatic index patients were less likely to present with COVID-19 symptoms, suggesting that quantity of exposure may be associated with clinical presentation in close contacts.
+AD  - Department of Epidemiology and Biostatistics, College of Public Health, University of Georgia, Athens.
+Department of Epidemiology, School of Public Health, Boston University, Boston, Massachusetts.
+Department of Environmental Health, School of Public Health, Boston University, Boston, Massachusetts.
+Zhejiang Provincial Center for Disease Control and Prevention, Hangzhou, China.
+Department of Biostatistics and Data Science, School of Public Health, University of Texas Health Science Center at Houston, Houston.
+Department of Epidemiology, Human Genetics and Environmental Sciences, School of Public Health, University of Texas Health Science Center at Houston, Houston.
+Department of Epidemiology, Tulane University School of Public Health and Tropical Medicine, New Orleans, Louisiana.
+AN  - 34424260
+AU  - Ge, Y.
+AU  - Martinez, L.
+AU  - Sun, S.
+AU  - Chen, Z.
+AU  - Zhang, F.
+AU  - Li, F.
+AU  - Sun, W.
+AU  - Chen, E.
+AU  - Pan, J.
+AU  - Li, C.
+AU  - Sun, J.
+AU  - Handel, A.
+AU  - Ling, F.
+AU  - Shen, Y.
+C1  - Conflict of Interest Disclosures: None reported.
+C2  - PMC8383161
+DA  - Oct 1
+DB  - Medline
+DO  - 10.1001/jamainternmed.2021.4686
+DP  - NLM
+IS  - 10
+KW  - Adult
+Aged
+COVID-19/diagnosis/epidemiology/*transmission
+China
+Cohort Studies
+*Contact Tracing
+Female
+Humans
+Male
+Middle Aged
+Risk Factors
+SARS-CoV-2/*pathogenicity
+Symptom Assessment
+Time Factors
+Young Adult
+LA  - eng
+N1  - Ge, Yang
+Martinez, Leonardo
+Sun, Shengzhi
+Chen, Zhiping
+Zhang, Feng
+Li, Fangyu
+Sun, Wanwan
+Chen, Enfu
+Pan, Jinren
+Li, Changwei
+Sun, Jimin
+Handel, Andreas
+Ling, Feng
+Shen, Ye
+eng
+Research Support, Non-U.S. Gov't
+2021/08/24
+JAMA Intern Med. 2021 Oct 1;181(10):1343-1350. doi: 10.1001/jamainternmed.2021.4686.
+PY  - 2021
+SN  - 2168-6114 (Electronic)
+2168-6106 (Print)
+2168-6106 (Linking)
+SP  - 1343-1350
+ST  - COVID-19 Transmission Dynamics Among Close Contacts of Index Patients With COVID-19: A Population-Based Cohort Study in Zhejiang Province, China
+T2  - JAMA Intern Med
+TI  - COVID-19 Transmission Dynamics Among Close Contacts of Index Patients With COVID-19: A Population-Based Cohort Study in Zhejiang Province, China
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/34424260
+VL  - 181
+ID  - 7306
+ER  - 
+
+TY  - JOUR
+AU  - Lyngse, Frederik Plesner
+AU  - Kirkeby, Carsten Thure
+AU  - Halasa, Tariq
+AU  - Andreasen, Viggo
+AU  - Skov, Robert Leo
+AU  - Møller, Frederik Trier
+AU  - Krause, Tyra Grove
+AU  - Mølbak, Kåre
+DO  - 10.1101/2020.09.09.20191239
+PY  - 2020
+SP  - 2020.09.09.20191239
+ST  - COVID-19 Transmission Within Danish Households: A Nationwide Study from Lockdown to Reopening
+T2  - medRxiv
+TI  - COVID-19 Transmission Within Danish Households: A Nationwide Study from Lockdown to Reopening
+UR  - https://www.medrxiv.org/content/medrxiv/early/2020/09/09/2020.09.09.20191239.full.pdf
+ID  - 7317
+ER  - 
+
+TY  - JOUR
+AU  - Lyngse, Frederik Plesner
+AU  - Mølbak, Kåre
+AU  - Denwood, Matt
+AU  - Christiansen, Lasse Engbo
+AU  - Møller, Camilla Holten
+AU  - Rasmussen, Morten
+AU  - Cohen, Arieh Sierrah
+AU  - Stegger, Marc
+AU  - Fonager, Jannik
+AU  - Sieber, Raphael
+AU  - Ellegaard, Kirsten
+AU  - Nielsen, Claus
+AU  - Kirkeby, Carsten Thure
+DO  - 10.1101/2022.01.06.22268841
+PY  - 2022
+SP  - 2022.01.06.22268841
+ST  - Effect of Vaccination on Household Transmission of SARS-CoV-2 Delta VOC
+T2  - medRxiv
+TI  - Effect of Vaccination on Household Transmission of SARS-CoV-2 Delta VOC
+UR  - https://www.medrxiv.org/content/medrxiv/early/2022/01/06/2022.01.06.22268841.full.pdf
+ID  - 7318
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Rapid spread of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in Wuhan, China, prompted heightened surveillance in Shenzhen, China. The resulting data provide a rare opportunity to measure key metrics of disease course, transmission, and the impact of control measures. METHODS: From Jan 14 to Feb 12, 2020, the Shenzhen Center for Disease Control and Prevention identified 391 SARS-CoV-2 cases and 1286 close contacts. We compared cases identified through symptomatic surveillance and contact tracing, and estimated the time from symptom onset to confirmation, isolation, and admission to hospital. We estimated metrics of disease transmission and analysed factors influencing transmission risk. FINDINGS: Cases were older than the general population (mean age 45 years) and balanced between males (n=187) and females (n=204). 356 (91%) of 391 cases had mild or moderate clinical severity at initial assessment. As of Feb 22, 2020, three cases had died and 225 had recovered (median time to recovery 21 days; 95% CI 20-22). Cases were isolated on average 4.6 days (95% CI 4.1-5.0) after developing symptoms; contact tracing reduced this by 1.9 days (95% CI 1.1-2.7). Household contacts and those travelling with a case were at higher risk of infection (odds ratio 6.27 [95% CI 1.49-26.33] for household contacts and 7.06 [1.43-34.91] for those travelling with a case) than other close contacts. The household secondary attack rate was 11.2% (95% CI 9.1-13.8), and children were as likely to be infected as adults (infection rate 7.4% in children <10 years vs population average of 6.6%). The observed reproductive number (R) was 0.4 (95% CI 0.3-0.5), with a mean serial interval of 6.3 days (95% CI 5.2-7.6). INTERPRETATION: Our data on cases as well as their infected and uninfected close contacts provide key insights into the epidemiology of SARS-CoV-2. This analysis shows that isolation and contact tracing reduce the time during which cases are infectious in the community, thereby reducing the R. The overall impact of isolation and contact tracing, however, is uncertain and highly dependent on the number of asymptomatic cases. Moreover, children are at a similar risk of infection to the general population, although less likely to have severe symptoms; hence they should be considered in analyses of transmission and control. FUNDING: Emergency Response Program of Harbin Institute of Technology, Emergency Response Program of Peng Cheng Laboratory, US Centers for Disease Control and Prevention.
+AD  - Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA.
+Department of Public Health Information, Shenzhen, China.
+Department of Communicable Diseases Control and Prevention, Shenzhen, China.
+School of Electronic and Information Engineering, Harbin Institute of Technology at Shenzhen, Shenzhen, China; Artificial Intelligence Research Center, Peng Cheng Laboratory, Shenzhen, China.
+Shenzhen Center for Disease Control and Prevention, Shenzhen, China.
+Department of International Health, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA.
+Artificial Intelligence Research Center, Peng Cheng Laboratory, Shenzhen, China.
+Department of School Health, Shenzhen, China.
+School of Computer Science, Harbin Institute of Technology at Shenzhen, Shenzhen, China; Artificial Intelligence Research Center, Peng Cheng Laboratory, Shenzhen, China.
+Department of Environment and Health, Shenzhen, China.
+School of Electronic and Information Engineering, Harbin Institute of Technology at Shenzhen, Shenzhen, China; Artificial Intelligence Research Center, Peng Cheng Laboratory, Shenzhen, China. Electronic address: tma@hit.edu.cn.
+Department of Epidemiology, Johns Hopkins Bloomberg School of Public Health, Baltimore, MD, USA. Electronic address: justin@jhu.edu.
+Shenzhen Center for Disease Control and Prevention, Shenzhen, China. Electronic address: fengtiej@126.com.
+AN  - 32353347
+AU  - Bi, Q.
+AU  - Wu, Y.
+AU  - Mei, S.
+AU  - Ye, C.
+AU  - Zou, X.
+AU  - Zhang, Z.
+AU  - Liu, X.
+AU  - Wei, L.
+AU  - Truelove, S. A.
+AU  - Zhang, T.
+AU  - Gao, W.
+AU  - Cheng, C.
+AU  - Tang, X.
+AU  - Wu, X.
+AU  - Wu, Y.
+AU  - Sun, B.
+AU  - Huang, S.
+AU  - Sun, Y.
+AU  - Zhang, J.
+AU  - Ma, T.
+AU  - Lessler, J.
+AU  - Feng, T.
+C2  - PMC7185944
+DA  - Aug
+DB  - Medline
+DO  - 10.1016/S1473-3099(20)30287-5
+DP  - NLM
+ET  - 20200427
+IS  - 8
+KW  - Adolescent
+Adult
+Aged
+Aged, 80 and over
+Basic Reproduction Number
+Betacoronavirus/*isolation & purification
+Covid-19
+Child
+Child, Preschool
+China/epidemiology
+Communicable Disease Control/*methods/organization & administration
+Contact Tracing
+Coronavirus Infections/*epidemiology/prevention & control/*transmission
+Disease Transmission, Infectious/*prevention & control/*statistics & numerical
+data
+Female
+Humans
+Infant
+Infant, Newborn
+Male
+Middle Aged
+Pandemics/prevention & control
+Pneumonia, Viral/*epidemiology/prevention & control/*transmission
+Retrospective Studies
+Risk Assessment
+SARS-CoV-2
+Young Adult
+LA  - eng
+N1  - Bi, Qifang
+Wu, Yongsheng
+Mei, Shujiang
+Ye, Chenfei
+Zou, Xuan
+Zhang, Zhen
+Liu, Xiaojian
+Wei, Lan
+Truelove, Shaun A
+Zhang, Tong
+Gao, Wei
+Cheng, Cong
+Tang, Xiujuan
+Wu, Xiaoliang
+Wu, Yu
+Sun, Binbin
+Huang, Suli
+Sun, Yu
+Zhang, Juncen
+Ma, Ting
+Lessler, Justin
+Feng, Tiejian
+eng
+NU2GGH002000/CC/CDC HHS/
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, P.H.S.
+2020/05/01
+Lancet Infect Dis. 2020 Aug;20(8):911-919. doi: 10.1016/S1473-3099(20)30287-5. Epub 2020 Apr 27.
+PY  - 2020
+SN  - 1474-4457 (Electronic)
+1473-3099 (Print)
+1473-3099 (Linking)
+SP  - 911-919
+ST  - Epidemiology and transmission of COVID-19 in 391 cases and 1286 of their close contacts in Shenzhen, China: a retrospective cohort study
+T2  - Lancet Infect Dis
+TI  - Epidemiology and transmission of COVID-19 in 391 cases and 1286 of their close contacts in Shenzhen, China: a retrospective cohort study
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32353347
+VL  - 20
+ID  - 7304
+ER  - 
+
+TY  - JOUR
+AB  - The overall coronavirus disease secondary attack rate (SAR) in family members was 19.0% in 10 prefectures of Japan during February 22-May 31, 2020. The SAR was lower for primary cases diagnosed early, within 2 days after symptom onset. The SAR of asymptomatic primary cases was 11.8%.
+AN  - 33622475
+AU  - Miyahara, R.
+AU  - Tsuchiya, N.
+AU  - Yasuda, I.
+AU  - Ko, Y. K.
+AU  - Furuse, Y.
+AU  - Sando, E.
+AU  - Nagata, S.
+AU  - Imamura, T.
+AU  - Saito, M.
+AU  - Morimoto, K.
+AU  - Imamura, T.
+AU  - Shobugawa, Y.
+AU  - Nishiura, H.
+AU  - Suzuki, M.
+AU  - Oshitani, H.
+C2  - PMC7920650
+DA  - Mar
+DB  - Medline
+DO  - 10.3201/eid2703.203882
+DP  - NLM
+IS  - 3
+KW  - Asymptomatic Infections/epidemiology
+COVID-19/diagnosis/*epidemiology/transmission
+Contact Tracing/statistics & numerical data
+*Family
+Female
+Humans
+Incidence
+Japan/epidemiology
+Male
+SARS-CoV-2/isolation & purification
+Time Factors
+Covid-19
+Japan
+SARS-CoV-2
+coronavirus disease
+familial clusters
+prefectures
+respiratory infections
+severe acute respiratory syndrome coronavirus 2
+viruses
+LA  - eng
+N1  - Miyahara, Reiko
+Tsuchiya, Naho
+Yasuda, Ikkoh
+Ko, Yura K
+Furuse, Yuki
+Sando, Eiichiro
+Nagata, Shohei
+Imamura, Tadatsugu
+Saito, Mayuko
+Morimoto, Konosuke
+Imamura, Takeaki
+Shobugawa, Yugo
+Nishiura, Hiroshi
+Suzuki, Motoi
+Oshitani, Hitoshi
+eng
+Research Support, Non-U.S. Gov't
+2021/02/25
+Emerg Infect Dis. 2021 Mar;27(3):915-918. doi: 10.3201/eid2703.203882.
+PY  - 2021
+SN  - 1080-6059 (Electronic)
+1080-6040 (Print)
+1080-6040 (Linking)
+SP  - 915-918
+ST  - Familial Clusters of Coronavirus Disease in 10 Prefectures, Japan, February-May 2020
+T2  - Emerg Infect Dis
+TI  - Familial Clusters of Coronavirus Disease in 10 Prefectures, Japan, February-May 2020
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33622475
+VL  - 27
+ID  - 7323
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Few prospective studies of SARS-CoV-2 transmission within households have been reported from the United States, where COVID-19 cases are the highest in the world and the pandemic has had disproportionate impact on communities of color. METHODS AND FINDINGS: This is a prospective observational study. Between April-October 2020, the UNC CO-HOST study enrolled 102 COVID-positive persons and 213 of their household members across the Piedmont region of North Carolina, including 45% who identified as Hispanic/Latinx or non-white. Households were enrolled a median of 6 days from onset of symptoms in the index case. Secondary cases within the household were detected either by PCR of a nasopharyngeal (NP) swab on study day 1 and weekly nasal swabs (days 7, 14, 21) thereafter, or based on seroconversion by day 28. After excluding household contacts exposed at the same time as the index case, the secondary attack rate (SAR) among susceptible household contacts was 60% (106/176, 95% CI 53%-67%). The majority of secondary cases were already infected at study enrollment (73/106), while 33 were observed during study follow-up. Despite the potential for continuous exposure and sequential transmission over time, 93% (84/90, 95% CI 86%-97%) of PCR-positive secondary cases were detected within 14 days of symptom onset in the index case, while 83% were detected within 10 days. Index cases with high NP viral load (>10;6 viral copies/ul) at enrollment were more likely to transmit virus to household contacts during the study (OR 4.9, 95% CI 1.3-18 p=0.02). Furthermore, NP viral load was correlated within families (ICC=0.44, 95% CI 0.26-0.60), meaning persons in the same household were more likely to have similar viral loads, suggesting an inoculum effect. High household living density was associated with a higher risk of secondary household transmission (OR 5.8, 95% CI 1.3-55) for households with >3 persons occupying <6 rooms (SAR=91%, 95% CI 71-98%). Index cases who self-identified as Hispanic/Latinx or non-white were more likely to experience a high living density and transmit virus to a household member, translating into an SAR in minority households of 70%, versus 52% in white households (p=0.05). CONCLUSIONS: SARS-CoV-2 transmits early and often among household members. Risk for spread and subsequent disease is elevated in high-inoculum households with limited living space. Very high infection rates due to household crowding likely contribute to the increased incidence of SARS-CoV-2 infection and morbidity observed among racial and ethnic minorities in the US. Quarantine for 14 days from symptom onset of the first case in the household is appropriate to prevent onward transmission from the household. Ultimately, primary prevention through equitable distribution of effective vaccines is of paramount importance.
+AD  - Medical Research Council Unit The Gambia at the London School of Hygiene & Tropical Medicine, The Gambia.
+Institute of Global Health and Infectious Diseases, University of North Carolina School of Medicine, Chapel Hill, NC USA.
+Gillings School of Global Public Health, University of North Carolina, Chapel Hill, NC USA.
+Department of Microbiology and Immunology, University of North Carolina School of Medicine, Chapel Hill, NC USA.
+AN  - 33758871
+AU  - Cerami, C.
+AU  - Rapp, T.
+AU  - Lin, F. C.
+AU  - Tompkins, K.
+AU  - Basham, C.
+AU  - Muller, M. S.
+AU  - Whittelsey, M.
+AU  - Zhang, H.
+AU  - Chhetri, S. B.
+AU  - Smith, J.
+AU  - Litel, C.
+AU  - Lin, K.
+AU  - Churiwal, M.
+AU  - Khan, S.
+AU  - Claman, F.
+AU  - Rubinstein, R.
+AU  - Mollan, K.
+AU  - Wohl, D.
+AU  - Premkumar, L.
+AU  - Juliano, J. J.
+AU  - Lin, J. T.
+C2  - PMC7987030
+DA  - Mar 12
+DB  - PubMed-not-MEDLINE
+DO  - 10.1101/2021.03.10.21253173
+DP  - NLM
+ET  - 20210312
+N1  - Cerami, Carla
+Rapp, Tyler
+Lin, Feng-Chang
+Tompkins, Kathleen
+Basham, Christopher
+Muller, Meredith S
+Whittelsey, Maureen
+Zhang, Haoming
+Chhetri, Srijana B
+Smith, Judy
+Litel, Christy
+Lin, Kelly
+Churiwal, Mehal
+Khan, Salman
+Claman, Faith
+Rubinstein, Rebecca
+Mollan, Katie
+Wohl, David
+Premkumar, Lakshmanane
+Juliano, Jonathan J
+Lin, Jessica T
+eng
+MR/R023360/1/MRC_/Medical Research Council/United Kingdom
+UL1 TR002489/TR/NCATS NIH HHS/
+Preprint
+2021/03/25
+medRxiv. 2021 Mar 12:2021.03.10.21253173. doi: 10.1101/2021.03.10.21253173. Preprint.
+PY  - 2021
+SP  - 2021.03.10.21253173
+ST  - High household transmission of SARS-CoV-2 in the United States: living density, viral load, and disproportionate impact on communities of color
+T2  - medRxiv
+TI  - High household transmission of SARS-CoV-2 in the United States: living density, viral load, and disproportionate impact on communities of color
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33758871
+ID  - 7305
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: As of June 8, 2020, the global reported number of COVID-19 cases had reached more than 7 million with over 400 000 deaths. The household transmissibility of the causative pathogen, severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2), remains unclear. We aimed to estimate the secondary attack rate of SARS-CoV-2 among household and non-household close contacts in Guangzhou, China, using a statistical transmission model. METHODS: In this retrospective cohort study, we used a comprehensive contact tracing dataset from the Guangzhou Center for Disease Control and Prevention to estimate the secondary attack rate of COVID-19 (defined as the probability that an infected individual will transmit the disease to a susceptible individual) among household and non-household contacts, using a statistical transmission model. We considered two alternative definitions of household contacts in the analysis: individuals who were either family members or close relatives, such as parents and parents-in-law, regardless of residential address, and individuals living at the same address regardless of relationship. We assessed the demographic determinants of transmissibility and the infectivity of COVID-19 cases during their incubation period. FINDINGS: Between Jan 7, 2020, and Feb 18, 2020, we traced 195 unrelated close contact groups (215 primary cases, 134 secondary or tertiary cases, and 1964 uninfected close contacts). By identifying households from these groups, assuming a mean incubation period of 5 days, a maximum infectious period of 13 days, and no case isolation, the estimated secondary attack rate among household contacts was 12.4% (95% CI 9.8-15.4) when household contacts were defined on the basis of close relatives and 17.1% (13.3-21.8) when household contacts were defined on the basis of residential address. Compared with the oldest age group (>/=60 years), the risk of household infection was lower in the youngest age group (<20 years; odds ratio [OR] 0.23 [95% CI 0.11-0.46]) and among adults aged 20-59 years (OR 0.64 [95% CI 0.43-0.97]). Our results suggest greater infectivity during the incubation period than during the symptomatic period, although differences were not statistically significant (OR 0.61 [95% CI 0.27-1.38]). The estimated local reproductive number (R) based on observed contact frequencies of primary cases was 0.5 (95% CI 0.41-0.62) in Guangzhou. The projected local R, had there been no isolation of cases or quarantine of their contacts, was 0.6 (95% CI 0.49-0.74) when household was defined on the basis of close relatives. INTERPRETATION: SARS-CoV-2 is more transmissible in households than SARS-CoV and Middle East respiratory syndrome coronavirus. Older individuals (aged >/=60 years) are the most susceptible to household transmission of SARS-CoV-2. In addition to case finding and isolation, timely tracing and quarantine of close contacts should be implemented to prevent onward transmission during the viral incubation period. FUNDING: US National Institutes of Health, Science and Technology Plan Project of Guangzhou, Project for Key Medicine Discipline Construction of Guangzhou Municipality, Key Research and Development Program of China.
+AD  - Guangzhou Center for Disease Control and Prevention, Guangzhou, China.
+Department of Biostatistics, College of Public Health and Health Professions, Emerging Pathogens Institute, University of Florida, Gainesville, FL, USA.
+State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Beijing, China.
+Department of Biostatistics, College of Public Health and Health Professions, Emerging Pathogens Institute, University of Florida, Gainesville, FL, USA; State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Beijing, China; Department of Epidemiology, School of Public Health, Cheeloo College of Medicine, Shandong University, Jinan, China.
+Division of Biostatistics, College of Public Health, Ohio State University, Columbus, OH, USA.
+Guangzhou Center for Disease Control and Prevention, Guangzhou, China. Electronic address: yangzc@gzcdc.org.cn.
+Department of Biostatistics, College of Public Health and Health Professions, Emerging Pathogens Institute, University of Florida, Gainesville, FL, USA. Electronic address: yangyang@ufl.edu.
+AN  - 32562601
+AU  - Jing, Q. L.
+AU  - Liu, M. J.
+AU  - Zhang, Z. B.
+AU  - Fang, L. Q.
+AU  - Yuan, J.
+AU  - Zhang, A. R.
+AU  - Dean, N. E.
+AU  - Luo, L.
+AU  - Ma, M. M.
+AU  - Longini, I.
+AU  - Kenah, E.
+AU  - Lu, Y.
+AU  - Ma, Y.
+AU  - Jalali, N.
+AU  - Yang, Z. C.
+AU  - Yang, Y.
+C2  - PMC7529929
+C6  - NIHMS1606620
+DA  - Oct
+DB  - Medline
+DO  - 10.1016/S1473-3099(20)30471-0
+DP  - NLM
+ET  - 20200617
+IS  - 10
+KW  - Adult
+Asymptomatic Infections/epidemiology
+Basic Reproduction Number
+Betacoronavirus
+Covid-19
+China/epidemiology
+*Contact Tracing/statistics & numerical data
+Coronavirus Infections/epidemiology/prevention & control/*transmission
+*Family Characteristics
+Female
+Humans
+Incidence
+Male
+Middle Aged
+Models, Theoretical
+Pandemics/prevention & control
+Pneumonia, Viral/epidemiology/prevention & control/*transmission
+Quarantine
+Retrospective Studies
+Risk Factors
+SARS-CoV-2
+Young Adult
+LA  - eng
+N1  - Jing, Qin-Long
+Liu, Ming-Jin
+Zhang, Zhou-Bin
+Fang, Li-Qun
+Yuan, Jun
+Zhang, An-Ran
+Dean, Natalie E
+Luo, Lei
+Ma, Meng-Meng
+Longini, Ira
+Kenah, Eben
+Lu, Ying
+Ma, Yu
+Jalali, Neda
+Yang, Zhi-Cong
+Yang, Yang
+eng
+R01 AI116770/AI/NIAID NIH HHS/
+R01 AI139761/AI/NIAID NIH HHS/
+R37 AI032042/AI/NIAID NIH HHS/
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+2020/06/21
+Lancet Infect Dis. 2020 Oct;20(10):1141-1150. doi: 10.1016/S1473-3099(20)30471-0. Epub 2020 Jun 17.
+PY  - 2020
+SN  - 1474-4457 (Electronic)
+1473-3099 (Print)
+1473-3099 (Linking)
+SP  - 1141-1150
+ST  - Household secondary attack rate of COVID-19 and associated determinants in Guangzhou, China: a retrospective cohort study
+T2  - Lancet Infect Dis
+TI  - Household secondary attack rate of COVID-19 and associated determinants in Guangzhou, China: a retrospective cohort study
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32562601
+VL  - 20
+ID  - 7308
+ER  - 
+
+TY  - JOUR
+AU  - Tibebu, Semra
+AU  - A. Brown, Kevin
+AU  - Daneman, Nick
+AU  - Paul, Lauren A.
+AU  - Buchan, Sarah A.
+DO  - 10.1101/2021.02.23.21252287
+PY  - 2021
+SP  - 2021.02.23.21252287
+ST  - Household secondary attack rate of COVID-19 by household size and index case characteristics
+T2  - medRxiv
+TI  - Household secondary attack rate of COVID-19 by household size and index case characteristics
+UR  - https://www.medrxiv.org/content/medrxiv/early/2021/02/25/2021.02.23.21252287.full.pdf
+ID  - 7327
+ER  - 
+
+TY  - JOUR
+AU  - Wei, Lan
+AU  - Lv, Qiuying
+AU  - Wen, Ying
+AU  - Feng, Shuo
+AU  - Gao, Wei
+AU  - Chen, Zhigao
+AU  - Cao, Bin
+AU  - Wu, Xiaoliang
+AU  - Lu, Yan
+AU  - Zhao, Jin
+AU  - Zou, Xuan
+AU  - Feng, Tiejian
+AU  - Cowling, Benjamin J.
+AU  - Mei, Shujiang
+DO  - 10.1101/2020.05.11.20092692
+PY  - 2020
+SP  - 2020.05.11.20092692
+ST  - Household transmission of COVID-19, Shenzhen, January-February 2020
+T2  - medRxiv
+TI  - Household transmission of COVID-19, Shenzhen, January-February 2020
+UR  - https://www.medrxiv.org/content/medrxiv/early/2020/05/18/2020.05.11.20092692.full.pdf
+ID  - 7329
+ER  - 
+
+TY  - JOUR
+AB  - This cohort study assesses the risk of household transmission of SARS-CoV-2 and the associated risk factors among exposed household members.
+AD  - Division of General Internal Medicine, Department of Medicine, Massachusetts General Hospital, Harvard Medical School, Boston, Massachusetts.
+AN  - 33635324
+AU  - Metlay, J. P.
+AU  - Haas, J. S.
+AU  - Soltoff, A. E.
+AU  - Armstrong, K. A.
+C1  - Conflict of Interest Disclosures: None reported.
+C2  - PMC7910814
+DA  - Feb 1
+DB  - Medline
+DO  - 10.1001/jamanetworkopen.2021.0304
+DP  - NLM
+ET  - 20210201
+IS  - 2
+KW  - Adult
+*COVID-19/epidemiology/prevention & control/transmission
+COVID-19 Nucleic Acid Testing/statistics & numerical data
+*Communicable Disease Control/methods/organization & administration
+Disease Hotspot
+*Disease Transmission, Infectious/prevention & control/statistics & numerical
+data
+Electronic Health Records/statistics & numerical data
+*Family Characteristics
+Female
+Humans
+Male
+Massachusetts/epidemiology
+Middle Aged
+Risk Assessment/methods
+Risk Factors
+SARS-CoV-2/*isolation & purification
+LA  - eng
+N1  - Metlay, Joshua P
+Haas, Jennifer S
+Soltoff, Alexander E
+Armstrong, Katrina A
+eng
+Observational Study
+2021/02/27
+JAMA Netw Open. 2021 Feb 1;4(2):e210304. doi: 10.1001/jamanetworkopen.2021.0304.
+PY  - 2021
+SN  - 2574-3805 (Electronic)
+2574-3805 (Linking)
+SP  - e210304
+ST  - Household Transmission of SARS-CoV-2
+T2  - JAMA Netw Open
+TI  - Household Transmission of SARS-CoV-2
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33635324
+VL  - 4
+ID  - 7322
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) has caused an epidemic in China and many other countries. Many infected clusters have been found within familial households, but the data about secondary transmission among household contacts is limited. METHODS: In this retrospective case series, we enrolled 85 patients infected with SARS-CoV-2 and their household members in Wuhan. Patients were confirmed infected with SARS-CoV-2 by real-time reverse transcription polymerase chain reaction (RT-PCR) assays on throat swabs. Epidemiological, clinical and laboratory data of the household members were collected. RESULTS: There were 155 close contacts in total. 104 contacts received RT-PCR assays, with 47 (30%) positive cases and 57 (37%) negative cases. 51 (33%) cases did not received RT-PCR tests for they showed no symptoms of pneumonia during the 2 weeks of quarantine. The infection rate of close contacts was 38% for households with 1 contact, 50% for households with 2 contacts, and 31% for households with 3 contacts. CONCLUSIONS: The rate of secondary transmission among household contacts of patients with SARS-CoV-2 infection was 30%. Our data provide insight into the rate of secondary transmission of SARS-CoV-2 in home.
+AD  - Cancer Center, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Jiefang Avenue 1277#, Wuhan 430022, China.
+Department of Respiratory and Critical Care Medicine, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430022, China.
+Department of Infectious Diseases, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan 430022, China.
+Cancer Center, Union Hospital, Tongji Medical College, Huazhong University of Science and Technology, Jiefang Avenue 1277#, Wuhan 430022, China. Electronic address: zrg27@163.com.
+AN  - 32283139
+AU  - Wang, Z.
+AU  - Ma, W.
+AU  - Zheng, X.
+AU  - Wu, G.
+AU  - Zhang, R.
+C1  - Declaration of Competing Interest We declare no competing interests.
+C2  - PMC7151261
+DA  - Jul
+DB  - Medline
+DO  - 10.1016/j.jinf.2020.03.040
+DP  - NLM
+ET  - 20200410
+IS  - 1
+KW  - Adult
+Betacoronavirus/*genetics/*isolation & purification
+Covid-19
+Child
+China/epidemiology
+Coronavirus Infections/epidemiology/*transmission/*virology
+*Family Characteristics
+Female
+Humans
+Male
+Pandemics
+Pneumonia, Viral/epidemiology/*transmission/*virology
+Retrospective Studies
+SARS-CoV-2
+Time Factors
+Household
+Transmission
+Wuhan
+LA  - eng
+N1  - Wang, Zhongliang
+Ma, Wanli
+Zheng, Xin
+Wu, Gang
+Zhang, Ruiguang
+eng
+England
+2020/04/14
+J Infect. 2020 Jul;81(1):179-182. doi: 10.1016/j.jinf.2020.03.040. Epub 2020 Apr 10.
+PY  - 2020
+SN  - 1532-2742 (Electronic)
+0163-4453 (Print)
+0163-4453 (Linking)
+SP  - 179-182
+ST  - Household transmission of SARS-CoV-2
+T2  - J Infect
+TI  - Household transmission of SARS-CoV-2
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32283139
+VL  - 81
+ID  - 7328
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Wuhan was the first epicentre of COVID-19 in the world, accounting for 80% of cases in China during the first wave. We aimed to assess household transmissibility of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) and risk factors associated with infectivity and susceptibility to infection in Wuhan. METHODS: This retrospective cohort study included the households of all laboratory-confirmed or clinically confirmed COVID-19 cases and laboratory-confirmed asymptomatic SARS-CoV-2 infections identified by the Wuhan Center for Disease Control and Prevention between Dec 2, 2019, and April 18, 2020. We defined households as groups of family members and close relatives who did not necessarily live at the same address and considered households that shared common contacts as epidemiologically linked. We used a statistical transmission model to estimate household secondary attack rates and to quantify risk factors associated with infectivity and susceptibility to infection, accounting for individual-level exposure history. We assessed how intervention policies affected the household reproductive number, defined as the mean number of household contacts a case can infect. FINDINGS: 27 101 households with 29 578 primary cases and 57 581 household contacts were identified. The secondary attack rate estimated with the transmission model was 15.6% (95% CI 15.2-16.0), assuming a mean incubation period of 5 days and a maximum infectious period of 22 days. Individuals aged 60 years or older were at a higher risk of infection with SARS-CoV-2 than all other age groups. Infants aged 0-1 years were significantly more likely to be infected than children aged 2-5 years (odds ratio [OR] 2.20, 95% CI 1.40-3.44) and children aged 6-12 years (1.53, 1.01-2.34). Given the same exposure time, children and adolescents younger than 20 years of age were more likely to infect others than were adults aged 60 years or older (1.58, 1.28-1.95). Asymptomatic individuals were much less likely to infect others than were symptomatic cases (0.21, 0.14-0.31). Symptomatic cases were more likely to infect others before symptom onset than after (1.42, 1.30-1.55). After mass isolation of cases, quarantine of household contacts, and restriction of movement policies were implemented, household reproductive numbers declined by 52% among primary cases (from 0.25 [95% CI 0.24-0.26] to 0.12 [0.10-0.13]) and by 63% among secondary cases (from 0.17 [0.16-0.18] to 0.063 [0.057-0.070]). INTERPRETATION: Within households, children and adolescents were less susceptible to SARS-CoV-2 infection but were more infectious than older individuals. Presymptomatic cases were more infectious and individuals with asymptomatic infection less infectious than symptomatic cases. These findings have implications for devising interventions for blocking household transmission of SARS-CoV-2, such as timely vaccination of eligible children once resources become available. FUNDING: National Natural Science Foundation of China, Fundamental Research Funds for the Central Universities, US National Institutes of Health, and US National Science Foundation.
+AD  - Wuhan Center for Disease Control and Prevention, Wuhan, Hubei, China.
+School of Public Health, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei, China.
+Department of Biostatistics, College of Public Health and Health Professions & Emerging Pathogens Institute, University of Florida, Gainesville, FL, USA.
+State Key Laboratory of Pathogen and Biosecurity, Beijing Institute of Microbiology and Epidemiology, Beijing, China.
+Department of Pediatrics, Faculty of Medicine, Chinese University of Hong Kong, Hong Kong Special Administrative Region, China.
+Vaccine and Infectious Diseases Division, Fred Hutchinson Cancer Research Center, Seattle, WA, USA; Department of Biostatistics, University of Washington, Seattle, WA, USA.
+Department of Respiratory Medicine, Wuhan Children's Hospital, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei, China.
+Department of Biostatistics, College of Public Health and Health Professions & Emerging Pathogens Institute, University of Florida, Gainesville, FL, USA. Electronic address: yangyang@ufl.edu.
+School of Public Health, Tongji Medical College, Huazhong University of Science and Technology, Wuhan, Hubei, China. Electronic address: xust@hust.edu.cn.
+AN  - 33476567
+AU  - Li, F.
+AU  - Li, Y. Y.
+AU  - Liu, M. J.
+AU  - Fang, L. Q.
+AU  - Dean, N. E.
+AU  - Wong, G. W. K.
+AU  - Yang, X. B.
+AU  - Longini, I.
+AU  - Halloran, M. E.
+AU  - Wang, H. J.
+AU  - Liu, P. L.
+AU  - Pang, Y. H.
+AU  - Yan, Y. Q.
+AU  - Liu, S.
+AU  - Xia, W.
+AU  - Lu, X. X.
+AU  - Liu, Q.
+AU  - Yang, Y.
+AU  - Xu, S. Q.
+C2  - PMC7833912
+DA  - May
+DB  - Medline
+DO  - 10.1016/S1473-3099(20)30981-6
+DP  - NLM
+ET  - 20210118
+IS  - 5
+KW  - Adolescent
+Adult
+Age Factors
+Aged
+COVID-19/etiology/*transmission
+Child
+Child, Preschool
+China/epidemiology
+Disease Susceptibility
+Family Characteristics
+Female
+Humans
+Infant
+Infant, Newborn
+Male
+Middle Aged
+Retrospective Studies
+Risk Factors
+*SARS-CoV-2
+Young Adult
+LA  - eng
+N1  - Li, Fang
+Li, Yuan-Yuan
+Liu, Ming-Jin
+Fang, Li-Qun
+Dean, Natalie E
+Wong, Gary W K
+Yang, Xiao-Bing
+Longini, Ira
+Halloran, M Elizabeth
+Wang, Huai-Ji
+Liu, Pu-Lin
+Pang, Yan-Hui
+Yan, Ya-Qiong
+Liu, Su
+Xia, Wei
+Lu, Xiao-Xia
+Liu, Qi
+Yang, Yang
+Xu, Shun-Qing
+eng
+R01 AI116770/AI/NIAID NIH HHS/
+2034364/US National Science Foundation/
+Observational Study
+Research Support, N.I.H., Extramural
+Research Support, Non-U.S. Gov't
+Research Support, U.S. Gov't, Non-P.H.S.
+2021/01/22
+Lancet Infect Dis. 2021 May;21(5):617-628. doi: 10.1016/S1473-3099(20)30981-6. Epub 2021 Jan 18.
+PY  - 2021
+SN  - 1474-4457 (Electronic)
+1473-3099 (Print)
+1473-3099 (Linking)
+SP  - 617-628
+ST  - Household transmission of SARS-CoV-2 and risk factors for susceptibility and infectivity in Wuhan: a retrospective observational study
+T2  - Lancet Infect Dis
+TI  - Household transmission of SARS-CoV-2 and risk factors for susceptibility and infectivity in Wuhan: a retrospective observational study
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33476567
+VL  - 21
+ID  - 7313
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: To illustrate the extent of transmission, identify affecting risk factors and estimate epidemiological modeling parameters of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) in household setting. METHODS: We enrolled 35 confirmed index cases and their 148 household contacts, January 2020-February 2020, in Zhuhai, China. All participants were interviewed and asked to complete questionnaires. Household contacts were then prospectively followed active symptom monitoring through the 21-day period and nasopharyngeal and/or oropharyngeal swabs were collected at 3-7 days intervals. Epidemiological, demographic, and clinical data (when available) were collected. RESULTS: Assuming that all these secondary cases were infected by their index cases, the second infection rate in household context is 32.4% (95% confidence interval [CI]: 22.4%-44.4%), with 10.4% of secondary cases being asymptomatic. Multivariate analysis showed that household contacts with underlying medical conditions, a history of direct exposure to Wuhan and its surrounding areas, and shared vehicle with an index patient were associated with higher susceptibility. Household members without protective measures after illness onset of the index patient seem to increase the risk for SARS-CoV-2 infection. The median incubation period and serial interval within household were estimated to be 4.3 days (95% CI: 3.4-5.3 days) and 5.1 days (95% CI: 4.3-6.2 days), respectively. CONCLUSION: Early isolation of patients with coronavirus disease 2019 and prioritizing rapid contact investigation, followed by active symptom monitoring and periodic laboratory evaluation, should be initiated immediately after confirming patients to address the underlying determinants driving the continuing pandemic.
+AD  - Department of Pulmonary and Critical Care Medicine, Fifth Affiliated Hospital of Sun Yat-sen University, Zhuhai, China.
+Guangdong Provincial Key Laboratory of Biomedical Imaging, Fifth Affiliated Hospital of Sun Yat-sen University, Zhuhai, China.
+Department of Neurology, Fifth Affiliated Hospital of Sun Yat-sen University, Zhuhai, China.
+Department of Cardiovascular Medicine, Fifth Affiliated Hospital of Sun Yat-sen University, Zhuhai, China.
+Department of Infectious Diseases, Fifth Affiliated Hospital of Sun Yat-sen University, Zhuhai, China.
+AN  - 32392331
+AU  - Wu, J.
+AU  - Huang, Y.
+AU  - Tu, C.
+AU  - Bi, C.
+AU  - Chen, Z.
+AU  - Luo, L.
+AU  - Huang, M.
+AU  - Chen, M.
+AU  - Tan, C.
+AU  - Wang, Z.
+AU  - Wang, K.
+AU  - Liang, Y.
+AU  - Huang, J.
+AU  - Zheng, X.
+AU  - Liu, J.
+C2  - PMC7239243
+DA  - Nov 19
+DB  - Medline
+DO  - 10.1093/cid/ciaa557
+DP  - NLM
+IS  - 16
+KW  - Adolescent
+Adult
+COVID-19/*transmission
+China/epidemiology
+Confidence Intervals
+Female
+Humans
+Infectious Disease Incubation Period
+Male
+Middle Aged
+Multivariate Analysis
+SARS-CoV-2/*pathogenicity
+Young Adult
+SARS-CoV-2
+household transmission
+incubation period
+second infection rate (SIR)
+serial interval
+LA  - eng
+N1  - Wu, Jian
+Huang, Yiying
+Tu, Changli
+Bi, Chunping
+Chen, Zhigang
+Luo, Liyun
+Huang, Mingxing
+Chen, Meizhu
+Tan, Cuiyan
+Wang, Zhenguo
+Wang, Kongqiu
+Liang, YingJian
+Huang, Jin
+Zheng, Xiaobin
+Liu, Jing
+eng
+Research Support, Non-U.S. Gov't
+2020/05/12
+Clin Infect Dis. 2020 Nov 19;71(16):2099-2108. doi: 10.1093/cid/ciaa557.
+PY  - 2020
+SN  - 1537-6591 (Electronic)
+1058-4838 (Print)
+1058-4838 (Linking)
+SP  - 2099-2108
+ST  - Household Transmission of SARS-CoV-2, Zhuhai, China, 2020
+T2  - Clin Infect Dis
+TI  - Household Transmission of SARS-CoV-2, Zhuhai, China, 2020
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32392331
+VL  - 71
+ID  - 7330
+ER  - 
+
+TY  - JOUR
+AB  - We studied the secondary attack rate (SAR), risk factors, and precautionary practices of household transmission in a prospective, longitudinal study. We further compared transmission between the Alpha (B.1.1.7) variant and non-Variant of Concern (non-VOC) viruses. From May 2020 throughout April 2021, we recruited 70 confirmed COVID-19 cases with 146 household contacts. Participants donated biological samples eight times over 6 weeks and answered questionnaires. SARS-CoV-2 infection was detected by real-time RT-PCR. Whole genome sequencing and droplet digital PCR were used to establish virus variant and viral load. SARS-CoV-2 transmission occurred in 60% of the households, and the overall SAR for household contacts was 50%. The SAR was significantly higher for the Alpha variant (78%) compared with non-VOC viruses (43%) and was associated with a higher viral load. SAR was higher in household contacts aged >/=40 years (69%) than in younger contacts (40-47%), and for contacts of primary cases with loss of taste/smell. Children had lower viral loads and were more often asymptomatic than adults. Sleeping separately from the primary case reduced the risk of transmission. In conclusion, we found substantial household transmission, particularly for the Alpha variant. Precautionary practices seem to reduce SAR, but preventing household transmission may become difficult with more contagious variants, depending on vaccine use and effectiveness.
+AD  - Division of Infection Control, Norwegian Institute of Public Health, P.O. Box 222 Skoyen, 0213 Oslo, Norway.
+AN  - 34835495
+AU  - Julin, C. H.
+AU  - Robertson, A. H.
+AU  - Hungnes, O.
+AU  - Tunheim, G.
+AU  - Bekkevold, T.
+AU  - Laake, I.
+AU  - Aune, I. F.
+AU  - Killengreen, M. F.
+AU  - Strand, T. R.
+AU  - Rykkvin, R.
+AU  - Dorenberg, D. H.
+AU  - Stene-Johansen, K.
+AU  - Berg, E. S.
+AU  - Bodin, J. E.
+AU  - Oftung, F.
+AU  - Steens, A.
+AU  - Naess, L. M.
+C1  - The authors declare no conflict of interest.
+C2  - PMC8622435
+DA  - Nov 17
+DB  - PubMed-not-MEDLINE
+DO  - 10.3390/microorganisms9112371
+DP  - NLM
+ET  - 20211117
+IS  - 11
+KW  - Alpha variant
+B.1.1.7
+Covid-19
+Sar
+SARS-CoV-2
+ddPCR
+household transmission
+secondary attack rate
+viral load
+N1  - Julin, Cathinka Halle
+Robertson, Anna Hayman
+Hungnes, Olav
+Tunheim, Gro
+Bekkevold, Terese
+Laake, Ida
+Aune, Idunn Forland
+Killengreen, Marit Fodnes
+Strand, Torunn Ramsem
+Rykkvin, Rikard
+Dorenberg, Dagny Haug
+Stene-Johansen, Kathrine
+Berg, Einar Sverre
+Bodin, Johanna Eva
+Oftung, Fredrik
+Steens, Anneke
+Naess, Lisbeth Meyer
+eng
+Switzerland
+2021/11/28
+Microorganisms. 2021 Nov 17;9(11):2371. doi: 10.3390/microorganisms9112371.
+PY  - 2021
+SN  - 2076-2607 (Print)
+2076-2607 (Electronic)
+2076-2607 (Linking)
+SP  - 2371
+ST  - Household Transmission of SARS-CoV-2: A Prospective Longitudinal Study Showing Higher Viral Load and Increased Transmissibility of the Alpha Variant Compared to Previous Strains
+T2  - Microorganisms
+TI  - Household Transmission of SARS-CoV-2: A Prospective Longitudinal Study Showing Higher Viral Load and Increased Transmissibility of the Alpha Variant Compared to Previous Strains
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/34835495
+VL  - 9
+ID  - 7309
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: The evidence base for severe acute respiratory syndrome coronavirus-2 (SARS-CoV-2) is nascent. We sought to characterize SARS-CoV-2 transmission within US households and estimate the household secondary infection rate (SIR) to inform strategies to reduce transmission. METHODS: We recruited patients with laboratory-confirmed SARS-CoV-2 infection and their household contacts in Utah and Wisconsin during 22 March 2020-25 April 2020. We interviewed patients and all household contacts to obtain demographics and medical histories. At the initial household visit, 14 days later, and when a household contact became newly symptomatic, we collected respiratory swabs from patients and household contacts for testing by SARS-CoV-2 real-time reverse-transcription polymerase chain reaction (rRT-PCR) and sera for SARS-CoV-2 antibodies testing by enzyme-linked immunosorbent assay (ELISA). We estimated SIR and odds ratios (ORs) to assess risk factors for secondary infection, defined by a positive rRT-PCR or ELISA test. RESULTS: Thirty-two (55%) of 58 households secondary infection among household contacts. The SIR was 29% (n = 55/188; 95% confidence interval [CI], 23%-36%) overall, 42% among children (aged <18 years) of the COVID-19 patient and 33% among spouses/partners. Household contacts to COVID-19 patients with immunocompromised conditions and household contacts who themselves had diabetes mellitus had increased odds of infection with ORs 15.9 (95% CI, 2.4-106.9) and 7.1 (95% CI: 1.2-42.5), respectively. CONCLUSIONS: We found substantial evidence of secondary infections among household contacts. People with COVID-19, particularly those with immunocompromising conditions or those with household contacts with diabetes, should take care to promptly self-isolate to prevent household transmission.
+AD  - COVID-19 Response Team, Centers for Disease Control and Prevention, Atlanta, Georgia, USA.
+Epidemic Intelligence Service, Centers for Disease Control and Prevention, Atlanta, Georgia, USA.
+Utah Department of Health, Salt Lake City, Utah, USA.
+Laboratory Leadership Service, Centers for Disease Control and Prevention, Atlanta, Georgia, USA.
+Salt Lake County Health Department, Salt Lake City, Utah, USA.
+Davis County Health Department, Clearfield, Utah, USA.
+City of Milwaukee Health Department, Milwaukee, Wisconsin, USA.
+North Shore Health Department, Milwaukee, Wisconsin, USA.
+Wisconsin Department of Health Services, Madison, Wisconsin, USA.
+AN  - 33185244
+AU  - Lewis, N. M.
+AU  - Chu, V. T.
+AU  - Ye, D.
+AU  - Conners, E. E.
+AU  - Gharpure, R.
+AU  - Laws, R. L.
+AU  - Reses, H. E.
+AU  - Freeman, B. D.
+AU  - Fajans, M.
+AU  - Rabold, E. M.
+AU  - Dawson, P.
+AU  - Buono, S.
+AU  - Yin, S.
+AU  - Owusu, D.
+AU  - Wadhwa, A.
+AU  - Pomeroy, M.
+AU  - Yousaf, A.
+AU  - Pevzner, E.
+AU  - Njuguna, H.
+AU  - Battey, K. A.
+AU  - Tran, C. H.
+AU  - Fields, V. L.
+AU  - Salvatore, P.
+AU  - O'Hegarty, M.
+AU  - Vuong, J.
+AU  - Chancey, R.
+AU  - Gregory, C.
+AU  - Banks, M.
+AU  - Rispens, J. R.
+AU  - Dietrich, E.
+AU  - Marcenac, P.
+AU  - Matanock, A. M.
+AU  - Duca, L.
+AU  - Binder, A.
+AU  - Fox, G.
+AU  - Lester, S.
+AU  - Mills, L.
+AU  - Gerber, S. I.
+AU  - Watson, J.
+AU  - Schumacher, A.
+AU  - Pawloski, L.
+AU  - Thornburg, N. J.
+AU  - Hall, A. J.
+AU  - Kiphibane, T.
+AU  - Willardson, S.
+AU  - Christensen, K.
+AU  - Page, L.
+AU  - Bhattacharyya, S.
+AU  - Dasu, T.
+AU  - Christiansen, A.
+AU  - Pray, I. W.
+AU  - Westergaard, R. P.
+AU  - Dunn, A. C.
+AU  - Tate, J. E.
+AU  - Nabity, S. A.
+AU  - Kirking, H. L.
+C2  - PMC7454394
+DA  - Oct 5
+DB  - Medline
+DO  - 10.1093/cid/ciaa1166
+DP  - NLM
+IS  - 7
+KW  - *covid-19
+Child
+Contact Tracing
+Family Characteristics
+Humans
+*SARS-CoV-2
+United States/epidemiology
+Wisconsin
+Covid-19
+SARS-CoV-2
+household
+transmission
+LA  - eng
+N1  - Lewis, Nathaniel M
+Chu, Victoria T
+Ye, Dongni
+Conners, Erin E
+Gharpure, Radhika
+Laws, Rebecca L
+Reses, Hannah E
+Freeman, Brandi D
+Fajans, Mark
+Rabold, Elizabeth M
+Dawson, Patrick
+Buono, Sean
+Yin, Sherry
+Owusu, Daniel
+Wadhwa, Ashutosh
+Pomeroy, Mary
+Yousaf, Anna
+Pevzner, Eric
+Njuguna, Henry
+Battey, Katherine A
+Tran, Cuc H
+Fields, Victoria L
+Salvatore, Phillip
+O'Hegarty, Michelle
+Vuong, Jeni
+Chancey, Rebecca
+Gregory, Christopher
+Banks, Michelle
+Rispens, Jared R
+Dietrich, Elizabeth
+Marcenac, Perrine
+Matanock, Almea M
+Duca, Lindsey
+Binder, Allison
+Fox, Garrett
+Lester, Sandra
+Mills, Lisa
+Gerber, Susan I
+Watson, John
+Schumacher, Amy
+Pawloski, Lucia
+Thornburg, Natalie J
+Hall, Aron J
+Kiphibane, Tair
+Willardson, Sarah
+Christensen, Kim
+Page, Lindsey
+Bhattacharyya, Sanjib
+Dasu, Trivikram
+Christiansen, Ann
+Pray, Ian W
+Westergaard, Ryan P
+Dunn, Angela C
+Tate, Jacqueline E
+Nabity, Scott A
+Kirking, Hannah L
+eng
+2020/11/14
+Clin Infect Dis. 2021 Oct 5;73(7):1805-1813. doi: 10.1093/cid/ciaa1166.
+PY  - 2021
+SN  - 1537-6591 (Electronic)
+1058-4838 (Print)
+1058-4838 (Linking)
+SP  - 1805-1813
+ST  - Household Transmission of Severe Acute Respiratory Syndrome Coronavirus-2 in the United States
+T2  - Clin Infect Dis
+TI  - Household Transmission of Severe Acute Respiratory Syndrome Coronavirus-2 in the United States
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33185244
+VL  - 73
+ID  - 7312
+ER  - 
+
+TY  - JOUR
+AU  - Lyngse, Frederik Plesner
+AU  - Mølbak, Kåre
+AU  - Skov, Robert Leo
+AU  - Christiansen, Lasse Engbo
+AU  - Mortensen, Laust Hvas
+AU  - Albertsen, Mads
+AU  - Møller, Camilla Holten
+AU  - Krause, Tyra Grove
+AU  - Rasmussen, Morten
+AU  - Michaelsen, Thomas Yssing
+AU  - Voldstedlund, Marianne
+AU  - Fonager, Jannik
+AU  - Steenhard, Nina
+AU  - Kirkeby, Carsten
+DO  - 10.1101/2021.04.16.21255459
+PY  - 2021
+SP  - 2021.04.16.21255459
+ST  - Increased Transmissibility of SARS-CoV-2 Lineage B.1.1.7 by Age and Viral Load: Evidence from Danish Households
+T2  - medRxiv
+TI  - Increased Transmissibility of SARS-CoV-2 Lineage B.1.1.7 by Age and Viral Load: Evidence from Danish Households
+UR  - https://www.medrxiv.org/content/medrxiv/early/2021/04/19/2021.04.16.21255459.full.pdf
+ID  - 7319
+ER  - 
+
+TY  - JOUR
+AB  - We assessed temporal changes in the household secondary attack rate of severe acute respiratory syndrome coronavirus 2 and identified risk factors for transmission in vulnerable Latino households of Baltimore, Maryland. The household secondary attack rate was 45.8%, and it appeared to increase as the alpha variant spread, highlighting the magnified risk of spread in unvaccinated populations.
+AD  - Department of Emergency Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+Department of Biomedical Engineering, Johns Hopkins University Whiting School of Engineering, Baltimore, Maryland, USA.
+School of Industrial Engineering, Pontificia Universidad Catolica de Valparaiso, Chile.
+Department of Medicine, Johns Hopkins University School of Medicine, Baltimore, Maryland, USA.
+AN  - 34463697
+AU  - Martinez, D. A.
+AU  - Klein, E. Y.
+AU  - Parent, C.
+AU  - Prieto, D.
+AU  - Bigelow, B. F.
+AU  - Saxton, R. E.
+AU  - Page, K. R.
+C2  - PMC8499836
+DA  - May 3
+DB  - Medline
+DO  - 10.1093/cid/ciab753
+DP  - NLM
+ET  - 20210831
+IS  - 9
+KW  - *covid-19
+Family Characteristics
+Hispanic or Latino
+Humans
+*SARS-CoV-2
+Covid-19
+SARS-CoV-2
+disparity
+household
+transmission
+LA  - eng
+N1  - Martinez, Diego A
+Klein, Eili Y
+Parent, Cassandra
+Prieto, Diana
+Bigelow, Benjamin F
+Saxton, Ronald E
+Page, Kathleen R
+eng
+U01 CK000589/CK/NCEZID CDC HHS/
+R01 DA045556/DA/NIDA NIH HHS/
+U01 CK000536/CK/NCEZID CDC HHS/
+Research Support, N.I.H., Extramural
+Research Support, U.S. Gov't, P.H.S.
+2021/09/01
+Clin Infect Dis. 2022 May 3;74(9):1675-1677. doi: 10.1093/cid/ciab753.
+PY  - 2022
+SN  - 1537-6591 (Electronic)
+1058-4838 (Print)
+1058-4838 (Linking)
+SP  - 1675-1677
+ST  - Latino Household Transmission of Severe Acute Respiratory Syndrome Coronavirus 2
+T2  - Clin Infect Dis
+TI  - Latino Household Transmission of Severe Acute Respiratory Syndrome Coronavirus 2
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/34463697
+VL  - 74
+ID  - 7321
+ER  - 
+
+TY  - JOUR
+AB  - BACKGROUND: Improved understanding of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) spectrum of disease is essential for clinical and public health interventions. There are limited data on mild or asymptomatic infections, but recognition of these individuals is key as they contribute to viral transmission. We describe the symptom profiles from individuals with mild or asymptomatic SARS-CoV-2 infection. METHODS: From 22 March to 22 April 2020 in Wisconsin and Utah, we enrolled and prospectively observed 198 household contacts exposed to SARS-CoV-2. We collected and tested nasopharyngeal specimens by real-time reverse-transcription polymerase chain reaction (rRT-PCR) 2 or more times during a 14-day period. Contacts completed daily symptom diaries. We characterized symptom profiles on the date of first positive rRT-PCR test and described progression of symptoms over time. RESULTS: We identified 47 contacts, median age 24 (3-75) years, with detectable SARS-CoV-2 by rRT-PCR. The most commonly reported symptoms on the day of first positive rRT-PCR test were upper respiratory (n = 32 [68%]) and neurologic (n = 30 [64%]); fever was not commonly reported (n = 9 [19%]). Eight (17%) individuals were asymptomatic at the date of first positive rRT-PCR collection; 2 (4%) had preceding symptoms that resolved and 6 (13%) subsequently developed symptoms. Children less frequently reported lower respiratory symptoms (21%, 60%, and 69% for <18, 18-49, and >/=50 years of age, respectively; P = .03). CONCLUSIONS: Household contacts with laboratory-confirmed SARS-CoV-2 infection reported mild symptoms. When assessed at a single timepoint, several contacts appeared to have asymptomatic infection; however, over time all developed symptoms. These findings are important to inform infection control, contact tracing, and community mitigation strategies.
+AD  - COVID-19 Response Team, Centers for Disease Control and Prevention, Atlanta, Georgia, USA.
+Epidemic Intelligence Service, Centers for Disease Control and Prevention, Atlanta, Georgia, USA.
+Laboratory Leadership Service, Centers for Disease Control and Prevention, Atlanta, Georgia, USA.
+North Shore Health Department, Milwaukee, Wisconsin, USA.
+Wisconsin Department of Health, Milwaukee, Wisconsin, USA.
+Utah Department of Health, Salt Lake City, Utah, USA.
+Salt Lake County Health Department, Salt Lake City, Utah, USA.
+City of Milwaukee Health Department, Milwaukee, Wisconsin, USA.
+AN  - 32719874
+AU  - Yousaf, A. R.
+AU  - Duca, L. M.
+AU  - Chu, V.
+AU  - Reses, H. E.
+AU  - Fajans, M.
+AU  - Rabold, E. M.
+AU  - Laws, R. L.
+AU  - Gharpure, R.
+AU  - Matanock, A.
+AU  - Wadhwa, A.
+AU  - Pomeroy, M.
+AU  - Njuguna, H.
+AU  - Fox, G.
+AU  - Binder, A. M.
+AU  - Christiansen, A.
+AU  - Freeman, B.
+AU  - Gregory, C.
+AU  - Tran, C. H.
+AU  - Owusu, D.
+AU  - Ye, D.
+AU  - Dietrich, E.
+AU  - Pevzner, E.
+AU  - Conners, E. E.
+AU  - Pray, I.
+AU  - Rispens, J.
+AU  - Vuong, J.
+AU  - Christensen, K.
+AU  - Banks, M.
+AU  - O'Hegarty, M.
+AU  - Mills, L.
+AU  - Lester, S.
+AU  - Thornburg, N. J.
+AU  - Lewis, N.
+AU  - Dawson, P.
+AU  - Marcenac, P.
+AU  - Salvatore, P.
+AU  - Chancey, R. J.
+AU  - Fields, V.
+AU  - Buono, S.
+AU  - Yin, S.
+AU  - Gerber, S.
+AU  - Kiphibane, T.
+AU  - Dasu, T.
+AU  - Bhattacharyya, S.
+AU  - Westergaard, R.
+AU  - Dunn, A.
+AU  - Hall, A. J.
+AU  - Fry, A. M.
+AU  - Tate, J. E.
+AU  - Kirking, H. L.
+AU  - Nabity, S.
+C2  - PMC7454397
+DA  - Oct 5
+DB  - Medline
+DO  - 10.1093/cid/ciaa1072
+DP  - NLM
+IS  - 7
+KW  - Adult
+*covid-19
+Child
+Contact Tracing
+Fever
+Humans
+Prospective Studies
+*SARS-CoV-2
+Young Adult
+COVID-19 symptoms
+SARS-CoV-2
+community
+LA  - eng
+N1  - Yousaf, Anna R
+Duca, Lindsey M
+Chu, Victoria
+Reses, Hannah E
+Fajans, Mark
+Rabold, Elizabeth M
+Laws, Rebecca L
+Gharpure, Radhika
+Matanock, Almea
+Wadhwa, Ashutosh
+Pomeroy, Mary
+Njuguna, Henry
+Fox, Garrett
+Binder, Alison M
+Christiansen, Ann
+Freeman, Brandi
+Gregory, Christopher
+Tran, Cuc H
+Owusu, Daniel
+Ye, Dongni
+Dietrich, Elizabeth
+Pevzner, Eric
+Conners, Erin E
+Pray, Ian
+Rispens, Jared
+Vuong, Jeni
+Christensen, Kim
+Banks, Michelle
+O'Hegarty, Michelle
+Mills, Lisa
+Lester, Sandra
+Thornburg, Natalie J
+Lewis, Nathaniel
+Dawson, Patrick
+Marcenac, Perrine
+Salvatore, Phillip
+Chancey, Rebecca J
+Fields, Victoria
+Buono, Sean
+Yin, Sherry
+Gerber, Susan
+Kiphibane, Tair
+Dasu, Trivikram
+Bhattacharyya, Sanjib
+Westergaard, Ryan
+Dunn, Angela
+Hall, Aron J
+Fry, Alicia M
+Tate, Jacqueline E
+Kirking, Hannah L
+Nabity, Scott
+eng
+CDC SARS-CoV-2/
+Research Support, Non-U.S. Gov't
+2020/07/29
+Clin Infect Dis. 2021 Oct 5;73(7):e1841-e1849. doi: 10.1093/cid/ciaa1072.
+PY  - 2021
+SN  - 1537-6591 (Electronic)
+1058-4838 (Print)
+1058-4838 (Linking)
+SP  - e1841-e1849
+ST  - A Prospective Cohort Study in Nonhospitalized Household Contacts With Severe Acute Respiratory Syndrome Coronavirus 2 Infection: Symptom Profiles and Symptom Change Over Time
+T2  - Clin Infect Dis
+TI  - A Prospective Cohort Study in Nonhospitalized Household Contacts With Severe Acute Respiratory Syndrome Coronavirus 2 Infection: Symptom Profiles and Symptom Change Over Time
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32719874
+VL  - 73
+ID  - 7331
+ER  - 
+
+TY  - JOUR
+AB  - We investigated three SARS-CoV-2 variant B.1.1.7 childcare centre and related household outbreaks. Despite group cohorting, cases occurred in almost all groups, i.e. also among persons without close contact. Children's secondary attack rates (SAR) were similar to adults (childcare centres: 23% vs 30%; p = 0.15; households: 32% vs 39%; p = 0.27); child- and adult-induced household outbreaks also led to similar SAR. With the advent of B.1.1.7, susceptibility and infectiousness of children and adults seem to converge. Public health measures should be revisited accordingly.
+AD  - Department for Infectious Disease Epidemiology, Robert Koch-Institute, Berlin, Germany.
+These authors contributed equally to this article and share first authorship.
+Federal Office of Administration, Cologne, Germany.
+Local Health Authority Bergstrasse/Hesse, Heppenheim, Germany.
+AN  - 34047274
+AU  - Loenenbach, A.
+AU  - Markus, I.
+AU  - Lehfeld, A. S.
+AU  - An der Heiden, M.
+AU  - Haas, W.
+AU  - Kiegele, M.
+AU  - Ponzi, A.
+AU  - Unger-Goldinger, B.
+AU  - Weidenauer, C.
+AU  - Schlosser, H.
+AU  - Beile, A.
+AU  - Buchholz, U.
+C1  - Conflict of interest: None declared.
+C2  - PMC8161729
+DA  - May
+DB  - Medline
+DO  - 10.2807/1560-7917.ES.2021.26.21.2100433
+DP  - NLM
+IS  - 21
+KW  - Adult
+*covid-19
+Child
+Disease Outbreaks
+Germany/epidemiology
+Humans
+*SARS-CoV-2
+B.1.1.7
+Covid-19
+SARS-CoV-2
+Voc
+childcare centre
+infectiousness
+kindergarten
+outbreak
+secondary attack rate
+susceptibility
+LA  - eng
+N1  - Loenenbach, Anna
+Markus, Inessa
+Lehfeld, Ann-Sophie
+An der Heiden, Matthias
+Haas, Walter
+Kiegele, Maya
+Ponzi, Andre
+Unger-Goldinger, Barbara
+Weidenauer, Cornelius
+Schlosser, Helen
+Beile, Alexander
+Buchholz, Udo
+eng
+Sweden
+2021/05/29
+Euro Surveill. 2021 May;26(21):2100433. doi: 10.2807/1560-7917.ES.2021.26.21.2100433.
+PY  - 2021
+SN  - 1560-7917 (Electronic)
+1025-496X (Print)
+1025-496X (Linking)
+ST  - SARS-CoV-2 variant B.1.1.7 susceptibility and infectiousness of children and adults deduced from investigations of childcare centre outbreaks, Germany, 2021
+T2  - Euro Surveill
+TI  - SARS-CoV-2 variant B.1.1.7 susceptibility and infectiousness of children and adults deduced from investigations of childcare centre outbreaks, Germany, 2021
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/34047274
+VL  - 26
+ID  - 7315
+ER  - 
+
+TY  - JOUR
+AB  - A COVID-19 outbreak occurred among residents of a Roma settlement in Greece (8 April-4 June 2020). The aim of this study was to identify factors associated with an increased risk of severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection and to evaluate the effectiveness of control measures implemented. Data were analyzed from individuals that were tested for SARS-CoV-2 during contact tracing, population screening or hospital visits. RT-PCR was used for the detection of SARS-CoV-2 in oropharyngeal samples. Risk factors for household secondary attack rates (SAR) and hospitalization with COVID-19 were examined using chi-square tests, Fisher's exact tests and logistic regression analyses. During the outbreak, 142 cases, 20 hospitalizations and 1 death were recorded, with a total of 2273 individuals tested. The risk of hospitalization was associated with age (OR: 1.04, 95% CI: 1.02-1.07) and Cycle threshold (Ct) values (OR for a decrease in Ct values by 1: 1.18, 95% CI: 1.07-1.31). Household SAR was estimated at 38.62% (95% CI: 32.50-45.01%). After the designation of an isolation facility for cases, household SAR declined from 74.42% to 31.03%. Household size was associated with the risk of infection (OR: 2.65, 95% CI: 1.00-7.07). The presence of COVID-19 symptoms among index cases was correlated with higher transmission (OR: 23.68, 95% CI 2.21-253.74) in multivariate analysis, while age was found to be associated with SAR only in univariate analysis. Roma communities can be particularly vulnerable to the spread of SARS-CoV-2. In similar settings, symptomatic cases are more important transmitters of SARS-CoV-2. Within these communities, immediate measures should be implemented to mitigate disease spread.
+AD  - Laboratory of Hygiene and Epidemiology, Faculty of Medicine, University of Thessaly, 41222 Larissa, Greece.
+Department of Immunology and Histocompatibility, Faculty of Medicine, University of Thessaly, 41110 Larissa, Greece.
+General Hospital of Larissa, 41221 Larissa, Greece.
+Region of Thessaly, Koumoundourou & Papanastasiou str, 41222 Larissa, Greece.
+Emergency Department, University Hospital of Larissa, Mezourlo, 41110 Larissa, Greece.
+Hellenic National Public Health Organization, 15123 Athens, Greece.
+Local Health Unit of Ampelokipi, 5th Regional Health Authority of Thessaly & Sterea, Ministry of Health, 41447 Larissa, Greece.
+Hellenic National Blood Transfusion Center, 13677 Athens, Greece.
+Department of Microbiology, Faculty of Medicine, University of Thessaly, 41110 Larissa, Greece.
+Department of Nursing, University of the Peloponnese, 22100 Tripoli, Greece.
+Medical School, National and Kapodistrian University of Athens, 15772 Athens, Greece.
+AN  - 33799791
+AU  - Koureas, M.
+AU  - Speletas, M.
+AU  - Bogogiannidou, Z.
+AU  - Babalis, D.
+AU  - Pinakas, V.
+AU  - Pinaka, O.
+AU  - Komnos, A.
+AU  - Tsoutsa, S.
+AU  - Papadamou, G.
+AU  - Kyritsi, M. A.
+AU  - Vontas, A.
+AU  - Nakoulas, V.
+AU  - Sapoynas, S.
+AU  - Kanellopoulos, N.
+AU  - Kalompatsios, D.
+AU  - Papadouli, V.
+AU  - Dadouli, K.
+AU  - Soteriades, S.
+AU  - Mina, P.
+AU  - Mouchtouri, V. A.
+AU  - Anagnostopoulos, L.
+AU  - Stamoulis, K. E.
+AU  - Agorastos, K.
+AU  - Petinaki, E. A.
+AU  - Prezerakos, P.
+AU  - Tsiodras, S.
+AU  - Hadjichristodoulou, C.
+C1  - The authors declare no conflict of interest.
+C2  - PMC8002111
+DA  - Mar 11
+DB  - Medline
+DO  - 10.3390/ijerph18062878
+DP  - NLM
+ET  - 20210311
+IS  - 6
+KW  - *covid-19
+Disease Outbreaks
+Greece/epidemiology
+Humans
+*Roma
+SARS-CoV-2
+Covid-19
+asymptomatic transmission
+control measures
+household transmission
+vulnerable populations
+LA  - eng
+N1  - Koureas, Michalis
+Speletas, Matthaios
+Bogogiannidou, Zacharoula
+Babalis, Dimitris
+Pinakas, Vassilios
+Pinaka, Ourania
+Komnos, Apostolos
+Tsoutsa, Stella
+Papadamou, Georgia
+Kyritsi, Maria A
+Vontas, Alexandros
+Nakoulas, Vasileios
+Sapoynas, Spyros
+Kanellopoulos, Nikolaos
+Kalompatsios, Dimitrios
+Papadouli, Vassiliki
+Dadouli, Katerina
+Soteriades, Soteris
+Mina, Paraskevi
+Mouchtouri, Varvara A
+Anagnostopoulos, Lemonia
+Stamoulis, Kostantinos E
+Agorastos, Kostantinos
+Petinaki, Efthimia A
+Prezerakos, Panagiotis
+Tsiodras, Sotirios
+Hadjichristodoulou, Christos
+eng
+Switzerland
+2021/04/04
+Int J Environ Res Public Health. 2021 Mar 11;18(6):2878. doi: 10.3390/ijerph18062878.
+PY  - 2021
+SN  - 1660-4601 (Electronic)
+1661-7827 (Print)
+1660-4601 (Linking)
+ST  - Transmission Dynamics of SARS-CoV-2 during an Outbreak in a Roma Community in Thessaly, Greece-Control Measures and Lessons Learned
+T2  - Int J Environ Res Public Health
+TI  - Transmission Dynamics of SARS-CoV-2 during an Outbreak in a Roma Community in Thessaly, Greece-Control Measures and Lessons Learned
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33799791
+VL  - 18
+ID  - 7310
+ER  - 
+
+TY  - JOUR
+AB  - There is limited information on severe acute respiratory syndrome coronavirus 2 (SARS-CoV-2) infection clustering within families with children. We aimed to study the transmission dynamics of SARS-CoV-2 within families with children in Greece. We studied 23 family clusters of coronavirus disease 2019 (COVID-19). Infection was diagnosed by reverse-transcriptase polymerase chain reaction in respiratory specimens. The level of viral load was categorized as high, moderate, or low based on the cycle threshold values. There were 109 household members (66 adults and 43 children). The median attack rate per cluster was 60% (range: 33.4%-100%). An adult member with COVID-19 was the first case in 21 (91.3%) clusters. Transmission of infection occurred from an adult to a child in 19 clusters and/or from an adult to another adult in 12 clusters. There was no evidence of child-to-adult or child-to-child transmission. In total 68 household members (62.4%) tested positive. Children were more likely to have an asymptomatic SARS-CoV-2 infection compared to adults (40% vs 10.5%; P = .021). In contrast, adults were more likely to develop a severe clinical course compared with children (8.8% vs 0%; P = .021). In addition, infected children were significantly more likely to have a low viral load while adults were more likely to have a moderate viral load (40.7% and 18.6% vs 13.8% and 51.7%, respectively; P = .016). In conclusion, while children become infected by SARS-CoV-2, they do not appear to transmit infection to others. Furthermore, children more frequently have an asymptomatic or mild course compared to adults. Further studies are needed to elucidate the role of viral load on these findings.
+AD  - Directorate of Epidemiological Surveillance and Interventions for Infectious Diseases, National Public Health Organization, Athens, Greece.
+National Reference Laboratory for Influenza and other Respiratory Viruses, Hellenic Pasteur Institute, Athens, Greece.
+Department of Microbiology, Medical School, National and Kapodistrian University of Athens, Athens, Greece.
+Department of Microbiology, Medical School, Aristotle University of Thessaloniki, Thessaloniki, Greece.
+Infectious Diseases Division, First Internal Medicine Department, School of Medicine, Aristotle University of Thessaloniki, Thessaloniki, Greece.
+Infection Prevention and Control Committee, Aghia Sofia Children's Hospital, Athens, Greece.
+Epidemiological Surveillance of HIV/AIDS Department, National Public Health Organization, Athens, Greece.
+Internal Medicine Department, Mpodosakeio General Prefecture Hospital of Ptolemaida, Ptolemaida, Greece.
+Third Department of Pediatrics, School of Medicine, Aristotle University of Thessaloniki, Thessaloniki, Greece.
+AN  - 32767703
+AU  - Maltezou, H. C.
+AU  - Vorou, R.
+AU  - Papadima, K.
+AU  - Kossyvakis, A.
+AU  - Spanakis, N.
+AU  - Gioula, G.
+AU  - Exindari, M.
+AU  - Metallidis, S.
+AU  - Lourida, A. N.
+AU  - Raftopoulos, V.
+AU  - Froukala, E.
+AU  - Martinez-Gonzalez, B.
+AU  - Mitsianis, A.
+AU  - Roilides, E.
+AU  - Mentis, A.
+AU  - Tsakris, A.
+AU  - Papa, A.
+C2  - PMC7441283
+DA  - Mar
+DB  - Medline
+DO  - 10.1002/jmv.26394
+DP  - NLM
+ET  - 20200826
+IS  - 3
+KW  - Adolescent
+Adult
+Aged
+Aged, 80 and over
+Asymptomatic Infections
+COVID-19/epidemiology/physiopathology/*transmission/virology
+Child
+Child, Preschool
+*Disease Hotspot
+Family Health
+Female
+Greece/epidemiology
+Humans
+Infant
+Male
+Middle Aged
+SARS-CoV-2/physiology
+Severity of Illness Index
+Viral Load
+Young Adult
+Covid-19
+SARS-CoV-2
+children
+cluster
+family
+LA  - eng
+N1  - Maltezou, Helena C
+Vorou, Rengina
+Papadima, Kalliopi
+Kossyvakis, Athanasios
+Spanakis, Nikolaos
+Gioula, Georgia
+Exindari, Maria
+Metallidis, Symeon
+Lourida, Athanasia N
+Raftopoulos, Vasilios
+Froukala, Elisavet
+Martinez-Gonzalez, Beatriz
+Mitsianis, Athanasios
+Roilides, Emmanuel
+Mentis, Andreas
+Tsakris, Athanasios
+Papa, Anna
+eng
+2020/08/09
+J Med Virol. 2021 Mar;93(3):1414-1420. doi: 10.1002/jmv.26394. Epub 2020 Aug 26.
+PY  - 2021
+SN  - 1096-9071 (Electronic)
+0146-6615 (Print)
+0146-6615 (Linking)
+SP  - 1414-1420
+ST  - Transmission dynamics of SARS-CoV-2 within families with children in Greece: A study of 23 clusters
+T2  - J Med Virol
+TI  - Transmission dynamics of SARS-CoV-2 within families with children in Greece: A study of 23 clusters
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/32767703
+VL  - 93
+ID  - 7320
+ER  - 
+
+TY  - JOUR
+AB  - In daycare centres, the close contact of children with other children and employees favours the transmission of infections. The majority of children <6 years attend daycare programmes in Germany, but the role of daycare centres in the SARS-CoV-2 pandemic is unclear. We investigated the transmission risk in daycare centres and the spread of SARS-CoV-2 to associated households. 30 daycare groups with at least one recent laboratory-confirmed SARS-CoV-2 case were enrolled in the study (10/2020-06/2021). Close contact persons within daycare and households were examined over a 12-day period (repeated SARS-CoV-2 PCR tests, genetic sequencing of viruses, symptom diary). Households were interviewed to gain comprehensive information on each outbreak. We determined primary cases for all daycare groups. The number of secondary cases varied considerably between daycare groups. The pooled secondary attack rate (SAR) across all 30 daycare centres was 9.6%. The SAR tended to be higher when the Alpha variant was detected (15.9% vs. 5.1% with evidence of wild type). The household SAR was 53.3%. Exposed daycare children were less likely to get infected with SARS-CoV-2 than employees (7.7% vs. 15.5%). Containment measures in daycare programmes are critical to reduce SARS-CoV-2 transmission, especially to avoid spread to associated households.
+AD  - Department of Epidemiology and Health Monitoring, Robert Koch Institute, Berlin, Germany.
+Department of Infectious Disease Epidemiology, Robert Koch Institute, Berlin, Germany.
+Centre for Biological Threats and Special Pathogens, Robert Koch Institute, Berlin, Germany.
+Department of Methodology and Research Infrastructure, Robert Koch Institute, Berlin, Germany.
+Leadership Robert Koch Institute, Robert Koch Institute, Berlin, Germany.
+AN  - 35912971
+AU  - Loss, J.
+AU  - Wurm, J.
+AU  - Varnaccia, G.
+AU  - Schienkiewitz, A.
+AU  - Iwanowski, H.
+AU  - Loer, A. M.
+AU  - Allen, J.
+AU  - Wess, B.
+AU  - Schaffrath Rosario, A.
+AU  - Damerow, S.
+AU  - Kuttig, T.
+AU  - Perlitz, H.
+AU  - Hornbacher, A.
+AU  - Finkel, B.
+AU  - Krause, C.
+AU  - Wormsbacher, J.
+AU  - Sandoni, A.
+AU  - Kubisch, U.
+AU  - Eggers, K.
+AU  - Nitsche, A.
+AU  - Radonic, A.
+AU  - Trappe, K.
+AU  - Drechsel, O.
+AU  - Klaper, K.
+AU  - Franke, A.
+AU  - Huther, A.
+AU  - Buchholz, U.
+AU  - Haas, W.
+AU  - Wieler, L. H.
+AU  - Jordan, S.
+C2  - PMC9343344
+DA  - Jul 8
+DB  - Medline
+DO  - 10.1017/S0950268822001194
+DP  - NLM
+ET  - 20220708
+KW  - *COVID-19/epidemiology
+Child
+Disease Outbreaks
+Humans
+Pandemics
+*SARS-CoV-2
+Children
+SARS-CoV-2
+daycare centres
+secondary attack rate
+transmission
+N1  - Loss, Julika
+Wurm, Juliane
+Varnaccia, Gianni
+Schienkiewitz, Anja
+Iwanowski, Helena
+Loer, Anne-Kathrin Mareike
+Allen, Jennifer
+Wess, Barbara
+Schaffrath Rosario, Angelika
+Damerow, Stefan
+Kuttig, Tim
+Perlitz, Hanna
+Hornbacher, Anselm
+Finkel, Bianca
+Krause, Carolin
+Wormsbacher, Jan
+Sandoni, Anna
+Kubisch, Ulrike
+Eggers, Kiara
+Nitsche, Andreas
+Radonic, Aleksandar
+Trappe, Kathrin
+Drechsel, Oliver
+Klaper, Kathleen
+Franke, Andrea
+Huther, Antje
+Buchholz, Udo
+Haas, Walter
+Wieler, Lothar H
+Jordan, Susanne
+eng
+Research Support, Non-U.S. Gov't
+England
+2022/08/02
+Epidemiol Infect. 2022 Jul 8;150:e141. doi: 10.1017/S0950268822001194.
+PY  - 2022
+SN  - 1469-4409 (Electronic)
+0950-2688 (Print)
+0950-2688 (Linking)
+SP  - e141
+ST  - Transmission of SARS-CoV-2 among children and staff in German daycare centres
+T2  - Epidemiol Infect
+TI  - Transmission of SARS-CoV-2 among children and staff in German daycare centres
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/35912971
+VL  - 150
+ID  - 7316
+ER  - 
+
+TY  - JOUR
+AB  - Improved understanding of transmission of SARS-CoV-2, the virus that causes coronavirus disease 2019 (COVID-19), within households could aid control measures. However, few studies have systematically characterized the transmission of SARS-CoV-2 in U.S. households (1). Previously reported transmission rates vary widely, and data on transmission rates from children are limited. To assess household transmission, a case-ascertained study was conducted in Nashville, Tennessee, and Marshfield, Wisconsin, commencing in April 2020. In this study, index patients were defined as the first household members with COVID-19-compatible symptoms who received a positive SARS-CoV-2 reverse transcription-polymerase chain reaction (RT-PCR) test result, and who lived with at least one other household member. After enrollment, index patients and household members were trained remotely by study staff members to complete symptom diaries and obtain self-collected specimens, nasal swabs only or nasal swabs and saliva samples, daily for 14 days. For this analysis, specimens from the first 7 days were tested for SARS-CoV-2 using CDC RT-PCR protocols.(dagger) A total of 191 enrolled household contacts of 101 index patients reported having no symptoms on the day of the associated index patient's illness onset, and among these 191 contacts, 102 had SARS-CoV-2 detected in either nasal or saliva specimens during follow-up, for a secondary infection rate of 53% (95% confidence interval [CI] = 46%-60%). Among fourteen households in which the index patient was aged <18 years, the secondary infection rate from index patients aged <12 years was 53% (95% CI = 31%-74%) and from index patients aged 12-17 years was 38% (95% CI = 23%-56%). Approximately 75% of secondary infections were identified within 5 days of the index patient's illness onset, and substantial transmission occurred whether the index patient was an adult or a child. Because household transmission of SARS-CoV-2 is common and can occur rapidly after the index patient's illness onset, persons should self-isolate immediately at the onset of COVID-like symptoms, at the time of testing as a result of a high risk exposure, or at the time of a positive test result, whichever comes first. Concurrent to isolation, all members of the household should wear a mask when in shared spaces in the household.( section sign).
+AN  - 33151916
+AU  - Grijalva, C. G.
+AU  - Rolfes, M. A.
+AU  - Zhu, Y.
+AU  - McLean, H. Q.
+AU  - Hanson, K. E.
+AU  - Belongia, E. A.
+AU  - Halasa, N. B.
+AU  - Kim, A.
+AU  - Reed, C.
+AU  - Fry, A. M.
+AU  - Talbot, H. K.
+C1  - All authors have completed and submitted the International Committee of Medical Journal Editors form for disclosure of potential conflicts of interest. Carlos G. Grijalva reports personal consulting fees from Sanofi, Merck, and Pfizer; grants from Sanofi, Campbell Alliance, the National Institutes of Health, the Agency for HealthCare Research and Quality, and a contract from the Food and Drug Administration, outside the submitted work. Natasha B. Halasa reports grants from Sanofi and Quidel and personal fees from Genetech, outside the submitted work. No other potential conflicts of interest were disclosed.
+C2  - PMC7643897
+DA  - Nov 6
+DB  - Medline
+DO  - 10.15585/mmwr.mm6944e1
+DP  - NLM
+ET  - 20201106
+IS  - 44
+KW  - Adolescent
+Adult
+Aged
+Betacoronavirus/isolation & purification
+Covid-19
+COVID-19 Testing
+Child
+Child, Preschool
+Clinical Laboratory Techniques
+Coronavirus Infections/diagnosis/epidemiology/*transmission
+*Family Characteristics
+Female
+Humans
+Male
+Middle Aged
+Pandemics
+Pneumonia, Viral/diagnosis/epidemiology/*transmission
+Prospective Studies
+SARS-CoV-2
+Tennessee/epidemiology
+Wisconsin/epidemiology
+Young Adult
+LA  - eng
+N1  - Grijalva, Carlos G
+Rolfes, Melissa A
+Zhu, Yuwei
+McLean, Huong Q
+Hanson, Kayla E
+Belongia, Edward A
+Halasa, Natasha B
+Kim, Ahra
+Reed, Carrie
+Fry, Alicia M
+Talbot, H Keipp
+eng
+K24 AI148459/AI/NIAID NIH HHS/
+U01 IP001078/IP/NCIRD CDC HHS/
+U01 IP001083/IP/NCIRD CDC HHS/
+2020/11/06
+MMWR Morb Mortal Wkly Rep. 2020 Nov 6;69(44):1631-1634. doi: 10.15585/mmwr.mm6944e1.
+PY  - 2020
+SN  - 1545-861X (Electronic)
+0149-2195 (Print)
+0149-2195 (Linking)
+SP  - 1631-1634
+ST  - Transmission of SARS-COV-2 Infections in Households - Tennessee and Wisconsin, April-September 2020
+T2  - MMWR Morb Mortal Wkly Rep
+TI  - Transmission of SARS-COV-2 Infections in Households - Tennessee and Wisconsin, April-September 2020
+UR  - https://www.ncbi.nlm.nih.gov/pubmed/33151916
+VL  - 69
+ID  - 7307
+ER  - 
+
